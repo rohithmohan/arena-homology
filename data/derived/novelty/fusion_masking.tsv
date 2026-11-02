@@ -1,0 +1,9 @@
+chain	partners	masked_fraction	action	length
+9TY2_H069WL0000|A	MBP (E. coli malE)	0.946	partner_is_antigen_not_masked	387
+9ZG5_H064RL0000|A	GFP (A. victoria)	0.987	partner_is_antigen_not_masked	239
+9UAQ_H05MGL0000|G	GFP (A. victoria)	1.0	partner_is_antigen_not_masked	225
+9XQN_H05HJL0473|A	BRIL / cytochrome b562	0.239	masked	422
+9XQB_H05RSL04C7|C	BRIL / cytochrome b562	0.244	masked	431
+9PX5_H05PCL048P|A	MBP (E. coli malE)	0.744	masked	492
+8Z74_H04WXL0000|C	BRIL / cytochrome b562	0.22	masked	477
+8QJ2_H04MNL0000|A	BRIL / cytochrome b562; DsRed (mCherry parent)	0.44	masked	729

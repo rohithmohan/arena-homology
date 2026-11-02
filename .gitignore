@@ -9,3 +9,13 @@ data/derived/mmseqs/tmp_*/
 __pycache__/
 *.pyc
 .DS_Store
+data/pdb/
+data/derived/novelty/fusion/
+data/derived/novelty/*.m8
+data/derived/novelty/candidate_chains.fasta
+data/derived/novelty/tmp_*/
+data/derived/novelty/run06.log
+data/derived/novelty/masked_clusters/*_all_seqs.fasta
+data/derived/novelty/masked_clusters/*_rep_seq.fasta
+data/derived/novelty/masked_clusters/tmp*/
+data/derived/novelty/masked_clusters/allvsall.m8

@@ -22,3 +22,7 @@ python3 -I scripts/02_fetch_sequences.py      # caches RCSB responses in data/ra
 python3 -I scripts/03_cluster.py
 python3 -I scripts/04_rescore.py              # asserts the published leaderboard numbers first
 python3 -I scripts/05_report.py
+# follow-up: training-set novelty (needs models_cutoffs.csv; downloads ~70 MB of PDB data into data/pdb/)
+python3 -I scripts/06_pdb_novelty.py
+python3 -I scripts/07_novelty_scoring.py
+python3 -I scripts/08_report_novelty.py
