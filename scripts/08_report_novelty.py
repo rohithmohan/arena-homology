@@ -160,7 +160,7 @@ a{color:var(--s1)}
 .answer{border-left:3px solid var(--s1);padding:2px 0 2px 16px;margin:18px 0}
 .answer p{margin:8px 0}
 .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:4px 0 10px;font-size:13.5px;color:var(--ink2)}
-select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--axis);border-radius:8px;padding:4px 8px}
+select{max-width:100%;min-width:0;font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--axis);border-radius:8px;padding:4px 8px}
 .legend{display:flex;flex-wrap:wrap;gap:16px;font-size:13px;color:var(--ink2);margin:2px 0 8px}
 .legend span{display:inline-flex;align-items:center;gap:6px}
 .key-dot{width:10px;height:10px;border-radius:50%;display:inline-block}
@@ -219,7 +219,7 @@ padding:8px 10px;font-size:12.5px;box-shadow:0 4px 16px rgba(0,0,0,.14);display:
 <h3>Common subset (__N_COMMON__ targets novel for every model with a known cutoff)</h3>
 <div class="card scroll"><table><thead><tr><th>Model</th><th class="num">n</th><th class="num">Mean DockQ</th><th class="num">95% CI</th><th class="num">Rank [95%]</th><th class="num">P(#1)</th><th class="num">Accept. %</th><th class="num">Full set</th></tr></thead>
 <tbody>__LB_COMMON__</tbody></table></div>
-<h3>Common subset without Protenix-v1-20250630 (__N_COMMON_PRE__ targets)</h3>
+<h3>Common subset without Protenix-v1-20250630 (__N_COMMON_PRE__ targets; that model is left out because it trained on some of them)</h3>
 <div class="card scroll"><table><thead><tr><th>Model</th><th class="num">n</th><th class="num">Mean DockQ</th><th class="num">95% CI</th><th class="num">Rank [95%]</th><th class="num">P(#1)</th><th class="num">Accept. %</th><th class="num">Full set</th></tr></thead>
 <tbody>__LB_COMMON_PRE__</tbody></table></div>
 <p class="cap">Ranks are among models with a known cutoff only. ▲/▼ compare with the same models' full-set ranks.</p>
@@ -307,14 +307,14 @@ function drawL(){const k=document.getElementById('selL').value;
  const lo=Math.min(...D.lb[k].map(o=>o.lo).filter(x=>!isNaN(x)),...D.lb[k].map(o=>o.full));const hi=Math.max(...D.lb[k].map(o=>o.hi).filter(x=>!isNaN(x)),...D.lb[k].map(o=>o.full));
  const a=Math.floor(lo*20)/20,b=Math.ceil(hi*20)/20;const ticks=[];for(let t=a;t<=b+1e-9;t+=0.05)ticks.push(+t.toFixed(2));
  dotCI('chartL',rows,{domain:[a,b],ticks,fmt:t=>t.toFixed(2),label:'Novel-only leaderboard',left:170});}
-function sym(vals){const m=Math.max(0.05,...vals.map(Math.abs));const s=Math.ceil(m*20)/20;const ticks=[];for(let t=-s;t<=s+1e-9;t+=s/2)ticks.push(+t.toFixed(3));return {d:[-s,s],ticks};}
+function sym(vals){const m=Math.max(0.05,...vals.filter(v=>v!=null&&!isNaN(v)).map(Math.abs));const step=[0.05,0.1,0.2,0.25,0.5].find(st=>Math.ceil(m/st)<=3)||0.5;const k=Math.ceil(m/step);const ticks=[];for(let i=-k;i<=k;i++)ticks.push(+(i*step).toFixed(3));return {d:[-k*step,k*step],ticks};}
 function drawP(){const vals=D.pe.flatMap(r=>[r.lo,r.hi]);const {d,ticks}=sym(vals);
  dotCI('chartP',D.pe.map(r=>({label:`${r.label} (n=${r.n})`,series:[{v:r.d,lo:r.lo,hi:r.hi,c:'--s1',tip:[[sg(r.d),'DockQ, 2025 − 2021'],[`95% CI ${sg(r.lo)} to ${sg(r.hi)}`],[r.label]]}]})),
-  {domain:d,ticks,fmt:t=>(t>0?'+':'')+t.toFixed(2),zero:true,label:'Protenix-v1 cutoff comparison',left:260});}
+  {domain:d,ticks,fmt:t=>(t>0?'+':'')+t.toFixed(2),zero:true,label:'Protenix-v1 cutoff comparison',left:300});}
 function drawM(){const vals=D.mc.flatMap(r=>[r.lo,r.hi,r.llo??0,r.lhi??0]);const {d,ticks}=sym(vals);
  dotCI('chartM',D.mc.map(r=>({label:`${r.label} (n=${r.n})`,series:[{v:r.rel,lo:r.lo,hi:r.hi,c:'--s1',dy:-5,tip:[[sg(r.rel),'Mol-1 − peers'],[`95% CI ${sg(r.lo)} to ${sg(r.hi)}`],[r.label]]},
   {v:r.lrel,lo:r.llo,hi:r.lhi,c:'--s2',dy:5,tip:[[r.lrel==null?'–':sg(r.lrel),'later-cutoff models − peers'],[r.llo==null?'':`95% CI ${sg(r.llo)} to ${sg(r.lhi)}`]]}]})),
-  {domain:d,ticks,fmt:t=>(t>0?'+':'')+t.toFixed(2),zero:true,label:'Mol-1 consistency check',left:260});}
+  {domain:d,ticks,fmt:t=>(t>0?'+':'')+t.toFixed(2),zero:true,label:'Mol-1 consistency check',left:300});}
 function drawAll(){drawS();drawL();drawP();drawM();}
 document.getElementById('selL').addEventListener('change',drawL);
 let rt;addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(drawAll,150);});
@@ -323,6 +323,17 @@ new MutationObserver(drawAll).observe(document.documentElement,{attributes:true,
 drawAll();
 </script></body></html>"""
 
+uw = MC.get('_unique_wins', {}).get('Mol-1', {})
+uw_txt = ', '.join(f"{v[0]}/{v[1]} {k}" for k, v in uw.items())
+others_uw = '; '.join(f"{m}: " + ', '.join(f"{v[0]}/{v[1]}" for v in d.values()) for m, d in MC.get('_unique_wins', {}).items() if m != 'Mol-1')
+fill = {'__TAU__': f"{L['own']['tau_vs_full']:.2f}", '__TAU_NOCX__': f"{L['no_complex']['tau_vs_full']:.2f}",
+        '__OWNDID__': (f"{PE['_own_vs_after']['did']:+.3f} (95% CI {PE['_own_vs_after']['lo']:+.3f} to {PE['_own_vs_after']['hi']:+.3f})" if '_own_vs_after' in PE else '–'),
+        '__ALLD__': (f"{PE['_all']['d']:+.3f} (95% CI {PE['_all']['lo']:+.3f} to {PE['_all']['hi']:+.3f})" if '_all' in PE else '–'),
+        '__UW__': esc(uw_txt) + ' (the other top models, same strata: ' + esc(others_uw) + ')',
+        '__FP__': f"{MC.get('_unique_win_fisher_p', float('nan')):.2f}"}
+for k in ('lb_own_cap', 'pe_cap', 'mc_cap', 'cl_cap'):
+    for a, b in fill.items():
+        NARR[k] = NARR[k].replace(a, b)
 rep = {
     '__SUMMARY__': NARR['summary'], '__CUT_ROWS__': '\n'.join(cut_rows), '__STRATA_ROWS__': '\n'.join(strata_rows),
     '__LB_OWN__': lb_rows(L['own']), '__LB_COMMON__': lb_rows(L['common']), '__LB_COMMON_PRE__': lb_rows(L['common_pre2024']),

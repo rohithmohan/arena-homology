@@ -20,3 +20,4 @@ data/derived/novelty/masked_clusters/*_rep_seq.fasta
 data/derived/novelty/masked_clusters/tmp*/
 data/derived/novelty/masked_clusters/allvsall.m8
 data/derived/novelty/pdb_heavy_anarci.tsv*
+data/derived/novelty/run07.log

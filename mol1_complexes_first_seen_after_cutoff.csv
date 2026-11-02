@@ -1,0 +1,10 @@
+target,antigen,first_entry,first_release,n_entries,is_arena_target,mol1,best_other_top,peers,boltz2,boltz2_cutoff_after_first,rf3_25,rf3_25_cutoff_after_first,promera,promera_cutoff_after_first,protenix1_25,protenix1_25_cutoff_after_first
+9XBG_H06G4L04WF,Tetanus toxin heavy chain,7OH0,2021-10-27,1,False,0.834,0.8796,0.20374166666666668,0.0147,True,0.0303,True,0.0091,True,0.0215,True
+9Y3J_H03VTL0000,CFTR inhibitory factor,8F6V,2024-03-13,1,False,0.0791,0.938,0.16821666666666668,0.0077,False,0.0085,False,0.0519,False,0.0104,True
+9PZZ_H06BKL0000,Activity-regulated cytoskeleton-associated protein,7R1Z,2022-06-01,5,False,0.9322,0.904,0.8473916666666668,0.8762,True,0.8821,True,0.9091,True,0.9016,True
+9VDY_H05H3L04BA,Envelopment polyprotein,8XK6,2024-07-10,1,False,0.9599,0.9677,0.30220833333333336,0.0065,False,0.0052,False,0.0051,False,0.4543,True
+9K0C_H04WSL03RC,Sodium- and chloride-dependent taurine transporter,9KMI,2025-07-02,6,True,0.7932,0.7946,0.5510583333333333,0.7145,False,0.8187,False,0.532,False,0.8405,False
+9LFL_H040RL044G,Tumor necrosis factor receptor superfamily member 1B,8HLB,2023-10-04,1,False,0.0216,0.4329,0.061633333333333325,0.006,False,0.0768,True,0.0159,True,0.023,True
+8WZ5_H04JYL03HB,RSV Fusion glycoprotein,8WZ4,2024-11-06,1,True,0.8357,0.0164,0.012966666666666666,0.0255,False,0.009,False,0.0568,False,0.0042,True
+8VGQ_H04C5L03CA,GTPase KRas,7MDP,2022-03-16,3,False,0.6309,0.0802,0.06314999999999998,0.8776,True,0.066,True,0.0293,True,0.1341,True
+8TV5_H04S7L03D7,Ephrin type-A receptor 2,8TV1,2024-06-26,1,False,0.0623,0.0869,0.060208333333333336,0.079,False,0.0591,False,0.0523,False,0.0945,True

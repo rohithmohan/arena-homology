@@ -166,7 +166,8 @@ def main():
     # ---------------- novel-only leaderboards
     K = np.array(known)
 
-    def leaderboard(mask, label):
+    def leaderboard(mask, label, K=K):
+        K = np.array(K)
         point, boot = boot_subset_means(mask)
         pk, bk = point[K], boot[:, K]
         rk = R4.ranks(pk)
@@ -193,7 +194,7 @@ def main():
     pre24 = [j for j in K if cut[mids[j]] < '2024-09-09']
     common_pre = np.all(novel[:, pre24], axis=1)
     lb_common_pre = leaderboard(np.repeat(common_pre[:, None], M, 1),
-                                'common subset excluding cutoffs after 2024-09-09 (Protenix-v1-20250630)')
+                                'common subset excluding cutoffs after 2024-09-09 (Protenix-v1-20250630)', K=pre24)
     nocx = ~CX
     lb_nocx = leaderboard(np.where(np.isnan(ID), False, nocx), 'own set without a seen complex')
     res['leaderboards'] = dict(own=lb_own, common=lb_common, common_pre2024=lb_common_pre, no_complex=lb_nocx,
@@ -251,6 +252,13 @@ def main():
             pe[c]['did'] = float(d[m].mean() - d[base].mean())
             pe[c]['did_lo'], pe[c]['did_hi'] = float(np.nanpercentile(bd, 2.5)), float(np.nanpercentile(bd, 97.5))
         m_after = ~own25
+        gs1 = np.zeros(G); gn1 = np.zeros(G); gs0 = np.zeros(G); gn0 = np.zeros(G)
+        np.add.at(gs1, gidx[own25], d[own25]); np.add.at(gn1, gidx[own25], 1)
+        np.add.at(gs0, gidx[m_after], d[m_after]); np.add.at(gn0, gidx[m_after], 1)
+        with np.errstate(invalid='ignore', divide='ignore'):
+            bd = (C @ gs1) / (C @ gn1) - (C @ gs0) / (C @ gn0)
+        pe['_own_vs_after'] = dict(did=float(d[own25].mean() - d[m_after].mean()),
+                                   lo=float(np.nanpercentile(bd, 2.5)), hi=float(np.nanpercentile(bd, 97.5)))
         mean, lo, hi = boot_vec(d, m_after)
         pe['_targets_released_after_2025_cutoff'] = dict(n=int(m_after.sum()), d=float(mean), lo=float(lo), hi=float(hi))
         mean, lo, hi = boot_vec(d)
@@ -312,6 +320,45 @@ def main():
                          round(entry.get('rel', np.nan), 4), round(entry.get('lo', np.nan), 4), round(entry.get('hi', np.nan), 4),
                          round(entry.get('did', np.nan), 4), round(entry.get('did_lo', np.nan), 4),
                          round(entry.get('did_hi', np.nan), 4), round(entry.get('later_rel', np.nan), 4)])
+        # unique wins: a top model beating the best of the other top models by >= 0.3 DockQ
+        from scipy.stats import fisher_exact
+        top = [mids.index(x) for x in ('mol1', 'opendde', 'opendde_abag', 'protenix2') if x in mids]
+        cats4 = np.array(['novel until target release' if c == 'novel until target release' else
+                          'antigen seen' if c.startswith('antigen') else c for c in cat], dtype=object)
+        uw = {}
+        for j in top:
+            others = [o for o in top if o != j]
+            win = S[:, j] - S[:, others].max(1) >= 0.3
+            uw[names[j]] = {c: [int(win[cats4 == c].sum()), int((cats4 == c).sum())] for c in
+                            ['novel until target release', 'antigen seen', 'complex seen before 2021-09-30',
+                             'complex first seen after 2021-09-30']}
+            if mids[j] == 'mol1':
+                inside = cats4 == 'complex first seen after 2021-09-30'
+                tab = [[int(win[inside].sum()), int((~win[inside]).sum())],
+                       [int(win[~inside].sum()), int((~win[~inside]).sum())]]
+                mc['_unique_win_fisher_p'] = float(fisher_exact(tab, alternative='greater')[1])
+        mc['_unique_wins'] = uw
+        lst = []
+        for i, k in enumerate(keys):
+            if cat[i] != 'complex first seen after 2021-09-30':
+                continue
+            first = min((h for h in hits[k] if h[3] and c0 <= h[0] < trel[i]), key=lambda h: h[0])
+            ents = [r for r in csv.DictReader(open(os.path.join(NOV, 'target_entry_hits.tsv')), delimiter='\t')
+                    if r['target'] == k and r['complex'] == '1' and c0 <= r['release'] < trel[i]]
+            fe = min(ents, key=lambda r: r['release'])
+            row = dict(target=k, antigen='; '.join(ag_desc.get(k, []))[:60], first_entry=fe['entry'],
+                       first_release=fe['release'], n_entries=len(ents),
+                       is_arena_target=fe['entry'] in {t['pdb'].upper() for t in targets},
+                       mol1=float(S[i, jm]), best_other_top=float(S[i, [o for o in top if o != jm]].max()),
+                       peers=float(S[i, peers].mean()))
+            for x in ('boltz2', 'rf3_25', 'promera', 'protenix1_25'):
+                if x in mids:
+                    row[x] = float(S[i, mids.index(x)])
+                    row[x + '_cutoff_after_first'] = cut.get(x, '9999') > fe['release']
+            lst.append(row)
+        mc['_complex_after_targets'] = sorted(lst, key=lambda r: r['first_release'])
+        wcsv('mol1_complexes_first_seen_after_cutoff.csv', list(lst[0].keys()) if lst else ['target'],
+             [[r[c] for c in lst[0].keys()] for r in lst] if lst else [])
         mc['_peers'] = [names[j] for j in peers]
         mc['_later'] = [names[j] for j in later]
         wcsv('mol1_consistency_check.csv', ['stratum', 'n_targets', 'mol1_mean', 'same_cutoff_peers_mean',

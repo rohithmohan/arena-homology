@@ -1,0 +1,8 @@
+stratum,n_targets,protenix_v1_2021_mean,protenix_v1_2025_mean,diff_2025_minus_2021,ci_lo,ci_hi,acc_2021_pct,acc_2025_pct
+novel at both (<50%),26,0.1891,0.2659,0.0768,-0.0184,0.1924,26.9,42.3
+antigen seen by both (>=50%),210,0.2277,0.2268,-0.0008,-0.0317,0.0304,31.4,31.0
+antigen newly seen 2021->2025,18,0.1811,0.1985,0.0174,-0.0874,0.138,27.8,27.8
+complex newly seen 2021->2025,5,0.2284,0.2822,0.0538,-0.0278,0.1552,40.0,40.0
+target itself in 2025 training set,163,0.2305,0.2903,0.0598,0.0161,0.1013,32.5,39.9
+all targets released after 2025-06-30,259,,,0.0093,-0.0187,0.0379,,
+all targets,422,,,0.0288,0.0037,0.054,,

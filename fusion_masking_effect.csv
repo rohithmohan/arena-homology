@@ -1,0 +1,3 @@
+grouping,change,target_a,target_b,antigen_a,antigen_b
+ag30,split by masking,9XQN_H05HJL0473,9XQB_H05RSL04C7,"Probable G-protein coupled receptor 75,Soluble cytochrome b562",A2A receptor-BRIL
+ag50_shortcov,split by masking,9TY2_H069WL0000,9PX5_H05PCL048P,Maltose/maltodextrin-binding periplasmic protein,"Maltose/maltodextrin-binding periplasmic protein,Triggering receptor expressed on myeloid cells 2"

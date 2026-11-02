@@ -1,0 +1,6 @@
+stratum,n_targets,mol1_mean,same_cutoff_peers_mean,mol1_minus_peers,ci_lo,ci_hi,diff_vs_novel_stratum,did_ci_lo,did_ci_hi,later_cutoff_models_minus_peers
+novel until target release,40,0.3352,0.2123,0.1229,0.0444,0.2036,nan,nan,nan,-0.0129
+antigen first seen after 2021-09-30,30,0.3317,0.2152,0.1165,0.0322,0.21,-0.0064,-0.1281,0.1119,-0.0666
+complex first seen after 2021-09-30,9,0.5721,0.2523,0.3198,0.0995,0.5451,0.1969,-0.0391,0.4306,-0.0217
+antigen seen before 2021-09-30,326,0.3449,0.2194,0.1255,0.094,0.1576,0.0026,-0.0836,0.0894,-0.0399
+complex seen before 2021-09-30,17,0.6223,0.3499,0.2724,0.1543,0.3887,0.1495,-0.0033,0.2917,0.0087
