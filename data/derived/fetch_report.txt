@@ -1,0 +1,8 @@
+PDB entries requested=420 returned=420 missing=[]
+chain lookups ok=1223 problems=0
+label-ID interpretation: chain id absent as label id in 309 lookups, maps to a different entity in 257 lookups (auth IDs used throughout)
+heavy chains recognised as VH (ANARCI H domain, or VH motif if no ANARCI): 420/422; trim methods: {'anarci_H': 420, 'fallback_first125': 2}; VH length range 111-171
+heavy chains not recognised as VH: ['9DJW_H02W6L0000:Antigen receptor:fallback_first125', '9KQC_H05TAL0000:VNAR:fallback_first125']
+light chains recognised as VL: 295/295
+non-protein chains: []
+antigen chains with VH-like motif (antibody-as-antigen?): ['9NRJ_H04ZSL0000:A:M1-specific T cell receptor alpha chain', '9NRJ_H04ZSL0000:B:M1-specific T cell receptor beta chain', '9ODB_H05ZVL04GH:D:chicken IgY heavy chain,Ig-like domain-containing protein']

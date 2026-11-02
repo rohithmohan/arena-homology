@@ -1,0 +1,161 @@
+[
+ {
+  "id": "afmult_np",
+  "name": "AF-Multimer",
+  "org": "Google DeepMind",
+  "release": "2021-10-04",
+  "lineage": "alphafold-multimer",
+  "paramsM": 93
+ },
+ {
+  "id": "chai1_np",
+  "name": "Chai-1",
+  "org": "Chai Discovery",
+  "release": "2024-09-09",
+  "lineage": "chai",
+  "paramsM": 316
+ },
+ {
+  "id": "boltz1",
+  "name": "Boltz-1",
+  "org": "MIT · Genesis",
+  "release": "2024-11-16",
+  "lineage": "boltz",
+  "paramsM": 592
+ },
+ {
+  "id": "protenix05",
+  "name": "Protenix-v0.5",
+  "org": "ByteDance",
+  "release": "2025-05-30",
+  "lineage": "protenix",
+  "paramsM": 368
+ },
+ {
+  "id": "boltz2",
+  "name": "Boltz-2",
+  "org": "MIT · Recursion",
+  "release": "2025-06-06",
+  "lineage": "boltz",
+  "paramsM": 521
+ },
+ {
+  "id": "rf3_21",
+  "name": "RosettaFold3-09/21",
+  "org": "IPD · Baker Lab",
+  "release": "2025-08-15",
+  "lineage": "rosettafold3",
+  "paramsM": 366
+ },
+ {
+  "id": "rf3_25",
+  "name": "RosettaFold3-01/24",
+  "org": "IPD · Baker Lab",
+  "release": "2025-08-15",
+  "lineage": "rosettafold3",
+  "paramsM": 366
+ },
+ {
+  "id": "protenix1_21",
+  "name": "Protenix-v1",
+  "org": "ByteDance",
+  "release": "2026-02-05",
+  "note": "2021 cutoff",
+  "lineage": "protenix",
+  "paramsM": 368
+ },
+ {
+  "id": "protenix1_25",
+  "name": "Protenix-v1-20250630",
+  "org": "ByteDance",
+  "release": "2026-02-05",
+  "note": "2025 cutoff",
+  "cutoff": "2025-06-30",
+  "lineage": "protenix",
+  "paramsM": 368
+ },
+ {
+  "id": "intellifold2",
+  "name": "IntelliFold-2",
+  "org": "IntelliGen",
+  "release": "2026-02-07",
+  "lineage": "intellifold",
+  "paramsM": 850
+ },
+ {
+  "id": "intellifold2_flash",
+  "name": "IntelliFold-2-Flash",
+  "org": "IntelliGen",
+  "release": "2026-02-07",
+  "note": "12 pairformer blocks",
+  "lineage": "intellifold",
+  "paramsM": 109
+ },
+ {
+  "id": "of3p2_np",
+  "name": "OpenFold3-p2",
+  "org": "OpenFold",
+  "release": "2026-03-13",
+  "lineage": "openfold3",
+  "paramsM": 572
+ },
+ {
+  "id": "protenix2",
+  "name": "Protenix-v2",
+  "org": "ByteDance",
+  "release": "2026-04-08",
+  "lineage": "protenix",
+  "paramsM": 464
+ },
+ {
+  "id": "esmfold2",
+  "name": "ESMFold2",
+  "org": "CZ Biohub",
+  "release": "2026-05-27",
+  "lineage": "esmfold2",
+  "paramsM": 234
+ },
+ {
+  "id": "esmfold2_fast",
+  "name": "ESMFold2-Fast",
+  "org": "CZ Biohub",
+  "release": "2026-05-27",
+  "nomsaOnly": true,
+  "note": "single-sequence; not MSA-conditioned",
+  "lineage": "esmfold2",
+  "paramsM": 188
+ },
+ {
+  "id": "promera",
+  "name": "Promera",
+  "org": "MIT · UT Austin",
+  "release": "2026-06-10",
+  "lineage": "promera",
+  "paramsM": 471
+ },
+ {
+  "id": "opendde",
+  "name": "OpenDDE",
+  "org": "Aureka",
+  "release": "2026-07-06",
+  "lineage": "opendde",
+  "paramsM": 656
+ },
+ {
+  "id": "opendde_abag",
+  "name": "OpenDDE-AbAg",
+  "org": "Aureka",
+  "release": "2026-07-06",
+  "lineage": "opendde",
+  "paramsM": 656
+ },
+ {
+  "id": "mol1",
+  "name": "Mol-1",
+  "org": "Molence Bio",
+  "release": "2026-10-27",
+  "trainingCutoff": "2021-09-30",
+  "lineage": "mol1",
+  "paramsM": 577
+ }
+]

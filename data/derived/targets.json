@@ -1,0 +1,6838 @@
+[
+ {
+  "pdb": "12PG",
+  "abId": "sabdab2_H06FZL0000",
+  "antigen": "VP1",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "E"
+  ],
+  "release": "2026-10-28",
+  "resolution": 2.2,
+  "method": "X-Ray",
+  "nStructures": 6,
+  "agUniProt": "B2DD27"
+ },
+ {
+  "pdb": "46GH",
+  "abId": "sabdab2_H06G2L0000",
+  "antigen": "Apoptosis regulator BHRF1",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-10-28",
+  "resolution": 3.4,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P0C6Z1"
+ },
+ {
+  "pdb": "9UTO",
+  "abId": "sabdab2_H06G5L0000",
+  "antigen": "Oxytocin receptor",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-10-28",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P30559"
+ },
+ {
+  "pdb": "9XBG",
+  "abId": "sabdab2_H06G4L04WF",
+  "antigen": "Tetanus toxin heavy chain",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-10-28",
+  "resolution": 2.75,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04958"
+ },
+ {
+  "pdb": "10ND",
+  "abId": "sabdab2_H06FQL0000",
+  "antigen": "Interleukin-10 receptor subunit alpha",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-10-21",
+  "resolution": 2.4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q13651"
+ },
+ {
+  "pdb": "9ZNU",
+  "abId": "sabdab2_H06FRL04W9",
+  "antigen": "Circumsporozoite protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "G"
+  ],
+  "release": "2026-10-21",
+  "resolution": 3.36,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q8I9H7"
+ },
+ {
+  "pdb": "45AR",
+  "abId": "sabdab2_H06FAL0000",
+  "antigen": "Major histocompatibility complex class I-related gene protein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-10-07",
+  "resolution": 3,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q95460"
+ },
+ {
+  "pdb": "9TVR",
+  "abId": "sabdab2_H06F4L04VV",
+  "antigen": "Fibroblast growth factor receptor 4",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-10-07",
+  "resolution": 3.25,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P22455"
+ },
+ {
+  "pdb": "9WYW",
+  "abId": "sabdab2_H06F8L04W0",
+  "antigen": "Ubiquitin",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "E",
+   "F"
+  ],
+  "release": "2026-10-07",
+  "resolution": 2.2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P0CG48+P62979"
+ },
+ {
+  "pdb": "13HA",
+  "abId": "sabdab2_H06EHL0013",
+  "antigen": "Tumor necrosis factor receptor superfamily member 8",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-09-30",
+  "resolution": 2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P28908"
+ },
+ {
+  "pdb": "21BO",
+  "abId": "sabdab2_H06EWL04VG",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-09-30",
+  "resolution": 3.28,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0AAX6NN08"
+ },
+ {
+  "pdb": "38PM",
+  "abId": "sabdab2_H06ECL04V5",
+  "antigen": "Glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "G"
+  ],
+  "release": "2026-09-30",
+  "resolution": 3.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9QSP1"
+ },
+ {
+  "pdb": "9QE6",
+  "abId": "sabdab2_H06ETL0000",
+  "antigen": "Mothers against decapentaplegic homolog 4",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-09-30",
+  "resolution": 2.1,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q13485"
+ },
+ {
+  "pdb": "9ZCJ",
+  "abId": "sabdab2_H06E9L04V3",
+  "antigen": "Serine protease complement C2b",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "C",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-09-30",
+  "resolution": 2.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P06681"
+ },
+ {
+  "pdb": "9ZMQ",
+  "abId": "sabdab2_H06E8L04V2",
+  "antigen": "Nucleoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-09-30",
+  "resolution": 2.79,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q8JPR4"
+ },
+ {
+  "pdb": "21RN",
+  "abId": "sabdab2_H06DTL04TQ",
+  "antigen": "Myeloperoxidase",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "F"
+  ],
+  "release": "2026-09-16",
+  "resolution": 2.95,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q6RFG4"
+ },
+ {
+  "pdb": "9ZRS",
+  "abId": "sabdab2_H06DPL04TK",
+  "antigen": "Invasin IpaD",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "D"
+  ],
+  "release": "2026-09-16",
+  "resolution": 3.4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P18013"
+ },
+ {
+  "pdb": "9Y3J",
+  "abId": "sabdab2_H03VTL0000",
+  "antigen": "CFTR inhibitory factor",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-09-09",
+  "resolution": 1.95,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A0M3KL26"
+ },
+ {
+  "pdb": "25RG",
+  "abId": "sabdab2_H06CYL04SX",
+  "antigen": "Shiga toxin subunit B",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A",
+   "D"
+  ],
+  "release": "2026-09-02",
+  "resolution": 2.5,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q32GM0"
+ },
+ {
+  "pdb": "29CP",
+  "abId": "sabdab2_H06CGL04SK",
+  "antigen": "IgLON family member 5",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-09-02",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "A6NGN9"
+ },
+ {
+  "pdb": "9S9E",
+  "abId": "sabdab2_H05QDL0000",
+  "antigen": "Cytotoxin 1",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "C",
+   "D"
+  ],
+  "release": "2026-09-02",
+  "resolution": 1.31,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01468"
+ },
+ {
+  "pdb": "12ID",
+  "abId": "sabdab2_H06BEL04RZ",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "E",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-08-26",
+  "resolution": 2.4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q0PLR5"
+ },
+ {
+  "pdb": "12IF",
+  "abId": "sabdab2_H06C3L04SC",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "E",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-08-26",
+  "resolution": 3.98,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A4P8YRB6"
+ },
+ {
+  "pdb": "23VF",
+  "abId": "sabdab2_H06B2L04RT",
+  "antigen": "Cell adhesion molecule CEACAM1",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "E"
+  ],
+  "release": "2026-08-26",
+  "resolution": 1.793,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P13688"
+ },
+ {
+  "pdb": "25SB",
+  "abId": "sabdab2_H06BDL04RY",
+  "antigen": "Shiga toxin subunit B",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A",
+   "D",
+   "G"
+  ],
+  "release": "2026-08-26",
+  "resolution": 2,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q7WZI6"
+ },
+ {
+  "pdb": "28JE",
+  "abId": "sabdab2_H06BZL0000",
+  "antigen": "Capsid protein VP1",
+  "format": "VHH",
+  "Hchain": "F",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B",
+   "E"
+  ],
+  "release": "2026-08-26",
+  "resolution": 2.492,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A3G2SFE7"
+ },
+ {
+  "pdb": "33CG",
+  "abId": "sabdab2_H06C9L04SG",
+  "antigen": "MHC class I antigen",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "D",
+  "agChains": [
+   "A",
+   "C"
+  ],
+  "release": "2026-08-26",
+  "resolution": 2.2,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "F6IQS1+P43358"
+ },
+ {
+  "pdb": "9IBF",
+  "abId": "sabdab2_H06BRL04S4",
+  "antigen": "High affinity immunoglobulin gamma Fc receptor I",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-26",
+  "resolution": 3.2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P12314"
+ },
+ {
+  "pdb": "9PZZ",
+  "abId": "sabdab2_H06BKL0000",
+  "antigen": "Activity-regulated cytoskeleton-associated protein",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-08-26",
+  "resolution": 1.56,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q7LC44"
+ },
+ {
+  "pdb": "9QJQ",
+  "abId": "sabdab2_H06BAL0000",
+  "antigen": "Gamma-aminobutyric acid receptor subunit alpha-3",
+  "format": "VHH",
+  "Hchain": "F",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-26",
+  "resolution": 2.63,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "P34903"
+ },
+ {
+  "pdb": "9QJR",
+  "abId": "sabdab2_H06CAL0000",
+  "antigen": "Gamma-aminobutyric acid receptor subunit alpha-2",
+  "format": "VHH",
+  "Hchain": "F",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-26",
+  "resolution": 2.92,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P47869"
+ },
+ {
+  "pdb": "11IW",
+  "abId": "sabdab2_H06C5L04SD",
+  "antigen": "Glycoprotein",
+  "format": "Fab",
+  "Hchain": "K",
+  "Lchain": "J",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-19",
+  "resolution": 3.01,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P08667"
+ },
+ {
+  "pdb": "9S6K",
+  "abId": "sabdab2_H06AKL0000",
+  "antigen": "GTP pyrophosphokinase",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-08-12",
+  "resolution": 3.15,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q8KC80"
+ },
+ {
+  "pdb": "9W7J",
+  "abId": "sabdab2_H06ABL04RA",
+  "antigen": "Spike glycoprotein E2,Spike glycoprotein E1",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-08-12",
+  "resolution": 2.97,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q5XXP3"
+ },
+ {
+  "pdb": "27UH",
+  "abId": "sabdab2_H069PL0000",
+  "antigen": "Protein S100-A4",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B",
+   "D"
+  ],
+  "release": "2026-08-05",
+  "resolution": 1.82,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P26447"
+ },
+ {
+  "pdb": "43YY",
+  "abId": "sabdab2_H06A2L04R1",
+  "antigen": "Spike glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-05",
+  "resolution": 2.3,
+  "method": "Em",
+  "nStructures": 5,
+  "agUniProt": "A0A7G4RNN0"
+ },
+ {
+  "pdb": "9PUM",
+  "abId": "sabdab2_H06A3L0000",
+  "antigen": "Hemagglutinin-neuraminidase",
+  "format": "VHH",
+  "Hchain": "H",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-05",
+  "resolution": 2.8,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P12561"
+ },
+ {
+  "pdb": "9SLQ",
+  "abId": "sabdab2_H06A0L0000",
+  "antigen": "phosphopyruvate hydratase",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-05",
+  "resolution": 2.33,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9NDH8"
+ },
+ {
+  "pdb": "9TY2",
+  "abId": "sabdab2_H069WL0000",
+  "antigen": "Maltose/maltodextrin-binding periplasmic protein",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-08-05",
+  "resolution": 1.75,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P0AEY0"
+ },
+ {
+  "pdb": "9ZRM",
+  "abId": "sabdab2_H069ML04QS",
+  "antigen": "Envelope protein E",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "Z"
+  ],
+  "release": "2026-07-29",
+  "resolution": 1.8,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9Q6P4"
+ },
+ {
+  "pdb": "9PLP",
+  "abId": "sabdab2_H060BL04GT",
+  "antigen": "Netrin-1",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-22",
+  "resolution": 4.99,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q90922"
+ },
+ {
+  "pdb": "9PMS",
+  "abId": "sabdab2_H069HL04QP",
+  "antigen": "Thy-1 membrane glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-07-22",
+  "resolution": 3.56,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04216"
+ },
+ {
+  "pdb": "9RWI",
+  "abId": "sabdab2_H069GL04QN",
+  "antigen": "HLA class I histocompatibility antigen, alpha chain G",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-22",
+  "resolution": 3.45,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P17693"
+ },
+ {
+  "pdb": "9VWO",
+  "abId": "sabdab2_H068QL0000",
+  "antigen": "Oncostatin-M",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-22",
+  "resolution": 2.45,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P13725"
+ },
+ {
+  "pdb": "9XTU",
+  "abId": "sabdab2_H067DL04NX",
+  "antigen": "Spike protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-07-22",
+  "resolution": 2.96,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "M9PMH7"
+ },
+ {
+  "pdb": "13BF",
+  "abId": "sabdab2_H068NL04Q0",
+  "antigen": "Collagen alpha-3(VI) chain",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-15",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P12111"
+ },
+ {
+  "pdb": "13BR",
+  "abId": "sabdab2_H068JL04PX",
+  "antigen": "Zinc-alpha-2-glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-15",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P25311"
+ },
+ {
+  "pdb": "13BS",
+  "abId": "sabdab2_H068ML04PZ",
+  "antigen": "Interleukin-36 receptor antagonist protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-15",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9UBH0"
+ },
+ {
+  "pdb": "9RUF",
+  "abId": "sabdab2_H0686L04PH",
+  "antigen": "HLA class II histocompatibility antigen, DQ beta 1 chain",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-07-15",
+  "resolution": 2.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P01920"
+ },
+ {
+  "pdb": "9RUG",
+  "abId": "sabdab2_H068KL04PY",
+  "antigen": "Lymphocyte antigen",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-07-15",
+  "resolution": 2.74,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q29967"
+ },
+ {
+  "pdb": "9RUH",
+  "abId": "sabdab2_H068AL04PM",
+  "antigen": "HLA class II histocompatibility antigen DQ beta chain",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-07-15",
+  "resolution": 2.74,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q5Y7D6"
+ },
+ {
+  "pdb": "9VSO",
+  "abId": "sabdab2_H0689L04PK",
+  "antigen": "HLA class I antigen",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "J",
+  "agChains": [
+   "C",
+   "T"
+  ],
+  "release": "2026-07-15",
+  "resolution": 3.03,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P19544+Q53Z42"
+ },
+ {
+  "pdb": "9OEF",
+  "abId": "sabdab2_H0682L04PD",
+  "antigen": "Spike protein VP38",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-07-08",
+  "resolution": 2.69,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "C7BG48"
+ },
+ {
+  "pdb": "9RMK",
+  "abId": "sabdab2_H067JL0000",
+  "antigen": "Oligosaccharyltransferase",
+  "format": "VHH",
+  "Hchain": "F",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-08",
+  "resolution": 3.3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "G1FG65"
+ },
+ {
+  "pdb": "9VT4",
+  "abId": "sabdab2_H067PL0000",
+  "antigen": "Envelope glycoprotein",
+  "format": "VHH",
+  "Hchain": "G",
+  "Lchain": null,
+  "agChains": [
+   "B",
+   "E"
+  ],
+  "release": "2026-07-08",
+  "resolution": 2.96,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A5J6EDK7+G8DB49"
+ },
+ {
+  "pdb": "10FJ",
+  "abId": "sabdab2_H066PL04N6",
+  "antigen": "Low affinity immunoglobulin gamma Fc region receptor II-a",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-01",
+  "resolution": 3.5,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P12318"
+ },
+ {
+  "pdb": "9MSK",
+  "abId": "sabdab2_H066YL04ND",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "E"
+  ],
+  "release": "2026-07-01",
+  "resolution": 2.23,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P27958"
+ },
+ {
+  "pdb": "9P9Q",
+  "abId": "sabdab2_H066BL04MV",
+  "antigen": "Hemagglutinin HA1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-01",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q82566"
+ },
+ {
+  "pdb": "9PZB",
+  "abId": "sabdab2_H061HL04M1",
+  "antigen": "Envelope glycoprotein H",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-07-01",
+  "resolution": 3.2,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q69155"
+ },
+ {
+  "pdb": "9WMQ",
+  "abId": "sabdab2_H034TL04VH",
+  "antigen": "Cap",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "F"
+  ],
+  "release": "2026-07-01",
+  "resolution": 1.73,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A6B9EZK0"
+ },
+ {
+  "pdb": "9VH4",
+  "abId": "sabdab2_H065SL0000",
+  "antigen": "Hemagglutinin HA1 chain",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2026-06-24",
+  "resolution": 2.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P03452"
+ },
+ {
+  "pdb": "9VH5",
+  "abId": "sabdab2_H0666L0000",
+  "antigen": "Hemagglutinin",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2026-06-24",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A2P1ADR1+B4UPJ0"
+ },
+ {
+  "pdb": "9RH1",
+  "abId": "sabdab2_H0637L00DJ",
+  "antigen": "Na(+)/H(+) antiporter NhaA",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-06-17",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 15,
+  "agUniProt": "P13738"
+ },
+ {
+  "pdb": "9YQ6",
+  "abId": "sabdab2_H0634L00B6",
+  "antigen": "Hemagglutinin-neuraminidase",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "E",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-06-10",
+  "resolution": 2.95,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q81080"
+ },
+ {
+  "pdb": "12QJ",
+  "abId": "sabdab2_H064EL04KC",
+  "antigen": "Choline binding protein E CbpE",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-06-03",
+  "resolution": 3.35,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9KGZ1"
+ },
+ {
+  "pdb": "13FL",
+  "abId": "sabdab2_H065JL0013",
+  "antigen": "Programmed cell death 1 ligand 1",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-06-03",
+  "resolution": 2.22,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9NZQ7"
+ },
+ {
+  "pdb": "9ZG5",
+  "abId": "sabdab2_H064RL0000",
+  "antigen": "Green fluorescent protein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-06-03",
+  "resolution": 3.4,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A059PIQ0"
+ },
+ {
+  "pdb": "11HA",
+  "abId": "sabdab2_H064JL04KG",
+  "antigen": "Major capsid protein VP1",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "K",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-27",
+  "resolution": 2.7,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A1P8DD09"
+ },
+ {
+  "pdb": "11LT",
+  "abId": "sabdab2_H063WL04JX",
+  "antigen": "Capsid protein VP1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B",
+   "C"
+  ],
+  "release": "2026-05-27",
+  "resolution": 2.63,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A4D5YIF3+A0A5C0Q0H5"
+ },
+ {
+  "pdb": "25PV",
+  "abId": "sabdab2_H065KL04M8",
+  "antigen": "Protective antigen PA-63",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-27",
+  "resolution": 3.03,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P13423"
+ },
+ {
+  "pdb": "35UH",
+  "abId": "sabdab2_H0644L04K4",
+  "antigen": "Tissue factor pathway inhibitor",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-05-27",
+  "resolution": 3.11,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q2PFV4"
+ },
+ {
+  "pdb": "9QQS",
+  "abId": "sabdab2_H063KL0000",
+  "antigen": "Multiple epidermal growth factor-like domains protein 8",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-05-27",
+  "resolution": 2.65,
+  "method": "Em",
+  "nStructures": 4,
+  "agUniProt": "Q7Z7M0"
+ },
+ {
+  "pdb": "9UUF",
+  "abId": "sabdab2_H0645L0000",
+  "antigen": "Spike glycoprotein",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-05-27",
+  "resolution": 4.37,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A0A0Q7F6"
+ },
+ {
+  "pdb": "9V2U",
+  "abId": "sabdab2_H063DL024N",
+  "antigen": "Claudin-18",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-27",
+  "resolution": 3.8,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P56856"
+ },
+ {
+  "pdb": "9VL2",
+  "abId": "sabdab2_H037PL02HX",
+  "antigen": "Myeloid cell surface antigen CD33",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-27",
+  "resolution": 3.18,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P20138"
+ },
+ {
+  "pdb": "9Y7L",
+  "abId": "sabdab2_H063ZL04K1",
+  "antigen": "Assemblin",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-27",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P16753"
+ },
+ {
+  "pdb": "9YXV",
+  "abId": "sabdab2_H04YBL03MQ",
+  "antigen": "U1 small nuclear ribonucleoprotein A",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-27",
+  "resolution": 2.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P09012"
+ },
+ {
+  "pdb": "9YXV",
+  "abId": "sabdab2_H04YZL03MW",
+  "antigen": "Protein G",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "D",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-05-27",
+  "resolution": 2.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P19909"
+ },
+ {
+  "pdb": "11ZW",
+  "abId": "sabdab2_H0195L012W",
+  "antigen": "PDCoV IL121_2014 receptor binding domain",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-13",
+  "resolution": 2.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "F1NWE3"
+ },
+ {
+  "pdb": "12OY",
+  "abId": "sabdab2_H0607L0000",
+  "antigen": "Mitochondrial carrier homolog 2,Mitochondrial brown fat uncoupling protein 1",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-13",
+  "resolution": 3.6,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "P25874"
+ },
+ {
+  "pdb": "9EBC",
+  "abId": "sabdab2_H0615L04H9",
+  "antigen": "Hemagglutinin HA1",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "H",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-13",
+  "resolution": 2.87,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0AAX6NNG0"
+ },
+ {
+  "pdb": "9OJ4",
+  "abId": "sabdab2_H060FL04GY",
+  "antigen": "Leucine-rich repeat-containing protein 15",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-05-13",
+  "resolution": 2.57,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q80X72"
+ },
+ {
+  "pdb": "9XZX",
+  "abId": "sabdab2_H060QL0000",
+  "antigen": "Enterotoxin type C-2",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-05-06",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P34071"
+ },
+ {
+  "pdb": "9Y3X",
+  "abId": "sabdab2_H060TL04H4",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "E"
+  ],
+  "release": "2026-05-06",
+  "resolution": 3.39,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "G8EHJ9"
+ },
+ {
+  "pdb": "21AQ",
+  "abId": "sabdab2_H0616L04HA",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "H"
+  ],
+  "release": "2026-04-29",
+  "resolution": 2.97,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "A0A7S9CEK0"
+ },
+ {
+  "pdb": "9RIG",
+  "abId": "sabdab2_H055HL03YF",
+  "antigen": "Genome polyprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2026-04-29",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A2L1GIK5+E5RPG5"
+ },
+ {
+  "pdb": "9RIJ",
+  "abId": "sabdab2_H05GAL0465",
+  "antigen": "Genome polyprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2026-04-29",
+  "resolution": 3.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A811CJB4+F8SSL7"
+ },
+ {
+  "pdb": "9UOC",
+  "abId": "sabdab2_H060ZL0000",
+  "antigen": "Spike glycoprotein",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-04-29",
+  "resolution": 3.24,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A0B5KY46"
+ },
+ {
+  "pdb": "29ON",
+  "abId": "sabdab2_H0614L0000",
+  "antigen": "Antiseptic resistance protein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-04-22",
+  "resolution": 3.32,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P0A0J9"
+ },
+ {
+  "pdb": "9QQE",
+  "abId": "sabdab2_H0604L04GM",
+  "antigen": "MHC class I antigen",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-04-15",
+  "resolution": 2.78,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "U5YJM1"
+ },
+ {
+  "pdb": "9QQF",
+  "abId": "sabdab2_H061CL04HF",
+  "antigen": "MHC class I antigen",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-04-15",
+  "resolution": 3.23,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A5H2UF23"
+ },
+ {
+  "pdb": "9NP0",
+  "abId": "sabdab2_H05Q5L04B7",
+  "antigen": "Annexin A1",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-04-01",
+  "resolution": 3.32,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04083"
+ },
+ {
+  "pdb": "9JKR",
+  "abId": "sabdab2_H05QRL04BW",
+  "antigen": "Granulocyte-macrophage colony-stimulating factor",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "I"
+  ],
+  "release": "2026-03-25",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04141"
+ },
+ {
+  "pdb": "9T5Z",
+  "abId": "sabdab2_H05HXL047A",
+  "antigen": "Integrin beta-2",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-03-25",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P05107"
+ },
+ {
+  "pdb": "9U5Q",
+  "abId": "sabdab2_H021VL04BC",
+  "antigen": "Protease 3C",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-03-25",
+  "resolution": 3.35,
+  "method": "Em",
+  "nStructures": 4,
+  "agUniProt": "P03303"
+ },
+ {
+  "pdb": "9ULP",
+  "abId": "sabdab2_H05QNL0000",
+  "antigen": "Iron-hydroxamate ABC transporter substrate-binding protein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-03-25",
+  "resolution": 2.55,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A5S4TPK8"
+ },
+ {
+  "pdb": "10OP",
+  "abId": "sabdab2_H003SL003N",
+  "antigen": "Envelope glycoprotein 2",
+  "format": "Fab",
+  "Hchain": "S",
+  "Lchain": "T",
+  "agChains": [
+   "B",
+   "F"
+  ],
+  "release": "2026-03-18",
+  "resolution": 2.63,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "R4QJ45"
+ },
+ {
+  "pdb": "9M72",
+  "abId": "sabdab2_H0566L03YZ",
+  "antigen": "p15",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-03-18",
+  "resolution": 3.75,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q65179"
+ },
+ {
+  "pdb": "9MA0",
+  "abId": "sabdab2_H051DL03VM",
+  "antigen": "Envelope glycoprotein GP350",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-03-18",
+  "resolution": 3.33,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P03200"
+ },
+ {
+  "pdb": "9S6R",
+  "abId": "sabdab2_H05XXL011A",
+  "antigen": "Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-03-18",
+  "resolution": 3.08,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P38179"
+ },
+ {
+  "pdb": "9S6T",
+  "abId": "sabdab2_H05XZL04FH",
+  "antigen": "Mannosyltransferase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-03-18",
+  "resolution": 2.42,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "F1P077"
+ },
+ {
+  "pdb": "9WWH",
+  "abId": "sabdab2_H05MBL0494",
+  "antigen": "Interleukin-33 (109-270)",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-03-18",
+  "resolution": 3.51,
+  "method": "X-Ray",
+  "nStructures": 3,
+  "agUniProt": "O95760"
+ },
+ {
+  "pdb": "9NCY",
+  "abId": "sabdab2_H05RGL04C3",
+  "antigen": "Circumsporozoite protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-03-11",
+  "resolution": 1.63,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q7K740"
+ },
+ {
+  "pdb": "9YXD",
+  "abId": "sabdab2_H014TL00TE",
+  "antigen": "Glycoprotein hormones alpha chain",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "C",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2026-03-11",
+  "resolution": 2.29,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01215+P01225"
+ },
+ {
+  "pdb": "9IAR",
+  "abId": "sabdab2_H056YL0000",
+  "antigen": "Sodium-independent sulfate anion transporter",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-03-04",
+  "resolution": 3.2,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q86WA9"
+ },
+ {
+  "pdb": "9W45",
+  "abId": "sabdab2_H05R2L0000",
+  "antigen": "Guanine nucleotide-binding protein G(s) subunit alpha",
+  "format": "VHH",
+  "Hchain": "N",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2026-03-04",
+  "resolution": 3.2,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P62873+Q5FWY2"
+ },
+ {
+  "pdb": "9WAI",
+  "abId": "sabdab2_H05MQL049D",
+  "antigen": "Capsid protein VP2",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "F",
+  "agChains": [
+   "B",
+   "D"
+  ],
+  "release": "2026-03-04",
+  "resolution": 2.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P03300"
+ },
+ {
+  "pdb": "9ZEN",
+  "abId": "sabdab2_H05H0L0000",
+  "antigen": "Histone H2A type 1-B/E",
+  "format": "VHH",
+  "Hchain": "K",
+  "Lchain": null,
+  "agChains": [
+   "G",
+   "H"
+  ],
+  "release": "2026-03-04",
+  "resolution": 3.17,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "O60814+P04908"
+ },
+ {
+  "pdb": "9I5N",
+  "abId": "sabdab2_H05EML044T",
+  "antigen": "CD40 ligand, soluble form",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-02-25",
+  "resolution": 3.4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P29965"
+ },
+ {
+  "pdb": "9JNO",
+  "abId": "sabdab2_H05ARL041Y",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-02-18",
+  "resolution": 1.95,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "A0A2Z5DTY1"
+ },
+ {
+  "pdb": "9L8Z",
+  "abId": "sabdab2_H0548L03XK",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-02-18",
+  "resolution": 3.448,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "A0A8F6YIY6"
+ },
+ {
+  "pdb": "9LSY",
+  "abId": "sabdab2_H062PL04JJ",
+  "antigen": "TRA@ protein",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "C",
+  "agChains": [
+   "D"
+  ],
+  "release": "2026-02-18",
+  "resolution": 3.23,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q6PJ56"
+ },
+ {
+  "pdb": "9N7Q",
+  "abId": "sabdab2_H05HCL046Y",
+  "antigen": "H1 HA1",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "F",
+  "agChains": [
+   "C",
+   "c"
+  ],
+  "release": "2026-02-18",
+  "resolution": 3.18,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A346HA40+A0A6M4YP75"
+ },
+ {
+  "pdb": "9NCD",
+  "abId": "sabdab2_H049DL035A",
+  "antigen": "Non-specific lipid-transfer protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-02-18",
+  "resolution": 1.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "B6CG41"
+ },
+ {
+  "pdb": "9UGO",
+  "abId": "sabdab2_H05KVL048T",
+  "antigen": "Middle S protein",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-02-18",
+  "resolution": 4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "B8QJB4"
+ },
+ {
+  "pdb": "9QRV",
+  "abId": "sabdab2_H05S2L04CB",
+  "antigen": "SULFATE ION",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "D"
+  ],
+  "release": "2026-02-11",
+  "resolution": 2.5,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A2K5X4G5"
+ },
+ {
+  "pdb": "9TH6",
+  "abId": "sabdab2_H05KFL0000",
+  "antigen": "Guanine-N7 methyltransferase nsp14",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-02-11",
+  "resolution": 2.267,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P0DTD1"
+ },
+ {
+  "pdb": "9UAQ",
+  "abId": "sabdab2_H05MGL0000",
+  "antigen": "H3-PrAC-5350A,2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase",
+  "format": "VHH",
+  "Hchain": "D",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "G"
+  ],
+  "release": "2026-02-11",
+  "resolution": 2.29,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q6YGZ0+Q9WXS1"
+ },
+ {
+  "pdb": "9Y0A",
+  "abId": "sabdab2_H05NVL04A7",
+  "antigen": "Major pollen allergen Bet v 1-A",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-02-11",
+  "resolution": 2.12,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "P15494"
+ },
+ {
+  "pdb": "9N38",
+  "abId": "sabdab2_H05MRL049E",
+  "antigen": "leukocidin-like protein 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-02-04",
+  "resolution": 3.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q2FFA3"
+ },
+ {
+  "pdb": "9XQN",
+  "abId": "sabdab2_H05HJL0473",
+  "antigen": "Probable G-protein coupled receptor 75,Soluble cytochrome b562",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-02-04",
+  "resolution": 3.91,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "O95800"
+ },
+ {
+  "pdb": "9YC5",
+  "abId": "sabdab2_H05JNL047Y",
+  "antigen": "Urokinase plasminogen activator surface receptor",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-02-04",
+  "resolution": 2.94,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q03405"
+ },
+ {
+  "pdb": "9YIO",
+  "abId": "sabdab2_H05J6L047J",
+  "antigen": "PvRipr EGF7-8",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "C",
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-02-04",
+  "resolution": 2.08,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A564ZTL5"
+ },
+ {
+  "pdb": "9LOE",
+  "abId": "sabdab2_H0574L03ZF",
+  "antigen": "Envelopment polyprotein",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-01-28",
+  "resolution": 2.99,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1S6XXK1"
+ },
+ {
+  "pdb": "9RXI",
+  "abId": "sabdab2_H05JGL0000",
+  "antigen": "Cathepsin D (A01 family)",
+  "format": "VHH",
+  "Hchain": "H",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-01-28",
+  "resolution": 2.59,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "G4VEV6"
+ },
+ {
+  "pdb": "9VNP",
+  "abId": "sabdab2_H05KRL048R",
+  "antigen": "Interferon gamma",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "A",
+  "agChains": [
+   "L"
+  ],
+  "release": "2026-01-28",
+  "resolution": 3.02,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01579"
+ },
+ {
+  "pdb": "9E6J",
+  "abId": "sabdab2_H057VL0401",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-01-21",
+  "resolution": 2.98,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A7UPX0"
+ },
+ {
+  "pdb": "9HBP",
+  "abId": "sabdab2_H053ZL0000",
+  "antigen": "Hemagglutinin glycoprotein",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-01-21",
+  "resolution": 4.3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9QPQ8"
+ },
+ {
+  "pdb": "9LME",
+  "abId": "sabdab2_H05GWL0000",
+  "antigen": "CD276 antigen",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-01-21",
+  "resolution": 2.404,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q5ZPR3"
+ },
+ {
+  "pdb": "9MPZ",
+  "abId": "sabdab2_H05GHL046B",
+  "antigen": "Capsid protein VP1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B",
+   "C"
+  ],
+  "release": "2026-01-21",
+  "resolution": 2.14,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A2I7M2"
+ },
+ {
+  "pdb": "9NBY",
+  "abId": "sabdab2_H00QHL00MT",
+  "antigen": "Envelope glycoprotein gp120",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "G",
+  "agChains": [
+   "E"
+  ],
+  "release": "2026-01-21",
+  "resolution": 3.16,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "A0A1I9J633"
+ },
+ {
+  "pdb": "9NSD",
+  "abId": "sabdab2_H05S1L0000",
+  "antigen": "Cysteine-rich small secreted protein CSS, putative",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2026-01-21",
+  "resolution": 3.14,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A565A192"
+ },
+ {
+  "pdb": "9O3D",
+  "abId": "sabdab2_H05NPL04A2",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "D"
+  ],
+  "release": "2026-01-21",
+  "resolution": 2.68,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "X4ZFZ7"
+ },
+ {
+  "pdb": "9FTE",
+  "abId": "sabdab2_H055AL0000",
+  "antigen": "Adhesion G protein-coupled receptor V1",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-01-14",
+  "resolution": 3.82,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "B8JJE0"
+ },
+ {
+  "pdb": "9GVN",
+  "abId": "sabdab2_H051RL03VT",
+  "antigen": "Interleukin-5",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2026-01-14",
+  "resolution": 1.933,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P05113"
+ },
+ {
+  "pdb": "9L9Y",
+  "abId": "sabdab2_H05DSL044Q",
+  "antigen": "Capsid protein",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "D"
+  ],
+  "release": "2026-01-14",
+  "resolution": 2.44,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "D3VV84"
+ },
+ {
+  "pdb": "9MNS",
+  "abId": "sabdab2_H05G1L045X",
+  "antigen": "Envelope glycoprotein E2",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "E"
+  ],
+  "release": "2026-01-14",
+  "resolution": 2.89,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "B9V0E2"
+ },
+ {
+  "pdb": "9MSC",
+  "abId": "sabdab2_H04XFL03RV",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "E"
+  ],
+  "release": "2026-01-14",
+  "resolution": 3.39,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P26664"
+ },
+ {
+  "pdb": "9UA5",
+  "abId": "sabdab2_H05P1L04AC",
+  "antigen": "Glycoprotein",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "K",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-01-07",
+  "resolution": 3.94,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "R9W5Z3"
+ },
+ {
+  "pdb": "9VDY",
+  "abId": "sabdab2_H05H3L04BA",
+  "antigen": "Envelopment polyprotein",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2026-01-07",
+  "resolution": 2.28,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "W5VWE0"
+ },
+ {
+  "pdb": "9XQB",
+  "abId": "sabdab2_H05RSL04C7",
+  "antigen": "A2A receptor-BRIL",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2026-01-07",
+  "resolution": 3.45,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P29274"
+ },
+ {
+  "pdb": "9NPT",
+  "abId": "sabdab2_H05RBL0000",
+  "antigen": "Envelope glycoprotein GP1",
+  "format": "VHH",
+  "Hchain": "G",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-31",
+  "resolution": 2.98,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q1PDC7"
+ },
+ {
+  "pdb": "9P8X",
+  "abId": "sabdab2_H05PTL04AX",
+  "antigen": "Tumor necrosis factor receptor superfamily member 18",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-31",
+  "resolution": 2.86,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9Y5U5"
+ },
+ {
+  "pdb": "9PRU",
+  "abId": "sabdab2_H05JXL0485",
+  "antigen": "Low affinity immunoglobulin gamma Fc region receptor III-A",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "W"
+  ],
+  "release": "2025-12-31",
+  "resolution": 1.9,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P08637"
+ },
+ {
+  "pdb": "9UZA",
+  "abId": "sabdab2_H05R6L04BY",
+  "antigen": "RNA-directed RNA polymerase L",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-12-31",
+  "resolution": 3.05,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "D5MEH7"
+ },
+ {
+  "pdb": "9UZB",
+  "abId": "sabdab2_H05HRL0478",
+  "antigen": "RNA-directed RNA polymerase L",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-31",
+  "resolution": 1.9,
+  "method": "X-Ray",
+  "nStructures": 9,
+  "agUniProt": "A0A0M5KLS1"
+ },
+ {
+  "pdb": "9YC3",
+  "abId": "sabdab2_H05KAL0000",
+  "antigen": "Male gamete fusion factor HAP2",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-12-31",
+  "resolution": 2.8,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q8IJQ3"
+ },
+ {
+  "pdb": "9HO4",
+  "abId": "sabdab2_H057KL0000",
+  "antigen": "Frataxin mature form",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-24",
+  "resolution": 1.76,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q16595"
+ },
+ {
+  "pdb": "9OG1",
+  "abId": "sabdab2_H05HBL046X",
+  "antigen": "A28L",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-24",
+  "resolution": 3.2,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q8V4V0"
+ },
+ {
+  "pdb": "9PF9",
+  "abId": "sabdab2_H05QQL04BJ",
+  "antigen": "BLLF1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "G"
+  ],
+  "release": "2025-12-24",
+  "resolution": 3.93,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A0C7T6S7"
+ },
+ {
+  "pdb": "9M5B",
+  "abId": "sabdab2_H05E2L044B",
+  "antigen": "Low affinity immunoglobulin gamma Fc region receptor II-b",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-12-17",
+  "resolution": 1.66,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P31994"
+ },
+ {
+  "pdb": "9PD2",
+  "abId": "sabdab2_H05RFL04C2",
+  "antigen": "Paired immunoglobulin-like type 2 receptor alpha",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-17",
+  "resolution": 2.579,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9UKJ1"
+ },
+ {
+  "pdb": "9YTD",
+  "abId": "sabdab2_H05KDL048G",
+  "antigen": "HLA class I histocompatibility antigen, A alpha chain",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "C"
+  ],
+  "release": "2025-12-17",
+  "resolution": 2.5,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A5I8L1+P15309"
+ },
+ {
+  "pdb": "9YTF",
+  "abId": "sabdab2_H05J3L047G",
+  "antigen": "MHC class I antigen",
+  "format": "Fab",
+  "Hchain": "F",
+  "Lchain": "G",
+  "agChains": [
+   "A",
+   "C"
+  ],
+  "release": "2025-12-17",
+  "resolution": 2.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1D3TZM3+P43357"
+ },
+ {
+  "pdb": "9Z5Q",
+  "abId": "sabdab2_H05S9L0000",
+  "antigen": "E3 ubiquitin-protein ligase NEDD4-like",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-12-17",
+  "resolution": 3.06,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q96PU5"
+ },
+ {
+  "pdb": "9GLZ",
+  "abId": "sabdab2_H05BCL0000",
+  "antigen": "GTPase KRas",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-10",
+  "resolution": 2.1,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A7K5XXT4"
+ },
+ {
+  "pdb": "9HJK",
+  "abId": "sabdab2_H055TL0000",
+  "antigen": "Cationic amino acid transporter 4, vacuolar",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-12-10",
+  "resolution": 3.27,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q8W4K3"
+ },
+ {
+  "pdb": "9KWE",
+  "abId": "sabdab2_H04YVL03SP",
+  "antigen": "Butyrophilin subfamily 3 member A2",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-12-10",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 5,
+  "agUniProt": "P78410"
+ },
+ {
+  "pdb": "9LAD",
+  "abId": "sabdab2_H0570L0000",
+  "antigen": "Neuronal pentraxin-2",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-12-10",
+  "resolution": 2.02,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P97738"
+ },
+ {
+  "pdb": "9PI9",
+  "abId": "sabdab2_H053JL03W7",
+  "antigen": "Tumor-associated calcium signal transducer 2",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "E",
+   "F"
+  ],
+  "release": "2025-12-10",
+  "resolution": 1.56,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P09758"
+ },
+ {
+  "pdb": "9Z3Q",
+  "abId": "sabdab2_H05NQL04A3",
+  "antigen": "Envelope glycoprotein H",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "C",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-12-10",
+  "resolution": 3.51,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "F5HAK9"
+ },
+ {
+  "pdb": "9HI4",
+  "abId": "sabdab2_H00Q7L03WK",
+  "antigen": "FI6-focused design_03",
+  "format": "Fab",
+  "Hchain": "K",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-12-03",
+  "resolution": 2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0ABC9N7E0"
+ },
+ {
+  "pdb": "9OT6",
+  "abId": "sabdab2_H05JWL0000",
+  "antigen": "Tetratricopeptide repeat protein 7B",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "F"
+  ],
+  "release": "2025-12-03",
+  "resolution": 3.54,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q86TV6"
+ },
+ {
+  "pdb": "9YP2",
+  "abId": "sabdab2_H05R4L0000",
+  "antigen": "Capsid protein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-12-03",
+  "resolution": 2.09,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A4D6I9J0"
+ },
+ {
+  "pdb": "9I59",
+  "abId": "sabdab2_H05GGL046A",
+  "antigen": "Envelopment polyprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-26",
+  "resolution": 2.09,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A2T080"
+ },
+ {
+  "pdb": "9LUE",
+  "abId": "sabdab2_H05B6L042A",
+  "antigen": "Glycoprotein G",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "G"
+  ],
+  "release": "2025-11-26",
+  "resolution": 3.03,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9IH62"
+ },
+ {
+  "pdb": "9NJL",
+  "abId": "sabdab2_H05PAL04AH",
+  "antigen": "Envelope glycoprotein GP1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-11-26",
+  "resolution": 2.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P35253"
+ },
+ {
+  "pdb": "9HQ5",
+  "abId": "sabdab2_H059BL0000",
+  "antigen": "CD63 antigen",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-19",
+  "resolution": 2.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P08962"
+ },
+ {
+  "pdb": "9KKJ",
+  "abId": "sabdab2_H04WML03R7",
+  "antigen": "Nectin-4",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-19",
+  "resolution": 3.26,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q96NY8"
+ },
+ {
+  "pdb": "9KMC",
+  "abId": "sabdab2_H04XDL03RS",
+  "antigen": "Interleukin-2 receptor subunit alpha",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "F",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-19",
+  "resolution": 2.97,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P01589"
+ },
+ {
+  "pdb": "9QT3",
+  "abId": "sabdab2_H05PGL04B2",
+  "antigen": "Envelop protein OPG153",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-19",
+  "resolution": 2.9,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P24758"
+ },
+ {
+  "pdb": "9X1H",
+  "abId": "sabdab2_H05PZL04B3",
+  "antigen": "Complement C1s subcomponent heavy chain",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-19",
+  "resolution": 2.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P09871"
+ },
+ {
+  "pdb": "9N5Z",
+  "abId": "sabdab2_H05PXL04B1",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-11-12",
+  "resolution": 3.2,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A3S5H8L7"
+ },
+ {
+  "pdb": "9NH7",
+  "abId": "sabdab2_H05Q1L0000",
+  "antigen": "Hemagglutinin HA1 chain",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "B",
+   "H"
+  ],
+  "release": "2025-11-12",
+  "resolution": 3.02,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A4GCK8"
+ },
+ {
+  "pdb": "9BOP",
+  "abId": "sabdab2_H057HL03ZS",
+  "antigen": "Virion spike glycoprotein GP1",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "S"
+  ],
+  "release": "2025-11-05",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A8G0KJC2"
+ },
+ {
+  "pdb": "9H77",
+  "abId": "sabdab2_H054CL0000",
+  "antigen": "M-phase phosphoprotein 8",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-11-05",
+  "resolution": 2.01,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q99549"
+ },
+ {
+  "pdb": "9PUO",
+  "abId": "sabdab2_H05HML0474",
+  "antigen": "Leptin",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-11-05",
+  "resolution": 3.1,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P41159"
+ },
+ {
+  "pdb": "9QZQ",
+  "abId": "sabdab2_H04J9L0000",
+  "antigen": "Sodium/bile acid cotransporter",
+  "format": "VHH",
+  "Hchain": "N",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-05",
+  "resolution": 3.11,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q14973"
+ },
+ {
+  "pdb": "9R10",
+  "abId": "sabdab2_H05MCL0495",
+  "antigen": "Multidrug and toxin extrusion protein 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-11-05",
+  "resolution": 3.3,
+  "method": "Em",
+  "nStructures": 4,
+  "agUniProt": "Q96FL8"
+ },
+ {
+  "pdb": "9EYD",
+  "abId": "sabdab2_H04W9L0000",
+  "antigen": "Lysine-specific permease",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-29",
+  "resolution": 3.68,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9HVG3"
+ },
+ {
+  "pdb": "9EZH",
+  "abId": "sabdab2_H0511L0000",
+  "antigen": "V-set and immunoglobulin domain-containing protein 4",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-29",
+  "resolution": 1.94,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9Y279"
+ },
+ {
+  "pdb": "9SFX",
+  "abId": "sabdab2_H05QVL00GK",
+  "antigen": "Interleukin-17A",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-10-29",
+  "resolution": 2.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q16552"
+ },
+ {
+  "pdb": "9UBQ",
+  "abId": "sabdab2_H05K5L048B",
+  "antigen": "Middle S protein",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-10-29",
+  "resolution": 2.86,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "B5TFB1"
+ },
+ {
+  "pdb": "9UEV",
+  "abId": "sabdab2_H05QGL0000",
+  "antigen": "SFTSV Gn head",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-29",
+  "resolution": 3.62,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A8F5LQV3"
+ },
+ {
+  "pdb": "9UK5",
+  "abId": "sabdab2_H05MDL0496",
+  "antigen": "Interleukin 31",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-29",
+  "resolution": 1.9,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "C7G0W1"
+ },
+ {
+  "pdb": "9HH9",
+  "abId": "sabdab2_H04YTL03SN",
+  "antigen": "Glycoprotein",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-22",
+  "resolution": 2.93,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "B7UCZ5"
+ },
+ {
+  "pdb": "9JO7",
+  "abId": "sabdab2_H05DQL0000",
+  "antigen": "C-reactive protein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B",
+   "D"
+  ],
+  "release": "2025-10-22",
+  "resolution": 3.68,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P02741"
+ },
+ {
+  "pdb": "9UB6",
+  "abId": "sabdab2_H05NTL0000",
+  "antigen": "Glycoprotein N",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-22",
+  "resolution": 2.89,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "R4V2Q5"
+ },
+ {
+  "pdb": "9DVD",
+  "abId": "sabdab2_H052HL03WF",
+  "antigen": "Glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-15",
+  "resolution": 2.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "F4YH71"
+ },
+ {
+  "pdb": "9LRA",
+  "abId": "sabdab2_H0503L03TJ",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "K"
+  ],
+  "release": "2025-10-15",
+  "resolution": 2.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P43627"
+ },
+ {
+  "pdb": "9NRJ",
+  "abId": "sabdab2_H04ZSL0000",
+  "antigen": "M1-specific T cell receptor alpha chain",
+  "format": "VHH",
+  "Hchain": "T",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-10-15",
+  "resolution": 3.4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P0DSE1+P0DSE2"
+ },
+ {
+  "pdb": "9NTQ",
+  "abId": "sabdab2_H05N7L0000",
+  "antigen": "Glypican-3",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-15",
+  "resolution": 4.04,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P51654"
+ },
+ {
+  "pdb": "9GV3",
+  "abId": "sabdab2_H0509L0000",
+  "antigen": "Fructose-bisphosphate aldolase",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-01",
+  "resolution": 1.751,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "G0UWE7"
+ },
+ {
+  "pdb": "9JS6",
+  "abId": "sabdab2_H04WZL03RG",
+  "antigen": "Envelope protein E",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-10-01",
+  "resolution": 7.8,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "A0A024B7W1"
+ },
+ {
+  "pdb": "9LEO",
+  "abId": "sabdab2_H05W5L04E8",
+  "antigen": "Attachment glycoprotein",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "H"
+  ],
+  "release": "2025-10-01",
+  "resolution": 2.92,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0AAX3C924"
+ },
+ {
+  "pdb": "9NN9",
+  "abId": "sabdab2_H05RHL0000",
+  "antigen": "Ubiquitin-like protein ISG15",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-01",
+  "resolution": 2.59,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P05161"
+ },
+ {
+  "pdb": "9OSR",
+  "abId": "sabdab2_H05QAL04BD",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-10-01",
+  "resolution": 2.16,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q8AZ87"
+ },
+ {
+  "pdb": "9PIX",
+  "abId": "sabdab2_H05HPL0476",
+  "antigen": "MHC class I antigen",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "P"
+  ],
+  "release": "2025-10-01",
+  "resolution": 2.35,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P17391+Q8WLS4"
+ },
+ {
+  "pdb": "9JEC",
+  "abId": "sabdab2_H05AVL0000",
+  "antigen": "Tumor necrosis factor",
+  "format": "VHH",
+  "Hchain": "D",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-09-24",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P51742"
+ },
+ {
+  "pdb": "9MQR",
+  "abId": "sabdab2_H04Z8L03T0",
+  "antigen": "Adhesion G protein-coupled receptor E5",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "E",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-09-24",
+  "resolution": 3.16,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P48960"
+ },
+ {
+  "pdb": "9MTF",
+  "abId": "sabdab2_H05G6L0462",
+  "antigen": "Hemagglutinin (HA1 polypeptide) from influenza H1N1 A/Solomon Island/3/2006",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-09-24",
+  "resolution": 2.61,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A0G2RTI0"
+ },
+ {
+  "pdb": "9MTG",
+  "abId": "sabdab2_H05GJL046C",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "E",
+   "F"
+  ],
+  "release": "2025-09-24",
+  "resolution": 2.52,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A7U0YFD5+A0A7U3R9T0"
+ },
+ {
+  "pdb": "9S8W",
+  "abId": "sabdab2_H05Q9L04BB",
+  "antigen": "Heparanase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-09-24",
+  "resolution": 3.49,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9Y251"
+ },
+ {
+  "pdb": "9R19",
+  "abId": "sabdab2_H05P7L0000",
+  "antigen": "Processed angiotensin-converting enzyme 2",
+  "format": "VHH",
+  "Hchain": "D",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-09-17",
+  "resolution": 2.69,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9BYF1"
+ },
+ {
+  "pdb": "8S72",
+  "abId": "sabdab2_H05XDL04F8",
+  "antigen": "Short neurotoxin 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "N"
+  ],
+  "release": "2025-09-10",
+  "resolution": 2.78,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01426"
+ },
+ {
+  "pdb": "9DET",
+  "abId": "sabdab2_H05W3L0000",
+  "antigen": "V-type proton ATPase 116 kDa subunit a 4",
+  "format": "VHH",
+  "Hchain": "q",
+  "Lchain": null,
+  "agChains": [
+   "a"
+  ],
+  "release": "2025-09-10",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9HBG4"
+ },
+ {
+  "pdb": "9DJW",
+  "abId": "sabdab2_H02W6L0000",
+  "antigen": "Tumor necrosis factor",
+  "format": "VHH",
+  "Hchain": "F",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B",
+   "w"
+  ],
+  "release": "2025-09-10",
+  "resolution": 3.43,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01375"
+ },
+ {
+  "pdb": "9GMU",
+  "abId": "sabdab2_H04X0L0000",
+  "antigen": "Integrin alpha-M",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-09-10",
+  "resolution": 3.8,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "P11215"
+ },
+ {
+  "pdb": "9PX5",
+  "abId": "sabdab2_H05PCL048P",
+  "antigen": "Maltose/maltodextrin-binding periplasmic protein,Triggering receptor expressed on myeloid cells 2",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-09-10",
+  "resolution": 3.7,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P0AEX9"
+ },
+ {
+  "pdb": "9B6U",
+  "abId": "sabdab2_H053DL03WR",
+  "antigen": "Envelope protein E",
+  "format": "Fab",
+  "Hchain": "F",
+  "Lchain": "G",
+  "agChains": [
+   "B",
+   "C"
+  ],
+  "release": "2025-09-03",
+  "resolution": 4,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P03314"
+ },
+ {
+  "pdb": "9E7K",
+  "abId": "sabdab2_H05G7L0000",
+  "antigen": "Ubiquitin carboxyl-terminal hydrolase isozyme L5",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-09-03",
+  "resolution": 2.41,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q16186+Q9Y5K5"
+ },
+ {
+  "pdb": "9HLS",
+  "abId": "sabdab2_H051KL0000",
+  "antigen": "Entry-fusion complex protein OPG094",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-09-03",
+  "resolution": 3.2,
+  "method": "X-Ray",
+  "nStructures": 6,
+  "agUniProt": "P07611"
+ },
+ {
+  "pdb": "9IMX",
+  "abId": "sabdab2_H059SL0000",
+  "antigen": "Secreted protein ORF2",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-09-03",
+  "resolution": 2.2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P33426"
+ },
+ {
+  "pdb": "9JZQ",
+  "abId": "sabdab2_H0516L03VD",
+  "antigen": "Envelope glycoprotein E",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-09-03",
+  "resolution": 3.48,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9J3M8"
+ },
+ {
+  "pdb": "9S35",
+  "abId": "sabdab2_H05KNL0000",
+  "antigen": "GDP-mannose transporter",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-09-03",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q5A477"
+ },
+ {
+  "pdb": "8VXJ",
+  "abId": "sabdab2_H04QVL03MS",
+  "antigen": "Apolipoprotein A-I",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-08-27",
+  "resolution": 2.7,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P02647"
+ },
+ {
+  "pdb": "9BYF",
+  "abId": "sabdab2_H04Z4L03SW",
+  "antigen": "Outer surface protein A",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-27",
+  "resolution": 2.85,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P0CL66"
+ },
+ {
+  "pdb": "9D41",
+  "abId": "sabdab2_H050QL03V1",
+  "antigen": "Borealin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-20",
+  "resolution": 1.84,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q53HL2"
+ },
+ {
+  "pdb": "9IRB",
+  "abId": "sabdab2_H05ERL044X",
+  "antigen": "Solute carrier family 15 member 4",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-20",
+  "resolution": 3.15,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q8N697"
+ },
+ {
+  "pdb": "9K0C",
+  "abId": "sabdab2_H04WSL03RC",
+  "antigen": "Sodium- and chloride-dependent taurine transporter",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-20",
+  "resolution": 3.06,
+  "method": "Em",
+  "nStructures": 11,
+  "agUniProt": "P31641"
+ },
+ {
+  "pdb": "9KVD",
+  "abId": "sabdab2_H067VL04PN",
+  "antigen": "Spike protein S1",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-08-20",
+  "resolution": 3.44,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A8B1JP47"
+ },
+ {
+  "pdb": "9CYE",
+  "abId": "sabdab2_H04Z9L03T1",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "I",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-08-13",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "C7FH46"
+ },
+ {
+  "pdb": "9EIT",
+  "abId": "sabdab2_H04ZML03S3",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-13",
+  "resolution": 3.35,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A1ILL9"
+ },
+ {
+  "pdb": "9EJE",
+  "abId": "sabdab2_H04Y0L03S3",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-13",
+  "resolution": 4.18,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A223PTE0"
+ },
+ {
+  "pdb": "9EJF",
+  "abId": "sabdab2_H05CKL043B",
+  "antigen": "beta-D-mannopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-08-13",
+  "resolution": 2.29,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "C4RT50"
+ },
+ {
+  "pdb": "9LFL",
+  "abId": "sabdab2_H040RL044G",
+  "antigen": "Tumor necrosis factor receptor superfamily member 1B",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-13",
+  "resolution": 3.73,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P20333"
+ },
+ {
+  "pdb": "9MVU",
+  "abId": "sabdab2_H05H8L0000",
+  "antigen": "Envelope glycoprotein B",
+  "format": "VHH",
+  "Hchain": "D",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-13",
+  "resolution": 2.2,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P08666"
+ },
+ {
+  "pdb": "9MY8",
+  "abId": "sabdab2_H05ZAL0000",
+  "antigen": "Glycoprotein D",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-08-13",
+  "resolution": 2.3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q69467"
+ },
+ {
+  "pdb": "9Q8L",
+  "abId": "sabdab2_H05JAL047P",
+  "antigen": "Programmed cell death protein 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-13",
+  "resolution": 1.85,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q15116"
+ },
+ {
+  "pdb": "9BQW",
+  "abId": "sabdab2_H056RL03Z8",
+  "antigen": "Decorin-binding protein A",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-08-06",
+  "resolution": 2.55,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "O50917"
+ },
+ {
+  "pdb": "9DN2",
+  "abId": "sabdab2_H059ZL041E",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-30",
+  "resolution": 3.24,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A5B8WJL2"
+ },
+ {
+  "pdb": "9E21",
+  "abId": "sabdab2_H05BKL042K",
+  "antigen": "SARS XBB.1.5 Spike",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "S"
+  ],
+  "release": "2025-07-30",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A6V7ALX9"
+ },
+ {
+  "pdb": "9E7N",
+  "abId": "sabdab2_H05CML0000",
+  "antigen": "Gametocyte surface protein P230",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-30",
+  "resolution": 2.49,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P68874"
+ },
+ {
+  "pdb": "9IW2",
+  "abId": "sabdab2_H0515L03VC",
+  "antigen": "Togavirin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "P"
+  ],
+  "release": "2025-07-30",
+  "resolution": 3.2,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q1H8W5"
+ },
+ {
+  "pdb": "9JCY",
+  "abId": "sabdab2_H04WQL03RA",
+  "antigen": "Spike protein S1",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-30",
+  "resolution": 1.8,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q5MQD0"
+ },
+ {
+  "pdb": "9JD0",
+  "abId": "sabdab2_H057DL0000",
+  "antigen": "Transmembrane protease serine 2 catalytic chain",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-07-30",
+  "resolution": 2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "O15393"
+ },
+ {
+  "pdb": "9MLA",
+  "abId": "sabdab2_H05A8L041M",
+  "antigen": "Surface protein",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "J",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-30",
+  "resolution": 2.24,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P61570"
+ },
+ {
+  "pdb": "9MLK",
+  "abId": "sabdab2_H05CQL043C",
+  "antigen": "Transmembrane protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "C"
+  ],
+  "release": "2025-07-30",
+  "resolution": 2.84,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q69384"
+ },
+ {
+  "pdb": "9NJY",
+  "abId": "sabdab2_H05J7L047K",
+  "antigen": "Clumping factor A",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-30",
+  "resolution": 1.58,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q99VJ4"
+ },
+ {
+  "pdb": "9ORE",
+  "abId": "sabdab2_H05NYL04A9",
+  "antigen": "Fusion glycoprotein F0",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-30",
+  "resolution": 4.13,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q6WB98"
+ },
+ {
+  "pdb": "9G3D",
+  "abId": "sabdab2_H05CEL0000",
+  "antigen": "Peptide antibiotic transporter SbmA",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-07-23",
+  "resolution": 3.24,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P0AFY6"
+ },
+ {
+  "pdb": "9JIE",
+  "abId": "sabdab2_H04XQL03S0",
+  "antigen": "Pro-secreted protein ORF2",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-07-23",
+  "resolution": 2.76,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "A0A3G1TVH2"
+ },
+ {
+  "pdb": "9JII",
+  "abId": "sabdab2_H04YHL03SG",
+  "antigen": "Pro-secreted protein ORF2",
+  "format": "Fab",
+  "Hchain": "F",
+  "Lchain": "E",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-07-23",
+  "resolution": 2.54,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "A0A089GJI0"
+ },
+ {
+  "pdb": "9JIO",
+  "abId": "sabdab2_H05Z5L04H0",
+  "antigen": "Secreted protein ORF2",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "F",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-07-23",
+  "resolution": 2.87,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P29326"
+ },
+ {
+  "pdb": "9MQV",
+  "abId": "sabdab2_H053QL03X7",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-23",
+  "resolution": 2.2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A193ACB1"
+ },
+ {
+  "pdb": "9N0D",
+  "abId": "sabdab2_H05QTL04BN",
+  "antigen": "Pre-glycoprotein polyprotein GP complex",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "D",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-07-23",
+  "resolution": 3.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P26313"
+ },
+ {
+  "pdb": "9EI9",
+  "abId": "sabdab2_H053CL03X4",
+  "antigen": "Hemagglutinin HA1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "J",
+  "agChains": [
+   "B",
+   "E",
+   "F"
+  ],
+  "release": "2025-07-16",
+  "resolution": 3.89,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A3G2CC79+A0A5P1MU07"
+ },
+ {
+  "pdb": "9FYS",
+  "abId": "sabdab2_H04Y2L0448",
+  "antigen": "Alpha-bungarotoxin",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "X",
+   "Z"
+  ],
+  "release": "2025-07-16",
+  "resolution": 1.32,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "P60615"
+ },
+ {
+  "pdb": "9FYT",
+  "abId": "sabdab2_H04Y2L03S5",
+  "antigen": "Alpha-cobratoxin",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-07-16",
+  "resolution": 1.55,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "P01391"
+ },
+ {
+  "pdb": "9H39",
+  "abId": "sabdab2_H04XTL0000",
+  "antigen": "LysM type receptor kinase",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-16",
+  "resolution": 1.66,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "D3KU00"
+ },
+ {
+  "pdb": "9H6V",
+  "abId": "sabdab2_H066GL0000",
+  "antigen": "LysM type receptor kinase",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-07-16",
+  "resolution": 2.19,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "D3KTZ6"
+ },
+ {
+  "pdb": "9HLW",
+  "abId": "sabdab2_H02NWL0000",
+  "antigen": "Glutamate carboxypeptidase 2",
+  "format": "VHH",
+  "Hchain": "H",
+  "Lchain": null,
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-07-16",
+  "resolution": 2.66,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q04609"
+ },
+ {
+  "pdb": "9FM2",
+  "abId": "sabdab2_H05FTL0000",
+  "antigen": "Neuraminidase",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-07-09",
+  "resolution": 3.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A5Q0MEI0"
+ },
+ {
+  "pdb": "8VTD",
+  "abId": "sabdab2_H04HAL03G4",
+  "antigen": "T-cell immunoreceptor with Ig and ITIM domains",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-07-02",
+  "resolution": 1.23,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q495A1"
+ },
+ {
+  "pdb": "8YVK",
+  "abId": "sabdab2_H04YJL03SH",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "F",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-07-02",
+  "resolution": 3.09,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "A0A248T7C3"
+ },
+ {
+  "pdb": "8ZYX",
+  "abId": "sabdab2_H059PL03SH",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "F",
+  "Lchain": "J",
+  "agChains": [
+   "C",
+   "D"
+  ],
+  "release": "2025-07-02",
+  "resolution": 2.33,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A0N7G9M6"
+ },
+ {
+  "pdb": "9CCS",
+  "abId": "sabdab2_H05AGL041R",
+  "antigen": "Type 1 fimbiral adhesin FimH",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-02",
+  "resolution": 3.17,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P08191"
+ },
+ {
+  "pdb": "9IYY",
+  "abId": "sabdab2_H05D4L043P",
+  "antigen": "Large envelope protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-07-02",
+  "resolution": 3.13,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "I7KIT3"
+ },
+ {
+  "pdb": "9KMI",
+  "abId": "sabdab2_H04WSL00SS",
+  "antigen": "Sodium- and chloride-dependent taurine transporter",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-07-02",
+  "resolution": 3.05,
+  "method": "Em",
+  "nStructures": 6,
+  "agUniProt": "O35316"
+ },
+ {
+  "pdb": "8REX",
+  "abId": "sabdab2_H04NML03K3",
+  "antigen": "Transforming growth factor beta-1 proprotein",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "F",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-06-25",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04202"
+ },
+ {
+  "pdb": "8YRY",
+  "abId": "sabdab2_H05F4L0455",
+  "antigen": "Receptor tyrosine-protein kinase erbB-3",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-06-25",
+  "resolution": 2.93,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P21860"
+ },
+ {
+  "pdb": "9BT5",
+  "abId": "sabdab2_H04Y9L03SA",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-06-25",
+  "resolution": 2.5,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "R4NN21"
+ },
+ {
+  "pdb": "9DLF",
+  "abId": "sabdab2_H055NL03YJ",
+  "antigen": "Arabinosyltransferase AftB",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-06-25",
+  "resolution": 2.85,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "I4BQX4"
+ },
+ {
+  "pdb": "9DM7",
+  "abId": "sabdab2_H05BFL011A",
+  "antigen": "Mannosyltransferase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-06-25",
+  "resolution": 3.02,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0ABD7HTP3"
+ },
+ {
+  "pdb": "9JQU",
+  "abId": "sabdab2_H0560L03YR",
+  "antigen": "Envelopment polyprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-06-18",
+  "resolution": 3.3,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A0B5A886"
+ },
+ {
+  "pdb": "9L2K",
+  "abId": "sabdab2_H05BVL042T",
+  "antigen": "Envelopment polyprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-06-18",
+  "resolution": 2.78,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A1S6K8S9"
+ },
+ {
+  "pdb": "9DBO",
+  "abId": "sabdab2_H04VYL03QM",
+  "antigen": "Serine/threonine-protein kinase mTOR",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-06-11",
+  "resolution": 1.55,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P42345"
+ },
+ {
+  "pdb": "9FGX",
+  "abId": "sabdab2_H04XKL0000",
+  "antigen": "GLYCEROL",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-06-11",
+  "resolution": 3.53,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P00698"
+ },
+ {
+  "pdb": "9ODB",
+  "abId": "sabdab2_H05ZVL04GH",
+  "antigen": "chicken IgY heavy chain,Ig-like domain-containing protein",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-06-11",
+  "resolution": 4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A8V0XLK0"
+ },
+ {
+  "pdb": "8XA4",
+  "abId": "sabdab2_H04V9L03Q3",
+  "antigen": "Protein OPG161",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-06-04",
+  "resolution": 3.08,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A7H0DND2"
+ },
+ {
+  "pdb": "8ZEU",
+  "abId": "sabdab2_H066XL04NQ",
+  "antigen": "Thymic stromal lymphopoietin",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-05-28",
+  "resolution": 3.39,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q969D9"
+ },
+ {
+  "pdb": "9ISF",
+  "abId": "sabdab2_H05A2L0000",
+  "antigen": "Glycoprotein D",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-05-28",
+  "resolution": 3.72,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A181ZH04"
+ },
+ {
+  "pdb": "9EHL",
+  "abId": "sabdab2_H04YFL03SF",
+  "antigen": "HIV-1 BG505 SOSIP gp120,Envelope glycoprotein gp120",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "J",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-05-21",
+  "resolution": 3.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q2N0S5"
+ },
+ {
+  "pdb": "9MFG",
+  "abId": "sabdab2_H04Y4L0000",
+  "antigen": "Interleukin-23 receptor",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-05-21",
+  "resolution": 2.85,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q5VWK5"
+ },
+ {
+  "pdb": "9C2H",
+  "abId": "sabdab2_H03NHL02Z6",
+  "antigen": "Nucleoprotein",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "F",
+  "agChains": [
+   "A",
+   "D"
+  ],
+  "release": "2025-05-14",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P0DTC9"
+ },
+ {
+  "pdb": "9FNS",
+  "abId": "sabdab2_H0561L03YS",
+  "antigen": "Secreted protein ORF2",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-05-14",
+  "resolution": 3.5,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9YLQ9"
+ },
+ {
+  "pdb": "9GGP",
+  "abId": "sabdab2_H05FWL045R",
+  "antigen": "Alpha-1-antitrypsin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-05-14",
+  "resolution": 1.84,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01009"
+ },
+ {
+  "pdb": "9KQC",
+  "abId": "sabdab2_H05TAL0000",
+  "antigen": "Hyaluronan synthase",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-05-14",
+  "resolution": 3.36,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "M1H2Q1"
+ },
+ {
+  "pdb": "9QUB",
+  "abId": "sabdab2_H05XJL04FB",
+  "antigen": "Sodium/hydrogen exchanger 9B2",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-05-14",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q86UD5"
+ },
+ {
+  "pdb": "9R2E",
+  "abId": "sabdab2_H05KSL048S",
+  "antigen": "1,2-ETHANEDIOL",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "Q"
+  ],
+  "release": "2025-05-14",
+  "resolution": 2.54,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01876"
+ },
+ {
+  "pdb": "8ZCA",
+  "abId": "sabdab2_H053PL03X6",
+  "antigen": "Leukocyte surface antigen CD47",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-05-07",
+  "resolution": 2.5,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q08722"
+ },
+ {
+  "pdb": "9B7G",
+  "abId": "sabdab2_H05ESL044Y",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-05-07",
+  "resolution": 2.61,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A2P1ADT1"
+ },
+ {
+  "pdb": "9C0X",
+  "abId": "sabdab2_H0595L040Y",
+  "antigen": "Hemagglutinin HA1 subunit",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-05-07",
+  "resolution": 4.35,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A6J3XB93"
+ },
+ {
+  "pdb": "8Z8L",
+  "abId": "sabdab2_H04ZNL0000",
+  "antigen": "Interleukin-4 receptor subunit alpha",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-04-30",
+  "resolution": 3.96,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P24394"
+ },
+ {
+  "pdb": "9CB5",
+  "abId": "sabdab2_H05CHL0439",
+  "antigen": "Nucleolin",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "H",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-04-30",
+  "resolution": 2.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P19338"
+ },
+ {
+  "pdb": "9IXV",
+  "abId": "sabdab2_H05XSL04FD",
+  "antigen": "Spike glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-04-30",
+  "resolution": 3.11,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "K9N5Q8"
+ },
+ {
+  "pdb": "9HZJ",
+  "abId": "sabdab2_H04YGL0000",
+  "antigen": "Circumsporozoite protein",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-04-23",
+  "resolution": 2.06,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P19597"
+ },
+ {
+  "pdb": "9M7V",
+  "abId": "sabdab2_H05B1L0426",
+  "antigen": "Capsid protein VP1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B",
+   "C"
+  ],
+  "release": "2025-04-23",
+  "resolution": 3.04,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "B9VUU3"
+ },
+ {
+  "pdb": "9CY1",
+  "abId": "sabdab2_H050AL0000",
+  "antigen": "Solute carrier organic anion transporter family member 1B1",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-04-16",
+  "resolution": 3.15,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "Q9Y6L6"
+ },
+ {
+  "pdb": "9MR7",
+  "abId": "sabdab2_H052RL03WP",
+  "antigen": "Pertussis toxin subunit 3",
+  "format": "Fab",
+  "Hchain": "J",
+  "Lchain": "I",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-04-16",
+  "resolution": 3.56,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04979"
+ },
+ {
+  "pdb": "9MR7",
+  "abId": "sabdab2_H052SL03WQ",
+  "antigen": "Pertussis toxin subunit 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "G",
+  "agChains": [
+   "A",
+   "E",
+   "F"
+  ],
+  "release": "2025-04-16",
+  "resolution": 3.56,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04977+P04981+P0A3R5"
+ },
+ {
+  "pdb": "8YYZ",
+  "abId": "sabdab2_H054GL00FB",
+  "antigen": "Sonic hedgehog protein N-product",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-04-09",
+  "resolution": 1.9,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q15465"
+ },
+ {
+  "pdb": "9DMV",
+  "abId": "sabdab2_H050DL03TR",
+  "antigen": "Acetylcholine receptor subunit beta",
+  "format": "Fab",
+  "Hchain": "F",
+  "Lchain": "G",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-04-09",
+  "resolution": 2.13,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P11230"
+ },
+ {
+  "pdb": "9FJF",
+  "abId": "sabdab2_H05C1L0000",
+  "antigen": "Lysosomal acid glucosylceramidase",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-04-09",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04062"
+ },
+ {
+  "pdb": "9HML",
+  "abId": "sabdab2_H052AL0000",
+  "antigen": "KIR2DL protein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-04-09",
+  "resolution": 2.171,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P43626"
+ },
+ {
+  "pdb": "9FIK",
+  "abId": "sabdab2_H04VTL03QJ",
+  "antigen": "Neurotrophin-3",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-04-02",
+  "resolution": 1.86,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P20783"
+ },
+ {
+  "pdb": "8REW",
+  "abId": "sabdab2_H04NVL03KA",
+  "antigen": "Transforming growth factor beta-1",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "F",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-26",
+  "resolution": 2.98,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P01137"
+ },
+ {
+  "pdb": "9EMY",
+  "abId": "sabdab2_H041AL0000",
+  "antigen": "non-specific serine/threonine protein kinase",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-26",
+  "resolution": 2.814,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A2I0BRS6"
+ },
+ {
+  "pdb": "8VEB",
+  "abId": "sabdab2_H04PRL03M0",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "I",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-03-19",
+  "resolution": 2.97,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "A4U7A6"
+ },
+ {
+  "pdb": "9DPC",
+  "abId": "sabdab2_H051YL03VY",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-03-19",
+  "resolution": 2.65,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A6H1QYJ4"
+ },
+ {
+  "pdb": "9H1F",
+  "abId": "sabdab2_H05EKL0000",
+  "antigen": "Cofilin-1",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-19",
+  "resolution": 1.8,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P23528"
+ },
+ {
+  "pdb": "9J3J",
+  "abId": "sabdab2_H051WL0000",
+  "antigen": "ADP,ATP carrier protein 1, chloroplastic",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-19",
+  "resolution": 2.83,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q39002"
+ },
+ {
+  "pdb": "9J3N",
+  "abId": "sabdab2_H04VXL0000",
+  "antigen": "ADP,ATP carrier protein 1",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-19",
+  "resolution": 2.72,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q9Z8J2"
+ },
+ {
+  "pdb": "9MYL",
+  "abId": "sabdab2_H05JQL0480",
+  "antigen": "Izumo sperm-egg fusion protein 1",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-03-19",
+  "resolution": 3.177,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9D9J7"
+ },
+ {
+  "pdb": "8RMX",
+  "abId": "sabdab2_H04JSL03H7",
+  "antigen": "Protein-glutamine gamma-glutamyltransferase E",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-12",
+  "resolution": 2.803,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q08188"
+ },
+ {
+  "pdb": "8U1P",
+  "abId": "sabdab2_H04RTL03P9",
+  "antigen": "Gametocyte surface protein P45/48",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-12",
+  "resolution": 3.3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q8I6T1"
+ },
+ {
+  "pdb": "8YW6",
+  "abId": "sabdab2_H05WSL0000",
+  "antigen": "Mitochondrial pyruvate carrier 2",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-03-12",
+  "resolution": 3.18,
+  "method": "Em",
+  "nStructures": 6,
+  "agUniProt": "O95563"
+ },
+ {
+  "pdb": "9AZR",
+  "abId": "sabdab2_H00THL00QJ",
+  "antigen": "Hemagglutinin HA1 chain",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-03-12",
+  "resolution": 2.3,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q07775"
+ },
+ {
+  "pdb": "9BJG",
+  "abId": "sabdab2_H05GDL0467",
+  "antigen": "Apical membrane antigen 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-12",
+  "resolution": 2.9,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P22621"
+ },
+ {
+  "pdb": "9DRY",
+  "abId": "sabdab2_H05E7L044F",
+  "antigen": "E3 ubiquitin-protein ligase CHIP",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "F",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-12",
+  "resolution": 7.02,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9UNE7"
+ },
+ {
+  "pdb": "9H4R",
+  "abId": "sabdab2_H05FML045J",
+  "antigen": "Zona pellucida sperm-binding protein 2",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-12",
+  "resolution": 1.53,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "P20239"
+ },
+ {
+  "pdb": "9J82",
+  "abId": "sabdab2_H057ML03ZV",
+  "antigen": "Putative zinc metalloprotease aq_1964",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-05",
+  "resolution": 3.95,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "O67776"
+ },
+ {
+  "pdb": "9MNW",
+  "abId": "sabdab2_H04YEL0000",
+  "antigen": "Mitochondrial pyruvate carrier 1",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-03-05",
+  "resolution": 3.35,
+  "method": "Em",
+  "nStructures": 5,
+  "agUniProt": "Q9Y5U8"
+ },
+ {
+  "pdb": "8W5D",
+  "abId": "sabdab2_H049FL03AP",
+  "antigen": "Minor capsid protein A1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C",
+   "c"
+  ],
+  "release": "2025-02-26",
+  "resolution": 4.3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P03615"
+ },
+ {
+  "pdb": "8W5L",
+  "abId": "sabdab2_H04FSL03EQ",
+  "antigen": "Minor capsid protein A1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B",
+   "C"
+  ],
+  "release": "2025-02-26",
+  "resolution": 2.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q8LTE1"
+ },
+ {
+  "pdb": "8Y9Z",
+  "abId": "sabdab2_H04B0L0000",
+  "antigen": "Protein translocase subunit SecE",
+  "format": "VHH",
+  "Hchain": "V",
+  "Lchain": null,
+  "agChains": [
+   "E",
+   "Y"
+  ],
+  "release": "2025-02-26",
+  "resolution": 3.41,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A4IJH4+A4IJK8"
+ },
+ {
+  "pdb": "9DVQ",
+  "abId": "sabdab2_H04YPL0000",
+  "antigen": "Antiplasmin-cleaving enzyme FAP, soluble form",
+  "format": "VHH",
+  "Hchain": "G",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-02-26",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q12884"
+ },
+ {
+  "pdb": "8VKX",
+  "abId": "sabdab2_H04BXL03C3",
+  "antigen": "VP1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-02-19",
+  "resolution": 3.35,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "K4LM89"
+ },
+ {
+  "pdb": "9DM0",
+  "abId": "sabdab2_H04ZKL03T9",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A",
+   "B",
+   "G"
+  ],
+  "release": "2025-02-19",
+  "resolution": 2.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1D5AK66+C3W5S1"
+ },
+ {
+  "pdb": "8RWB",
+  "abId": "sabdab2_H04Q2L03M6",
+  "antigen": "1,2-ETHANEDIOL",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "P"
+  ],
+  "release": "2025-02-12",
+  "resolution": 2.307,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q5VY80"
+ },
+ {
+  "pdb": "8Y9S",
+  "abId": "sabdab2_H04M5L0000",
+  "antigen": "Albumin",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-02-12",
+  "resolution": 2.88,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P02768"
+ },
+ {
+  "pdb": "9GOX",
+  "abId": "sabdab2_H05EAL044J",
+  "antigen": "ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-02-12",
+  "resolution": 1.84,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P28907"
+ },
+ {
+  "pdb": "9LJJ",
+  "abId": "sabdab2_H046XL0000",
+  "antigen": "Heliorhodopsin",
+  "format": "VHH",
+  "Hchain": "M",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-02-12",
+  "resolution": 3.23,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A2R4S913"
+ },
+ {
+  "pdb": "8TQ4",
+  "abId": "sabdab2_H04MBL03J7",
+  "antigen": "H2 class I histocompatibility antigen D-d alpha chain (H2-Dd)",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "E",
+   "F"
+  ],
+  "release": "2025-02-05",
+  "resolution": 3.59,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "P01887+P01900"
+ },
+ {
+  "pdb": "8TQ5",
+  "abId": "sabdab2_H04THL03PM",
+  "antigen": "HLA class I histocompatibility antigen B alpha chain (HLA-B*44:05)",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2025-02-05",
+  "resolution": 2.3,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P61769+Q860B7"
+ },
+ {
+  "pdb": "8ZNZ",
+  "abId": "sabdab2_H05APL041W",
+  "antigen": "5'-nucleotidase",
+  "format": "Fab",
+  "Hchain": "G",
+  "Lchain": "H",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-02-05",
+  "resolution": 3.06,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P21589"
+ },
+ {
+  "pdb": "9DQ3",
+  "abId": "sabdab2_H051TL03VW",
+  "antigen": "Cytotoxic T-lymphocyte protein 4",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-02-05",
+  "resolution": 1.64,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "P16410"
+ },
+ {
+  "pdb": "9DQ5",
+  "abId": "sabdab2_H047NL02BJ",
+  "antigen": "Cytotoxic T-lymphocyte protein 4",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-02-05",
+  "resolution": 3.1,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P09793"
+ },
+ {
+  "pdb": "9MJ4",
+  "abId": "sabdab2_H056PL0000",
+  "antigen": "V-type proton ATPase subunit d",
+  "format": "VHH",
+  "Hchain": "Q",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-02-05",
+  "resolution": 3.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P32366"
+ },
+ {
+  "pdb": "8V13",
+  "abId": "sabdab2_H04S1L03NG",
+  "antigen": "SODIUM ION",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "T"
+  ],
+  "release": "2025-01-29",
+  "resolution": 1.8,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01416"
+ },
+ {
+  "pdb": "9E60",
+  "abId": "sabdab2_H056DL03Z3",
+  "antigen": "Capsid protein 2",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-01-29",
+  "resolution": 2.65,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q03726"
+ },
+ {
+  "pdb": "9E89",
+  "abId": "sabdab2_H05EJL044S",
+  "antigen": "Capsid protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-01-29",
+  "resolution": 3.5,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A2S0SZA2"
+ },
+ {
+  "pdb": "8TII",
+  "abId": "sabdab2_H04BRL029X",
+  "antigen": "Beta-arrestin-1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-01-22",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 6,
+  "agUniProt": "P17870"
+ },
+ {
+  "pdb": "8VQF",
+  "abId": "sabdab2_H04MCL03J8",
+  "antigen": "Major allergen Can f 1",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-01-22",
+  "resolution": 3.109,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "O18873"
+ },
+ {
+  "pdb": "8Z4E",
+  "abId": "sabdab2_H052WL03WS",
+  "antigen": "Neuraminidase",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-01-22",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A884WLQ3"
+ },
+ {
+  "pdb": "8Z74",
+  "abId": "sabdab2_H04WXL0000",
+  "antigen": "Soluble cytochrome b562,Apelin receptor",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "C"
+  ],
+  "release": "2025-01-22",
+  "resolution": 3.01,
+  "method": "Em",
+  "nStructures": 7,
+  "agUniProt": "P35414"
+ },
+ {
+  "pdb": "9G95",
+  "abId": "sabdab2_H04YYL0000",
+  "antigen": "Lipid III flippase",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-01-22",
+  "resolution": 2.8,
+  "method": "X-Ray",
+  "nStructures": 6,
+  "agUniProt": "P0AAA7"
+ },
+ {
+  "pdb": "9IND",
+  "abId": "sabdab2_H04WEL03R0",
+  "antigen": "Integrin beta-8",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2025-01-22",
+  "resolution": 2.88,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P26012"
+ },
+ {
+  "pdb": "8RL7",
+  "abId": "sabdab2_H04JQL0000",
+  "antigen": "Sphingosine-1-phosphate transporter SPNS2",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-01-15",
+  "resolution": 3.76,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q8IVW8"
+ },
+ {
+  "pdb": "9CQ4",
+  "abId": "sabdab2_H0088L04JF",
+  "antigen": "T-cell surface glycoprotein CD3 epsilon chain",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "F"
+  ],
+  "release": "2025-01-15",
+  "resolution": 3.27,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P07766"
+ },
+ {
+  "pdb": "9J7Y",
+  "abId": "sabdab2_H05DJL0000",
+  "antigen": "Entry-fusion complex associated protein OPG095",
+  "format": "VHH",
+  "Hchain": "H",
+  "Lchain": null,
+  "agChains": [
+   "G"
+  ],
+  "release": "2025-01-15",
+  "resolution": 2.59,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "M1LBP0"
+ },
+ {
+  "pdb": "8ZHQ",
+  "abId": "sabdab2_H04W2L03QR",
+  "antigen": "Envelopment polyprotein",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "A",
+  "agChains": [
+   "E"
+  ],
+  "release": "2025-01-08",
+  "resolution": 2.37,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1S6XXJ1"
+ },
+ {
+  "pdb": "8ZR4",
+  "abId": "sabdab2_H05FCL045B",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "D"
+  ],
+  "release": "2025-01-01",
+  "resolution": 1.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A2S0X6Y5"
+ },
+ {
+  "pdb": "9H76",
+  "abId": "sabdab2_H04XRL0000",
+  "antigen": "Putative amino acid/polyamine transport protein",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2025-01-01",
+  "resolution": 2.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1N6G365"
+ },
+ {
+  "pdb": "8QGX",
+  "abId": "sabdab2_H048TL0000",
+  "antigen": "Neutrophil elastase",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-12-25",
+  "resolution": 2.3,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P08246"
+ },
+ {
+  "pdb": "8SI1",
+  "abId": "sabdab2_H04B5L03BN",
+  "antigen": "Conglutin",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "F"
+  ],
+  "release": "2024-12-25",
+  "resolution": 3.2,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q647G9"
+ },
+ {
+  "pdb": "8SJ6",
+  "abId": "sabdab2_H048QL03A3",
+  "antigen": "Ara h 2 allergen",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "Q"
+  ],
+  "release": "2024-12-25",
+  "resolution": 3.97,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q6PSU2"
+ },
+ {
+  "pdb": "8T6M",
+  "abId": "sabdab2_H02WHL025T",
+  "antigen": "MHC class I antigen",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "E"
+  ],
+  "release": "2024-12-25",
+  "resolution": 3.14,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "I3QHR3"
+ },
+ {
+  "pdb": "8T7R",
+  "abId": "sabdab2_H012WL00SP",
+  "antigen": "MHC class I antigen (Fragment)",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-12-25",
+  "resolution": 3.84,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "F6IQR9"
+ },
+ {
+  "pdb": "8UME",
+  "abId": "sabdab2_H04P3L03KH",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "F",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-12-25",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A076G8X7"
+ },
+ {
+  "pdb": "8YBL",
+  "abId": "sabdab2_H04EWL0000",
+  "antigen": "Enterotoxin type B",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-12-25",
+  "resolution": 2.33,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P01552"
+ },
+ {
+  "pdb": "9CBN",
+  "abId": "sabdab2_H0580L0404",
+  "antigen": "Structural protein",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C",
+   "D"
+  ],
+  "release": "2024-12-25",
+  "resolution": 3.33,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "O12792"
+ },
+ {
+  "pdb": "8S6Z",
+  "abId": "sabdab2_H04D7L03D4",
+  "antigen": "IMIDAZOLE",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-12-18",
+  "resolution": 3.05,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P10747"
+ },
+ {
+  "pdb": "8V93",
+  "abId": "sabdab2_H047TL0399",
+  "antigen": "Type 1 fimbrin D-mannose specific adhesin FimH, Donor strand complemented with FimG peptide 'triple mutant'",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "L",
+  "agChains": [
+   "D"
+  ],
+  "release": "2024-12-18",
+  "resolution": 3.12,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P08190"
+ },
+ {
+  "pdb": "8VC7",
+  "abId": "sabdab2_H048FL011A",
+  "antigen": "Butyrophilin subfamily 2 member A1",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "E"
+  ],
+  "release": "2024-12-18",
+  "resolution": 2.76,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q7KYR7"
+ },
+ {
+  "pdb": "8YVJ",
+  "abId": "sabdab2_H04XWL0000",
+  "antigen": "Toxin A",
+  "format": "VHH",
+  "Hchain": "A",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-12-18",
+  "resolution": 1.65,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P16154"
+ },
+ {
+  "pdb": "9BSU",
+  "abId": "sabdab2_H0593L0000",
+  "antigen": "Envelope glycoprotein",
+  "format": "VHH",
+  "Hchain": "D",
+  "Lchain": null,
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-12-18",
+  "resolution": 3.36,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q05320"
+ },
+ {
+  "pdb": "9JQT",
+  "abId": "sabdab2_H05HAL046E",
+  "antigen": "Cytokine receptor common subunit gamma",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-12-18",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P31785"
+ },
+ {
+  "pdb": "8V5Q",
+  "abId": "sabdab2_H04SFL03NW",
+  "antigen": "DI(HYDROXYETHYL)ETHER",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "G"
+  ],
+  "release": "2024-12-11",
+  "resolution": 1.9,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P09259"
+ },
+ {
+  "pdb": "8VTI",
+  "abId": "sabdab2_H04HJL03GA",
+  "antigen": "Adhesion G protein-coupled receptor L3",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-12-11",
+  "resolution": 3.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9HAR2"
+ },
+ {
+  "pdb": "8Y4W",
+  "abId": "sabdab2_H04N6L0000",
+  "antigen": "N-acetylneuraminate transporter small subunit",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-12-11",
+  "resolution": 3.16,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q8RDN8"
+ },
+ {
+  "pdb": "9B2M",
+  "abId": "sabdab2_H050YL03V6",
+  "antigen": "Hemagglutinin HA1 chain",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "F",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2024-12-11",
+  "resolution": 3.09,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q6WG00"
+ },
+ {
+  "pdb": "9ERT",
+  "abId": "sabdab2_H04XSL0000",
+  "antigen": "2',3'-cyclic-nucleotide 3'-phosphodiesterase",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-12-11",
+  "resolution": 2.75,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P16330"
+ },
+ {
+  "pdb": "8JKH",
+  "abId": "sabdab2_H04TSL03PS",
+  "antigen": "NS1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "a"
+  ],
+  "release": "2024-12-04",
+  "resolution": 2.64,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1B3ZSF4"
+ },
+ {
+  "pdb": "8Y31",
+  "abId": "sabdab2_H049NL03AV",
+  "antigen": "Interferon alpha/beta receptor 1",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "A",
+  "agChains": [
+   "E"
+  ],
+  "release": "2024-12-04",
+  "resolution": 2.68,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P17181"
+ },
+ {
+  "pdb": "9DH2",
+  "abId": "sabdab2_H05GPL046G",
+  "antigen": "NKG2-D type II integral membrane protein",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "D",
+  "agChains": [
+   "M",
+   "R"
+  ],
+  "release": "2024-12-04",
+  "resolution": 2.98,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P26718"
+ },
+ {
+  "pdb": "9DWE",
+  "abId": "sabdab2_H05FXL013E",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-12-04",
+  "resolution": 2.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A8E4ZAK5"
+ },
+ {
+  "pdb": "8UZC",
+  "abId": "sabdab2_H04R3L03MX",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-27",
+  "resolution": 3.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A2R4U351"
+ },
+ {
+  "pdb": "8ZD5",
+  "abId": "sabdab2_H0240L01NX",
+  "antigen": "Superoxide dismutase [Cu-Zn]",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-27",
+  "resolution": 2.89,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q8WNN6"
+ },
+ {
+  "pdb": "9BU6",
+  "abId": "sabdab2_H05GNL046F",
+  "antigen": "Hemagglutinin HA2",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "D"
+  ],
+  "release": "2024-11-27",
+  "resolution": 3.65,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A0B4UV34"
+ },
+ {
+  "pdb": "9F6O",
+  "abId": "sabdab2_H057ZL0000",
+  "antigen": "Natural resistance-associated macrophage protein 2",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-27",
+  "resolution": 3.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P49281"
+ },
+ {
+  "pdb": "8P12",
+  "abId": "sabdab2_H04FTL03ER",
+  "antigen": "Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-11-20",
+  "resolution": 3.21,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P62871"
+ },
+ {
+  "pdb": "8P13",
+  "abId": "sabdab2_H04QEL03MG",
+  "antigen": "Guanine nucleotide-binding protein G(i) subunit alpha-1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-20",
+  "resolution": 5.2,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P63096"
+ },
+ {
+  "pdb": "8RWF",
+  "abId": "sabdab2_H04RBL0000",
+  "antigen": "S-layer protein sap",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-11-20",
+  "resolution": 3.11,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P49051"
+ },
+ {
+  "pdb": "9B9Y",
+  "abId": "sabdab2_H04ZQL0000",
+  "antigen": "Cannabinoid receptor 1,Glycogen synthase",
+  "format": "VHH",
+  "Hchain": "N",
+  "Lchain": null,
+  "agChains": [
+   "R"
+  ],
+  "release": "2024-11-20",
+  "resolution": 3.5,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "P21554"
+ },
+ {
+  "pdb": "9BIF",
+  "abId": "sabdab2_H05AYL0423",
+  "antigen": "Outer surface protein C",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2024-11-20",
+  "resolution": 3.09,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q07337"
+ },
+ {
+  "pdb": "9E6K",
+  "abId": "sabdab2_H04Z7L03SZ",
+  "antigen": "Disintegrin and metalloproteinase domain-containing protein 17",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-11-20",
+  "resolution": 3.15,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P78536"
+ },
+ {
+  "pdb": "8QZ6",
+  "abId": "sabdab2_H04HML0000",
+  "antigen": "Ceramide synthase 6",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-13",
+  "resolution": 3.2,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q6ZMG9"
+ },
+ {
+  "pdb": "8UWZ",
+  "abId": "sabdab2_H04JWL03H9",
+  "antigen": "Vascular endothelial growth factor A, long form",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "E"
+  ],
+  "release": "2024-11-13",
+  "resolution": 3.5,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P15692"
+ },
+ {
+  "pdb": "8WZ5",
+  "abId": "sabdab2_H04JYL03HB",
+  "antigen": "RSV Fusion glycoprotein",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "F",
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-11-13",
+  "resolution": 3.51,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P13843"
+ },
+ {
+  "pdb": "8ZRE",
+  "abId": "sabdab2_H057QL03ZY",
+  "antigen": "Capsid protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C",
+   "D"
+  ],
+  "release": "2024-11-13",
+  "resolution": 3.44,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "A0A0D4D698"
+ },
+ {
+  "pdb": "9B2C",
+  "abId": "sabdab2_H004AL002H",
+  "antigen": "Spike glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-13",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1S6L971"
+ },
+ {
+  "pdb": "9BDF",
+  "abId": "sabdab2_H05G8L0463",
+  "antigen": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "I",
+  "agChains": [
+   "H"
+  ],
+  "release": "2024-11-13",
+  "resolution": 3.01,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A8F5JT24"
+ },
+ {
+  "pdb": "9BIO",
+  "abId": "sabdab2_H05VHL04DR",
+  "antigen": "Envelope glycoprotein gp41",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B",
+   "G"
+  ],
+  "release": "2024-11-13",
+  "resolution": 2.83,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A0R6CVA7+Q1M0K6"
+ },
+ {
+  "pdb": "9DX6",
+  "abId": "sabdab2_H05DBL043W",
+  "antigen": "Apical merozoite protein 1",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-13",
+  "resolution": 2.4,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "B9TXF7"
+ },
+ {
+  "pdb": "8S79",
+  "abId": "sabdab2_H04RNL0000",
+  "antigen": "Nod-factor receptor 5",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-11-06",
+  "resolution": 2.29,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q70KR1"
+ },
+ {
+  "pdb": "8ULJ",
+  "abId": "sabdab2_H04KYL03J2",
+  "antigen": "Fusion glycoprotein F0,Fibritin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-11-06",
+  "resolution": 3,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A088S9A7"
+ },
+ {
+  "pdb": "8VGO",
+  "abId": "sabdab2_H066FL04N4",
+  "antigen": "B-lymphocyte antigen CD20",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "G",
+   "I"
+  ],
+  "release": "2024-11-06",
+  "resolution": 2.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P11836"
+ },
+ {
+  "pdb": "8WZ4",
+  "abId": "sabdab2_H04EFL03DW",
+  "antigen": "RSV Fusion glycoprotein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-11-06",
+  "resolution": 3.13,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "P03420"
+ },
+ {
+  "pdb": "8YWQ",
+  "abId": "sabdab2_H057CL03ZQ",
+  "antigen": "Interleukin-6",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-06",
+  "resolution": 2.51,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P05231"
+ },
+ {
+  "pdb": "9FVB",
+  "abId": "sabdab2_H051VL0000",
+  "antigen": "Sialic acid-binding periplasmic protein SiaP",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-11-06",
+  "resolution": 2.05,
+  "method": "X-Ray",
+  "nStructures": 2,
+  "agUniProt": "Q9KR64"
+ },
+ {
+  "pdb": "8US0",
+  "abId": "sabdab2_H04N4L03JQ",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-30",
+  "resolution": 3.7,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "M1UPL4"
+ },
+ {
+  "pdb": "8VGI",
+  "abId": "sabdab2_H049YL03AY",
+  "antigen": "Tryptase alpha/beta-1",
+  "format": "Fab",
+  "Hchain": "F",
+  "Lchain": "E",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-10-30",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q15661"
+ },
+ {
+  "pdb": "8VGP",
+  "abId": "sabdab2_H04DWL03DG",
+  "antigen": "Angiopoietin-2",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-30",
+  "resolution": 2.7,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "O15123"
+ },
+ {
+  "pdb": "8VGQ",
+  "abId": "sabdab2_H04C5L03CA",
+  "antigen": "GTPase KRas",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-30",
+  "resolution": 2.8,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P01116"
+ },
+ {
+  "pdb": "9FWW",
+  "abId": "sabdab2_H056EL0000",
+  "antigen": "Natural cytotoxicity triggering receptor 3",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-30",
+  "resolution": 1.844,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "O14931"
+ },
+ {
+  "pdb": "9G6V",
+  "abId": "sabdab2_H061RL0000",
+  "antigen": "Genome polyprotein",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "B",
+   "C",
+   "H"
+  ],
+  "release": "2024-10-30",
+  "resolution": 2.9,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q719N0"
+ },
+ {
+  "pdb": "9JUB",
+  "abId": "sabdab2_H05B2L0427",
+  "antigen": "Hyaluronidase PH-20",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-30",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P38567"
+ },
+ {
+  "pdb": "9GWT",
+  "abId": "sabdab2_H04XGL03RW",
+  "antigen": "Cell surface glycoprotein CD200 receptor 1",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "P"
+  ],
+  "release": "2024-10-23",
+  "resolution": 2.89,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q8TD46"
+ },
+ {
+  "pdb": "8REK",
+  "abId": "sabdab2_H04G3L03EZ",
+  "antigen": "Apical membrane antigen 1 (Fragment)",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-16",
+  "resolution": 3.05,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A5K4Z2"
+ },
+ {
+  "pdb": "8UDR",
+  "abId": "sabdab2_H04SGL03NX",
+  "antigen": "HLA class I histocompatibility antigen, A alpha chain",
+  "format": "Fab",
+  "Hchain": "D",
+  "Lchain": "E",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-16",
+  "resolution": 3.1,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P04439"
+ },
+ {
+  "pdb": "8UP2",
+  "abId": "sabdab2_H04Q1L03M5",
+  "antigen": "Factor H binding protein, sequence variant ID 1",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-10-16",
+  "resolution": 1.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q9JXV4"
+ },
+ {
+  "pdb": "9AU1",
+  "abId": "sabdab2_H05D6L03BW",
+  "antigen": "4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "R"
+  ],
+  "release": "2024-10-16",
+  "resolution": 2.41,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A8A5XRG7"
+ },
+ {
+  "pdb": "9BIA",
+  "abId": "sabdab2_H0337L0000",
+  "antigen": "Ninjurin-1",
+  "format": "VHH",
+  "Hchain": "E",
+  "Lchain": null,
+  "agChains": [
+   "B",
+   "D"
+  ],
+  "release": "2024-10-16",
+  "resolution": 3,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "O70131"
+ },
+ {
+  "pdb": "8V5L",
+  "abId": "sabdab2_H049BL03AJ",
+  "antigen": "Envelope glycoprotein E",
+  "format": "Fab",
+  "Hchain": "B",
+  "Lchain": "C",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-09",
+  "resolution": 3.09,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A6XEF7"
+ },
+ {
+  "pdb": "8S4U",
+  "abId": "sabdab2_H04QKL0000",
+  "antigen": "Thiamine transporter 2",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-02",
+  "resolution": 3.09,
+  "method": "Em",
+  "nStructures": 2,
+  "agUniProt": "Q9BZV2"
+ },
+ {
+  "pdb": "8VGV",
+  "abId": "sabdab2_H04TNL03PQ",
+  "antigen": "CH848 DE3 SOSIP gp120",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-02",
+  "resolution": 3.6,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "A0A1W6IPB2"
+ },
+ {
+  "pdb": "8VH1",
+  "abId": "sabdab2_H04QRL03MP",
+  "antigen": "CH505.M5 SOSIP gp120",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-10-02",
+  "resolution": 4.08,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "M4M0W3"
+ },
+ {
+  "pdb": "8QJ2",
+  "abId": "sabdab2_H04MNL0000",
+  "antigen": "Soluble cytochrome b562,Melanocortin receptor 4,Red fluorescent protein drFP583",
+  "format": "VHH",
+  "Hchain": "D",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-09-25",
+  "resolution": 3.4,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P0ABE7"
+ },
+ {
+  "pdb": "8WEO",
+  "abId": "sabdab2_H04QXL0000",
+  "antigen": "Fragilysin",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-09-25",
+  "resolution": 1.5,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P54355"
+ },
+ {
+  "pdb": "8WCG",
+  "abId": "sabdab2_H05YEL0000",
+  "antigen": "Spike protein S1",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2024-09-18",
+  "resolution": 2.599,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P59594"
+ },
+ {
+  "pdb": "8XPS",
+  "abId": "sabdab2_H048NL0000",
+  "antigen": "Nipah virus Bangladesh string G protein",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-09-18",
+  "resolution": 3.22,
+  "method": "Em",
+  "nStructures": 3,
+  "agUniProt": "Q4VCP5"
+ },
+ {
+  "pdb": "8TV5",
+  "abId": "sabdab2_H04S7L03D7",
+  "antigen": "Ephrin type-A receptor 2",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-09-11",
+  "resolution": 4.6,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "P29317"
+ },
+ {
+  "pdb": "8TX3",
+  "abId": "sabdab2_H04JAL03GX",
+  "antigen": "Hemagglutinin",
+  "format": "Fab",
+  "Hchain": "E",
+  "Lchain": "J",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2024-09-11",
+  "resolution": 2.99,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "L0HR89"
+ },
+ {
+  "pdb": "8UKH",
+  "abId": "sabdab2_H04R9L03N1",
+  "antigen": "Cell traversal protein for ookinetes and sporozoites",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2024-09-11",
+  "resolution": 3.52,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q8I5P1"
+ },
+ {
+  "pdb": "8ULF",
+  "abId": "sabdab2_H04JML03H4",
+  "antigen": "Pv cell-traversal protein",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A",
+   "B"
+  ],
+  "release": "2024-09-11",
+  "resolution": 3.2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "Q53UB7"
+ },
+ {
+  "pdb": "8YSF",
+  "abId": "sabdab2_H05E0L0000",
+  "antigen": "Spike glycoprotein",
+  "format": "VHH",
+  "Hchain": "C",
+  "Lchain": null,
+  "agChains": [
+   "B"
+  ],
+  "release": "2024-09-11",
+  "resolution": 2.76,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "R9UQ53"
+ },
+ {
+  "pdb": "8YXI",
+  "abId": "sabdab2_H051SL03VV",
+  "antigen": "Envelopment polyprotein",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "B",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-09-11",
+  "resolution": 2.4,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "A0A2Z4HIM0"
+ },
+ {
+  "pdb": "8ZOY",
+  "abId": "sabdab2_H051CL0000",
+  "antigen": "Sodium-dependent noradrenaline transporter",
+  "format": "VHH",
+  "Hchain": "B",
+  "Lchain": null,
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-09-11",
+  "resolution": 2.5,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "P23975"
+ },
+ {
+  "pdb": "9CLP",
+  "abId": "sabdab2_H058PL040N",
+  "antigen": "Zinc metalloproteinase-disintegrin-like ecarin",
+  "format": "Fab",
+  "Hchain": "H",
+  "Lchain": "L",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-09-11",
+  "resolution": 3.43,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q90495"
+ },
+ {
+  "pdb": "9IMA",
+  "abId": "sabdab2_H0538L03X2",
+  "antigen": "G-protein coupled receptor family C group 5 member D",
+  "format": "Fab",
+  "Hchain": "C",
+  "Lchain": "D",
+  "agChains": [
+   "A"
+  ],
+  "release": "2024-09-11",
+  "resolution": 2.65,
+  "method": "Em",
+  "nStructures": 1,
+  "agUniProt": "Q9NZD1"
+ },
+ {
+  "pdb": "9JBQ",
+  "abId": "sabdab2_H058JL040J",
+  "antigen": "PcrV",
+  "format": "Fab",
+  "Hchain": "A",
+  "Lchain": "B",
+  "agChains": [
+   "C"
+  ],
+  "release": "2024-09-11",
+  "resolution": 2,
+  "method": "X-Ray",
+  "nStructures": 1,
+  "agUniProt": "G3XD49"
+ }
+]

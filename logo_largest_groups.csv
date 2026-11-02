@@ -1,0 +1,901 @@
+grouping,group,size,antigens,model,model_mean_in_group,delta_raw_score_if_dropped,delta_weighted_score_if_dropped,raw_rank,raw_rank_if_dropped
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),AF-Multimer,0.0583,0.002,0.0002,18,18
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Chai-1,0.1958,-0.0002,-0.0,10,11
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Boltz-1,0.0168,0.0052,0.0005,17,17
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v0.5,0.1816,-0.0003,-0.0,13,15
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Boltz-2,0.1638,0.0005,0.0,12,14
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),RosettaFold3-09/21,0.0941,0.0034,0.0003,14,13
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),RosettaFold3-01/24,0.1968,0.0001,0.0,9,9
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v1,0.1652,0.0025,0.0003,8,8
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v1-20250630,0.152,0.0042,0.0004,6,6
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),IntelliFold-2,0.1508,0.0041,0.0004,7,7
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),IntelliFold-2-Flash,0.0142,0.0066,0.0006,15,12
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenFold3-p2,0.0548,0.0043,0.0004,16,16
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v2,0.3408,-0.0006,-0.0,4,4
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),ESMFold2,0.2898,-0.0012,-0.0001,5,5
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Promera,0.099,0.0038,0.0003,11,10
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenDDE,0.3155,0.0016,0.0001,2,2
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenDDE-AbAg,0.3093,0.0018,0.0002,3,3
+ag30,AG30_001,17,H1 HA1; H1 HA2; Hemagglutinin (+6),Mol-1,0.264,0.004,0.0004,1,1
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),AF-Multimer,0.2001,-0.0032,-0.0003,18,18
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Chai-1,0.2272,-0.0013,-0.0001,10,10
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Boltz-1,0.212,-0.0024,-0.0002,17,17
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Protenix-v0.5,0.2982,-0.0042,-0.0004,13,15
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Boltz-2,0.2536,-0.0027,-0.0003,12,12
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),RosettaFold3-09/21,0.2635,-0.0031,-0.0003,14,13
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),RosettaFold3-01/24,0.2305,-0.0011,-0.0001,9,9
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Protenix-v1,0.2173,0.0002,0.0001,8,8
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Protenix-v1-20250630,0.1924,0.0021,0.0003,6,6
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),IntelliFold-2,0.2263,0.0008,0.0001,7,7
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),IntelliFold-2-Flash,0.1953,-0.0008,-0.0,15,14
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),OpenFold3-p2,0.2097,-0.0018,-0.0001,16,16
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Protenix-v2,0.31,0.0006,0.0001,4,4
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),ESMFold2,0.2403,0.0007,0.0001,5,5
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Promera,0.2269,-0.0013,-0.0001,11,11
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),OpenDDE,0.3191,0.0012,0.0001,2,2
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),OpenDDE-AbAg,0.2387,0.0039,0.0004,3,3
+ag30,AG30_002,14,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+12),Mol-1,0.1899,0.0058,0.0006,1,1
+ag30,AG30_003,11,Hemagglutinin,AF-Multimer,0.0351,0.0019,0.0003,18,18
+ag30,AG30_003,11,Hemagglutinin,Chai-1,0.1474,0.0011,0.0001,10,10
+ag30,AG30_003,11,Hemagglutinin,Boltz-1,0.0597,0.0022,0.0003,17,17
+ag30,AG30_003,11,Hemagglutinin,Protenix-v0.5,0.1086,0.0018,0.0002,13,13
+ag30,AG30_003,11,Hemagglutinin,Boltz-2,0.1967,-0.0006,-0.0001,12,15
+ag30,AG30_003,11,Hemagglutinin,RosettaFold3-09/21,0.023,0.004,0.0006,14,12
+ag30,AG30_003,11,Hemagglutinin,RosettaFold3-01/24,0.0817,0.0031,0.0004,9,9
+ag30,AG30_003,11,Hemagglutinin,Protenix-v1,0.0418,0.0049,0.0007,8,8
+ag30,AG30_003,11,Hemagglutinin,Protenix-v1-20250630,0.1681,0.0023,0.0004,6,6
+ag30,AG30_003,11,Hemagglutinin,IntelliFold-2,0.1664,0.0022,0.0003,7,7
+ag30,AG30_003,11,Hemagglutinin,IntelliFold-2-Flash,0.0267,0.0039,0.0006,15,14
+ag30,AG30_003,11,Hemagglutinin,OpenFold3-p2,0.0237,0.0036,0.0005,16,16
+ag30,AG30_003,11,Hemagglutinin,Protenix-v2,0.3271,0.0,0.0,4,4
+ag30,AG30_003,11,Hemagglutinin,ESMFold2,0.2743,-0.0003,-0.0,5,5
+ag30,AG30_003,11,Hemagglutinin,Promera,0.1845,0.0001,0.0001,11,11
+ag30,AG30_003,11,Hemagglutinin,OpenDDE,0.2736,0.0022,0.0003,2,2
+ag30,AG30_003,11,Hemagglutinin,OpenDDE-AbAg,0.3013,0.0014,0.0002,3,3
+ag30,AG30_003,11,Hemagglutinin,Mol-1,0.3738,-0.0004,0.0,1,1
+ag30,AG30_004,11,Neuraminidase,AF-Multimer,0.0619,0.0012,0.0002,18,18
+ag30,AG30_004,11,Neuraminidase,Chai-1,0.038,0.0041,0.0005,10,10
+ag30,AG30_004,11,Neuraminidase,Boltz-1,0.0676,0.002,0.0003,17,17
+ag30,AG30_004,11,Neuraminidase,Protenix-v0.5,0.1744,0.0,0.0,13,14
+ag30,AG30_004,11,Neuraminidase,Boltz-2,0.0797,0.0026,0.0003,12,12
+ag30,AG30_004,11,Neuraminidase,RosettaFold3-09/21,0.1171,0.0015,0.0002,14,13
+ag30,AG30_004,11,Neuraminidase,RosettaFold3-01/24,0.17,0.0008,0.0001,9,9
+ag30,AG30_004,11,Neuraminidase,Protenix-v1,0.1804,0.0012,0.0002,8,8
+ag30,AG30_004,11,Neuraminidase,Protenix-v1-20250630,0.1338,0.0032,0.0005,6,6
+ag30,AG30_004,11,Neuraminidase,IntelliFold-2,0.2435,0.0002,0.0,7,7
+ag30,AG30_004,11,Neuraminidase,IntelliFold-2-Flash,0.0565,0.0031,0.0005,15,15
+ag30,AG30_004,11,Neuraminidase,OpenFold3-p2,0.0678,0.0024,0.0004,16,16
+ag30,AG30_004,11,Neuraminidase,Protenix-v2,0.1887,0.0037,0.0005,4,4
+ag30,AG30_004,11,Neuraminidase,ESMFold2,0.1429,0.0032,0.0004,5,5
+ag30,AG30_004,11,Neuraminidase,Promera,0.0709,0.0032,0.0004,11,11
+ag30,AG30_004,11,Neuraminidase,OpenDDE,0.4663,-0.003,-0.0004,2,3
+ag30,AG30_004,11,Neuraminidase,OpenDDE-AbAg,0.329,0.0006,0.0001,3,2
+ag30,AG30_004,11,Neuraminidase,Mol-1,0.3271,0.0009,0.0002,1,1
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,AF-Multimer,0.1035,0.0001,0.0,18,18
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Chai-1,0.3493,-0.0035,-0.0005,10,11
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-1,0.0785,0.0014,0.0003,17,17
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v0.5,0.1073,0.0015,0.0002,13,12
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-2,0.1401,0.0008,0.0001,12,14
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-09/21,0.0949,0.0017,0.0003,14,13
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-01/24,0.0945,0.0023,0.0004,9,9
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1,0.1784,0.001,0.0002,8,8
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1-20250630,0.1804,0.0016,0.0003,6,6
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2,0.0879,0.0035,0.0006,7,7
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2-Flash,0.0707,0.0022,0.0004,15,15
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenFold3-p2,0.0619,0.0021,0.0004,16,16
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v2,0.4605,-0.0029,-0.0004,4,4
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,ESMFold2,0.0131,0.0054,0.0009,5,5
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Promera,0.1485,0.0009,0.0002,11,10
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE,0.3112,0.0009,0.0002,2,2
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE-AbAg,0.3546,-0.0001,0.0,3,3
+ag30,AG30_005,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Mol-1,0.4805,-0.0026,-0.0004,1,1
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),AF-Multimer,0.0416,0.0008,0.0002,18,18
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Chai-1,0.0349,0.0019,0.0005,10,10
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Boltz-1,0.053,0.0011,0.0004,17,17
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v0.5,0.0686,0.0013,0.0004,13,13
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Boltz-2,0.0485,0.0015,0.0004,12,12
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),RosettaFold3-09/21,0.0492,0.0015,0.0005,14,14
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),RosettaFold3-01/24,0.0374,0.0019,0.0006,9,9
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v1,0.154,0.0008,0.0003,8,8
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v1-20250630,0.1411,0.0013,0.0004,6,6
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),IntelliFold-2,0.075,0.0021,0.0006,7,7
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),IntelliFold-2-Flash,0.1164,0.0007,0.0003,15,15
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenFold3-p2,0.0207,0.0016,0.0005,16,16
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v2,0.1267,0.0024,0.0007,4,4
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),ESMFold2,0.0341,0.0027,0.0008,5,5
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Promera,0.0364,0.0018,0.0006,11,11
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenDDE,0.0636,0.0035,0.001,2,2
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenDDE-AbAg,0.145,0.0025,0.0007,3,3
+ag30,AG30_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Mol-1,0.075,0.0034,0.001,1,1
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),AF-Multimer,0.0136,0.0011,0.0003,18,18
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Chai-1,0.1015,0.0011,0.0003,10,10
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Boltz-1,0.0181,0.0015,0.0005,17,17
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v0.5,0.2195,-0.0005,-0.0001,13,13
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Boltz-2,0.3216,-0.0018,-0.0005,12,15
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),RosettaFold3-09/21,0.1485,0.0003,0.0001,14,12
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),RosettaFold3-01/24,0.2687,-0.0008,-0.0002,9,9
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v1,0.035,0.0023,0.0007,8,8
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v1-20250630,0.0257,0.0027,0.0008,6,6
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),IntelliFold-2,0.2323,0.0002,0.0001,7,7
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),IntelliFold-2-Flash,0.0082,0.002,0.0006,15,14
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenFold3-p2,0.2568,-0.0012,-0.0003,16,16
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v2,0.3792,-0.0006,-0.0002,4,4
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),ESMFold2,0.4437,-0.0022,-0.0006,5,5
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Promera,0.0472,0.0017,0.0005,11,11
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenDDE,0.5618,-0.0025,-0.0007,2,2
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenDDE-AbAg,0.5794,-0.0027,-0.0008,3,3
+ag30,AG30_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Mol-1,0.5426,-0.0022,-0.0006,1,1
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,AF-Multimer,0.0623,0.0004,0.0002,18,18
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Chai-1,0.308,-0.0011,-0.0004,10,11
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Boltz-1,0.0197,0.0012,0.0005,17,17
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v0.5,0.0266,0.0014,0.0005,13,13
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Boltz-2,0.0412,0.0013,0.0005,12,12
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,RosettaFold3-09/21,0.0839,0.0009,0.0004,14,14
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,RosettaFold3-01/24,0.1483,0.0005,0.0002,9,9
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v1,0.4146,-0.0018,-0.0006,8,8
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v1-20250630,0.3906,-0.0013,-0.0004,6,6
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,IntelliFold-2,0.2611,-0.0001,-0.0,7,7
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,IntelliFold-2-Flash,0.1104,0.0006,0.0003,15,15
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenFold3-p2,0.0285,0.0012,0.0005,16,16
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v2,0.2449,0.0008,0.0003,4,4
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,ESMFold2,0.0177,0.0023,0.0009,5,5
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Promera,0.0518,0.0013,0.0005,11,10
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenDDE,0.3248,0.0003,0.0001,2,2
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenDDE-AbAg,0.1714,0.0017,0.0006,3,3
+ag30,AG30_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Mol-1,0.126,0.0022,0.0008,1,1
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,AF-Multimer,0.0579,0.0005,0.0002,18,18
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Chai-1,0.2695,-0.0008,-0.0003,10,11
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Boltz-1,0.2415,-0.001,-0.0003,17,17
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v0.5,0.1206,0.0005,0.0002,13,12
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Boltz-2,0.2442,-0.0007,-0.0002,12,13
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,RosettaFold3-09/21,0.2967,-0.0012,-0.0004,14,14
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,RosettaFold3-01/24,0.2312,-0.0003,-0.0001,9,9
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v1,0.0286,0.0019,0.0007,8,8
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v1-20250630,0.154,0.0009,0.0004,6,6
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,IntelliFold-2,0.4123,-0.0016,-0.0005,7,7
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,IntelliFold-2-Flash,0.1522,0.0002,0.0001,15,15
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,OpenFold3-p2,0.039,0.0011,0.0005,16,16
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v2,0.2417,0.0008,0.0003,4,4
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,ESMFold2,0.4906,-0.0022,-0.0007,5,5
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Promera,0.1098,0.0008,0.0003,11,10
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,OpenDDE,0.582,-0.0022,-0.0008,2,2
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,OpenDDE-AbAg,0.7303,-0.0036,-0.0013,3,3
+ag30,AG30_009,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Mol-1,0.0596,0.0029,0.0011,1,1
+ag30,AG30_010,3,Major capsid protein VP1; VP1,AF-Multimer,0.0288,0.0006,0.0003,18,18
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Chai-1,0.0082,0.0013,0.0006,10,10
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Boltz-1,0.0101,0.0009,0.0005,17,17
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Protenix-v0.5,0.0078,0.0012,0.0006,13,12
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Boltz-2,0.0769,0.0007,0.0003,12,13
+ag30,AG30_010,3,Major capsid protein VP1; VP1,RosettaFold3-09/21,0.0198,0.0011,0.0006,14,14
+ag30,AG30_010,3,Major capsid protein VP1; VP1,RosettaFold3-01/24,0.2626,-0.0005,-0.0002,9,9
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Protenix-v1,0.0246,0.0014,0.0007,8,8
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Protenix-v1-20250630,0.3529,-0.0007,-0.0003,6,6
+ag30,AG30_010,3,Major capsid protein VP1; VP1,IntelliFold-2,0.3245,-0.0005,-0.0002,7,7
+ag30,AG30_010,3,Major capsid protein VP1; VP1,IntelliFold-2-Flash,0.1864,-0.0001,0.0,15,15
+ag30,AG30_010,3,Major capsid protein VP1; VP1,OpenFold3-p2,0.0629,0.0007,0.0004,16,16
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Protenix-v2,0.2841,0.0003,0.0002,4,4
+ag30,AG30_010,3,Major capsid protein VP1; VP1,ESMFold2,0.2743,-0.0001,-0.0,5,5
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Promera,0.1226,0.0005,0.0003,11,11
+ag30,AG30_010,3,Major capsid protein VP1; VP1,OpenDDE,0.2075,0.0011,0.0005,2,2
+ag30,AG30_010,3,Major capsid protein VP1; VP1,OpenDDE-AbAg,0.288,0.0005,0.0002,3,3
+ag30,AG30_010,3,Major capsid protein VP1; VP1,Mol-1,0.2856,0.0005,0.0003,1,1
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),AF-Multimer,0.0604,0.0018,0.0002,18,18
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Chai-1,0.2028,-0.0005,-0.0,10,11
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Boltz-1,0.0172,0.0049,0.0004,17,17
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v0.5,0.1881,-0.0005,-0.0,13,15
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Boltz-2,0.1694,0.0002,0.0,12,14
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),RosettaFold3-09/21,0.0993,0.003,0.0003,14,13
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),RosettaFold3-01/24,0.2083,-0.0004,-0.0,9,9
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v1,0.1748,0.002,0.0002,8,8
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v1-20250630,0.1608,0.0036,0.0003,6,6
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),IntelliFold-2,0.1543,0.0037,0.0003,7,7
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),IntelliFold-2-Flash,0.0143,0.0062,0.0006,15,12
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenFold3-p2,0.0575,0.0039,0.0004,16,16
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v2,0.3128,0.0006,0.0,4,4
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),ESMFold2,0.3072,-0.0018,-0.0001,5,5
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Promera,0.1045,0.0033,0.0003,11,10
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenDDE,0.3345,0.0008,0.0001,2,2
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenDDE-AbAg,0.3279,0.0009,0.0001,3,3
+ag50,AG50_001,16,H1 HA1; H1 HA2; Hemagglutinin (+6),Mol-1,0.2743,0.0033,0.0003,1,1
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),AF-Multimer,0.2035,-0.0029,-0.0003,18,18
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Chai-1,0.2029,-0.0004,-0.0,10,10
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Boltz-1,0.1992,-0.0017,-0.0001,17,17
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v0.5,0.2931,-0.0035,-0.0004,13,15
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Boltz-2,0.2574,-0.0024,-0.0003,12,12
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),RosettaFold3-09/21,0.2543,-0.0023,-0.0002,14,13
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),RosettaFold3-01/24,0.2089,-0.0003,-0.0,9,9
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v1,0.189,0.001,0.0002,8,8
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v1-20250630,0.2149,0.0011,0.0002,6,6
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),IntelliFold-2,0.2091,0.0012,0.0001,7,7
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),IntelliFold-2-Flash,0.1592,0.0004,0.0001,15,14
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),OpenFold3-p2,0.2327,-0.0022,-0.0002,16,16
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v2,0.2972,0.0009,0.0001,4,4
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),ESMFold2,0.2215,0.0012,0.0002,5,5
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Promera,0.2132,-0.0007,-0.0,11,11
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),OpenDDE,0.2592,0.0028,0.0003,2,2
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),OpenDDE-AbAg,0.2116,0.0041,0.0004,3,3
+ag50,AG50_002,12,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Mol-1,0.216,0.0042,0.0005,1,1
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,AF-Multimer,0.1035,0.0001,0.0,18,18
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Chai-1,0.3493,-0.0035,-0.0005,10,11
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-1,0.0785,0.0014,0.0002,17,17
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v0.5,0.1073,0.0015,0.0002,13,12
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-2,0.1401,0.0008,0.0001,12,14
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-09/21,0.0949,0.0017,0.0003,14,13
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-01/24,0.0945,0.0023,0.0004,9,9
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1,0.1784,0.001,0.0002,8,8
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1-20250630,0.1804,0.0016,0.0003,6,6
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2,0.0879,0.0035,0.0005,7,7
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2-Flash,0.0707,0.0022,0.0004,15,15
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenFold3-p2,0.0619,0.0021,0.0003,16,16
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v2,0.4605,-0.0029,-0.0004,4,4
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,ESMFold2,0.0131,0.0054,0.0008,5,5
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Promera,0.1485,0.0009,0.0002,11,10
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE,0.3112,0.0009,0.0001,2,2
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE-AbAg,0.3546,-0.0001,-0.0,3,3
+ag50,AG50_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Mol-1,0.4805,-0.0026,-0.0004,1,1
+ag50,AG50_004,6,Neuraminidase,AF-Multimer,0.0794,0.0004,0.0001,18,18
+ag50,AG50_004,6,Neuraminidase,Chai-1,0.0574,0.0019,0.0004,10,10
+ag50,AG50_004,6,Neuraminidase,Boltz-1,0.0368,0.0015,0.0004,17,17
+ag50,AG50_004,6,Neuraminidase,Protenix-v0.5,0.0887,0.0012,0.0003,13,13
+ag50,AG50_004,6,Neuraminidase,Boltz-2,0.0421,0.0019,0.0004,12,12
+ag50,AG50_004,6,Neuraminidase,RosettaFold3-09/21,0.0996,0.0011,0.0003,14,14
+ag50,AG50_004,6,Neuraminidase,RosettaFold3-01/24,0.063,0.002,0.0005,9,9
+ag50,AG50_004,6,Neuraminidase,Protenix-v1,0.2109,0.0002,0.0001,8,8
+ag50,AG50_004,6,Neuraminidase,Protenix-v1-20250630,0.1123,0.002,0.0005,6,6
+ag50,AG50_004,6,Neuraminidase,IntelliFold-2,0.1232,0.0018,0.0004,7,7
+ag50,AG50_004,6,Neuraminidase,IntelliFold-2-Flash,0.0826,0.0013,0.0003,15,15
+ag50,AG50_004,6,Neuraminidase,OpenFold3-p2,0.0885,0.001,0.0003,16,16
+ag50,AG50_004,6,Neuraminidase,Protenix-v2,0.0645,0.0038,0.0008,4,4
+ag50,AG50_004,6,Neuraminidase,ESMFold2,0.0523,0.003,0.0007,5,5
+ag50,AG50_004,6,Neuraminidase,Promera,0.0664,0.0018,0.0004,11,11
+ag50,AG50_004,6,Neuraminidase,OpenDDE,0.4184,-0.0009,-0.0002,2,3
+ag50,AG50_004,6,Neuraminidase,OpenDDE-AbAg,0.2115,0.002,0.0004,3,2
+ag50,AG50_004,6,Neuraminidase,Mol-1,0.307,0.0008,0.0002,1,1
+ag50,AG50_005,5,Hemagglutinin,AF-Multimer,0.015,0.0011,0.0003,18,18
+ag50,AG50_005,5,Hemagglutinin,Chai-1,0.2366,-0.0006,-0.0002,10,11
+ag50,AG50_005,5,Hemagglutinin,Boltz-1,0.0083,0.0016,0.0005,17,17
+ag50,AG50_005,5,Hemagglutinin,Protenix-v0.5,0.1509,0.0003,0.0001,13,13
+ag50,AG50_005,5,Hemagglutinin,Boltz-2,0.2662,-0.0011,-0.0003,12,14
+ag50,AG50_005,5,Hemagglutinin,RosettaFold3-09/21,0.0168,0.0019,0.0005,14,12
+ag50,AG50_005,5,Hemagglutinin,RosettaFold3-01/24,0.1372,0.0007,0.0002,9,9
+ag50,AG50_005,5,Hemagglutinin,Protenix-v1,0.0829,0.0017,0.0005,8,8
+ag50,AG50_005,5,Hemagglutinin,Protenix-v1-20250630,0.2781,-0.0003,-0.0,6,6
+ag50,AG50_005,5,Hemagglutinin,IntelliFold-2,0.1734,0.0009,0.0003,7,7
+ag50,AG50_005,5,Hemagglutinin,IntelliFold-2-Flash,0.0315,0.0017,0.0005,15,15
+ag50,AG50_005,5,Hemagglutinin,OpenFold3-p2,0.0218,0.0016,0.0005,16,16
+ag50,AG50_005,5,Hemagglutinin,Protenix-v2,0.469,-0.0017,-0.0004,4,4
+ag50,AG50_005,5,Hemagglutinin,ESMFold2,0.2924,-0.0004,-0.0001,5,5
+ag50,AG50_005,5,Hemagglutinin,Promera,0.067,0.0015,0.0004,11,10
+ag50,AG50_005,5,Hemagglutinin,OpenDDE,0.2442,0.0013,0.0004,2,2
+ag50,AG50_005,5,Hemagglutinin,OpenDDE-AbAg,0.3637,-0.0001,-0.0,3,3
+ag50,AG50_005,5,Hemagglutinin,Mol-1,0.4097,-0.0006,-0.0001,1,1
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),AF-Multimer,0.0416,0.0008,0.0002,18,18
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Chai-1,0.0349,0.0019,0.0005,10,10
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Boltz-1,0.053,0.0011,0.0003,17,17
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v0.5,0.0686,0.0013,0.0003,13,13
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Boltz-2,0.0485,0.0015,0.0004,12,12
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),RosettaFold3-09/21,0.0492,0.0015,0.0004,14,14
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),RosettaFold3-01/24,0.0374,0.0019,0.0005,9,9
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v1,0.154,0.0008,0.0003,8,8
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v1-20250630,0.1411,0.0013,0.0004,6,6
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),IntelliFold-2,0.075,0.0021,0.0006,7,7
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),IntelliFold-2-Flash,0.1164,0.0007,0.0002,15,15
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenFold3-p2,0.0207,0.0016,0.0005,16,16
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v2,0.1267,0.0024,0.0006,4,4
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),ESMFold2,0.0341,0.0027,0.0008,5,5
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Promera,0.0364,0.0018,0.0005,11,11
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenDDE,0.0636,0.0035,0.0009,2,2
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenDDE-AbAg,0.145,0.0025,0.0007,3,3
+ag50,AG50_006,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Mol-1,0.075,0.0034,0.0009,1,1
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),AF-Multimer,0.0136,0.0011,0.0003,18,18
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Chai-1,0.1015,0.0011,0.0003,10,10
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Boltz-1,0.0181,0.0015,0.0004,17,17
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v0.5,0.2195,-0.0005,-0.0001,13,13
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Boltz-2,0.3216,-0.0018,-0.0005,12,15
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),RosettaFold3-09/21,0.1485,0.0003,0.0001,14,12
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),RosettaFold3-01/24,0.2687,-0.0008,-0.0002,9,9
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v1,0.035,0.0023,0.0006,8,8
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v1-20250630,0.0257,0.0027,0.0008,6,6
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),IntelliFold-2,0.2323,0.0002,0.0001,7,7
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),IntelliFold-2-Flash,0.0082,0.002,0.0006,15,14
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenFold3-p2,0.2568,-0.0012,-0.0003,16,16
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v2,0.3792,-0.0006,-0.0002,4,4
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),ESMFold2,0.4437,-0.0022,-0.0006,5,5
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Promera,0.0472,0.0017,0.0005,11,11
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenDDE,0.5618,-0.0025,-0.0007,2,2
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenDDE-AbAg,0.5794,-0.0027,-0.0007,3,3
+ag50,AG50_007,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Mol-1,0.5426,-0.0022,-0.0006,1,1
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,AF-Multimer,0.0623,0.0004,0.0002,18,18
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Chai-1,0.308,-0.0011,-0.0004,10,11
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Boltz-1,0.0197,0.0012,0.0004,17,17
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v0.5,0.0266,0.0014,0.0005,13,13
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Boltz-2,0.0412,0.0013,0.0004,12,12
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,RosettaFold3-09/21,0.0839,0.0009,0.0003,14,14
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,RosettaFold3-01/24,0.1483,0.0005,0.0002,9,9
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v1,0.4146,-0.0018,-0.0006,8,8
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v1-20250630,0.3906,-0.0013,-0.0004,6,6
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,IntelliFold-2,0.2611,-0.0001,-0.0,7,7
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,IntelliFold-2-Flash,0.1104,0.0006,0.0002,15,15
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenFold3-p2,0.0285,0.0012,0.0004,16,16
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v2,0.2449,0.0008,0.0003,4,4
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,ESMFold2,0.0177,0.0023,0.0008,5,5
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Promera,0.0518,0.0013,0.0005,11,10
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenDDE,0.3248,0.0003,0.0001,2,2
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenDDE-AbAg,0.1714,0.0017,0.0006,3,3
+ag50,AG50_008,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Mol-1,0.126,0.0022,0.0008,1,1
+ag50,AG50_009,4,Neuraminidase,AF-Multimer,0.036,0.0007,0.0002,18,18
+ag50,AG50_009,4,Neuraminidase,Chai-1,0.0167,0.0017,0.0005,10,10
+ag50,AG50_009,4,Neuraminidase,Boltz-1,0.1288,0.0001,0.0001,17,17
+ag50,AG50_009,4,Neuraminidase,Protenix-v0.5,0.3423,-0.0016,-0.0005,13,14
+ag50,AG50_009,4,Neuraminidase,Boltz-2,0.1516,0.0002,0.0001,12,12
+ag50,AG50_009,4,Neuraminidase,RosettaFold3-09/21,0.1683,0.0001,0.0001,14,13
+ag50,AG50_009,4,Neuraminidase,RosettaFold3-01/24,0.3688,-0.0016,-0.0005,9,9
+ag50,AG50_009,4,Neuraminidase,Protenix-v1,0.1751,0.0005,0.0002,8,8
+ag50,AG50_009,4,Neuraminidase,Protenix-v1-20250630,0.1966,0.0005,0.0002,6,6
+ag50,AG50_009,4,Neuraminidase,IntelliFold-2,0.3526,-0.001,-0.0003,7,7
+ag50,AG50_009,4,Neuraminidase,IntelliFold-2-Flash,0.0282,0.0014,0.0005,15,15
+ag50,AG50_009,4,Neuraminidase,OpenFold3-p2,0.038,0.0011,0.0004,16,16
+ag50,AG50_009,4,Neuraminidase,Protenix-v2,0.4189,-0.0009,-0.0003,4,4
+ag50,AG50_009,4,Neuraminidase,ESMFold2,0.3131,-0.0005,-0.0001,5,5
+ag50,AG50_009,4,Neuraminidase,Promera,0.0794,0.001,0.0004,11,11
+ag50,AG50_009,4,Neuraminidase,OpenDDE,0.6517,-0.0028,-0.0009,2,2
+ag50,AG50_009,4,Neuraminidase,OpenDDE-AbAg,0.5835,-0.0022,-0.0007,3,3
+ag50,AG50_009,4,Neuraminidase,Mol-1,0.4361,-0.0007,-0.0002,1,1
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,AF-Multimer,0.0579,0.0005,0.0002,18,18
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Chai-1,0.2695,-0.0008,-0.0003,10,11
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Boltz-1,0.2415,-0.001,-0.0003,17,17
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v0.5,0.1206,0.0005,0.0002,13,12
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Boltz-2,0.2442,-0.0007,-0.0002,12,13
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,RosettaFold3-09/21,0.2967,-0.0012,-0.0004,14,14
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,RosettaFold3-01/24,0.2312,-0.0003,-0.0001,9,9
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v1,0.0286,0.0019,0.0007,8,8
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v1-20250630,0.154,0.0009,0.0004,6,6
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,IntelliFold-2,0.4123,-0.0016,-0.0005,7,7
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,IntelliFold-2-Flash,0.1522,0.0002,0.0001,15,15
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,OpenFold3-p2,0.039,0.0011,0.0004,16,16
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Protenix-v2,0.2417,0.0008,0.0003,4,4
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,ESMFold2,0.4906,-0.0022,-0.0007,5,5
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Promera,0.1098,0.0008,0.0003,11,10
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,OpenDDE,0.582,-0.0022,-0.0007,2,2
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,OpenDDE-AbAg,0.7303,-0.0036,-0.0012,3,3
+ag50,AG50_010,4,SARS XBB.1.5 Spike; SARS-CoV-2 XBB.1.5 RBD; Spike protein S1,Mol-1,0.0596,0.0029,0.001,1,1
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",AF-Multimer,0.2661,-0.0035,-0.0004,18,18
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Chai-1,0.2579,-0.0015,-0.0002,10,10
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Boltz-1,0.2607,-0.0026,-0.0003,17,17
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Protenix-v0.5,0.2918,-0.0025,-0.0003,13,13
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Boltz-2,0.2646,-0.002,-0.0003,12,12
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",RosettaFold3-09/21,0.3317,-0.0034,-0.0004,14,14
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",RosettaFold3-01/24,0.2733,-0.0016,-0.0002,9,9
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Protenix-v1,0.2402,-0.0003,-0.0,8,8
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Protenix-v1-20250630,0.2778,-0.0005,-0.0001,6,6
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",IntelliFold-2,0.2744,-0.0006,-0.0001,7,7
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",IntelliFold-2-Flash,0.2089,-0.0008,-0.0001,15,15
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",OpenFold3-p2,0.2407,-0.0018,-0.0002,16,16
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Protenix-v2,0.318,0.0002,0.0,4,4
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",ESMFold2,0.2915,-0.0007,-0.0001,5,5
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Promera,0.2806,-0.002,-0.0003,11,11
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",OpenDDE,0.3413,0.0003,0.0,2,2
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",OpenDDE-AbAg,0.2787,0.0016,0.0002,3,3
+ag90,AG90_001,9,"HLA class I antigen; HLA class I histocompatibility antigen, A alpha chain; MHC class I antigen (+6)",Mol-1,0.2771,0.0018,0.0002,1,1
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,AF-Multimer,0.1035,0.0001,0.0,18,18
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Chai-1,0.3493,-0.0035,-0.0005,10,11
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-1,0.0785,0.0014,0.0002,17,17
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v0.5,0.1073,0.0015,0.0002,13,12
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-2,0.1401,0.0008,0.0001,12,14
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-09/21,0.0949,0.0017,0.0002,14,13
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-01/24,0.0945,0.0023,0.0003,9,9
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1,0.1784,0.001,0.0002,8,8
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1-20250630,0.1804,0.0016,0.0002,6,6
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2,0.0879,0.0035,0.0005,7,7
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2-Flash,0.0707,0.0022,0.0003,15,15
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenFold3-p2,0.0619,0.0021,0.0003,16,16
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v2,0.4605,-0.0029,-0.0004,4,4
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,ESMFold2,0.0131,0.0054,0.0007,5,5
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Promera,0.1485,0.0009,0.0001,11,10
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE,0.3112,0.0009,0.0001,2,2
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE-AbAg,0.3546,-0.0001,-0.0,3,3
+ag90,AG90_002,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Mol-1,0.4805,-0.0026,-0.0003,1,1
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),AF-Multimer,0.1109,-0.0001,-0.0,18,18
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Chai-1,0.2226,-0.0006,-0.0001,10,10
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Boltz-1,0.0087,0.0025,0.0004,17,17
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Protenix-v0.5,0.2362,-0.0012,-0.0002,13,14
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Boltz-2,0.2678,-0.0018,-0.0003,12,15
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),RosettaFold3-09/21,0.1866,-0.0002,-0.0,14,13
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),RosettaFold3-01/24,0.334,-0.0026,-0.0004,9,9
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Protenix-v1,0.2481,-0.0005,-0.0,8,8
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Protenix-v1-20250630,0.2091,0.0009,0.0001,6,6
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),IntelliFold-2,0.3003,-0.001,-0.0001,7,7
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),IntelliFold-2-Flash,0.0102,0.0031,0.0005,15,12
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),OpenFold3-p2,0.1059,0.001,0.0002,16,16
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Protenix-v2,0.4059,-0.0015,-0.0002,4,4
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),ESMFold2,0.4121,-0.0029,-0.0004,5,5
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Promera,0.1949,-0.0001,-0.0,11,11
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),OpenDDE,0.4166,-0.0012,-0.0002,2,2
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),OpenDDE-AbAg,0.4157,-0.0012,-0.0002,3,3
+ag90,AG90_003,8,H1 HA1; H1 HA2; Hemagglutinin (+3),Mol-1,0.283,0.0015,0.0002,1,1
+ag90,AG90_004,4,Neuraminidase,AF-Multimer,0.036,0.0007,0.0002,18,18
+ag90,AG90_004,4,Neuraminidase,Chai-1,0.0167,0.0017,0.0005,10,10
+ag90,AG90_004,4,Neuraminidase,Boltz-1,0.1288,0.0001,0.0001,17,17
+ag90,AG90_004,4,Neuraminidase,Protenix-v0.5,0.3423,-0.0016,-0.0005,13,14
+ag90,AG90_004,4,Neuraminidase,Boltz-2,0.1516,0.0002,0.0001,12,12
+ag90,AG90_004,4,Neuraminidase,RosettaFold3-09/21,0.1683,0.0001,0.0,14,13
+ag90,AG90_004,4,Neuraminidase,RosettaFold3-01/24,0.3688,-0.0016,-0.0005,9,9
+ag90,AG90_004,4,Neuraminidase,Protenix-v1,0.1751,0.0005,0.0002,8,8
+ag90,AG90_004,4,Neuraminidase,Protenix-v1-20250630,0.1966,0.0005,0.0002,6,6
+ag90,AG90_004,4,Neuraminidase,IntelliFold-2,0.3526,-0.001,-0.0003,7,7
+ag90,AG90_004,4,Neuraminidase,IntelliFold-2-Flash,0.0282,0.0014,0.0004,15,15
+ag90,AG90_004,4,Neuraminidase,OpenFold3-p2,0.038,0.0011,0.0004,16,16
+ag90,AG90_004,4,Neuraminidase,Protenix-v2,0.4189,-0.0009,-0.0003,4,4
+ag90,AG90_004,4,Neuraminidase,ESMFold2,0.3131,-0.0005,-0.0001,5,5
+ag90,AG90_004,4,Neuraminidase,Promera,0.0794,0.001,0.0003,11,11
+ag90,AG90_004,4,Neuraminidase,OpenDDE,0.6517,-0.0028,-0.0008,2,2
+ag90,AG90_004,4,Neuraminidase,OpenDDE-AbAg,0.5835,-0.0022,-0.0007,3,3
+ag90,AG90_004,4,Neuraminidase,Mol-1,0.4361,-0.0007,-0.0002,1,1
+ag90,AG90_005,4,Hemagglutinin,AF-Multimer,0.0452,0.0006,0.0002,18,18
+ag90,AG90_005,4,Hemagglutinin,Chai-1,0.0863,0.001,0.0003,10,10
+ag90,AG90_005,4,Hemagglutinin,Boltz-1,0.1503,-0.0001,-0.0,17,17
+ag90,AG90_005,4,Hemagglutinin,Protenix-v0.5,0.0575,0.0011,0.0003,13,12
+ag90,AG90_005,4,Hemagglutinin,Boltz-2,0.157,0.0002,0.0,12,14
+ag90,AG90_005,4,Hemagglutinin,RosettaFold3-09/21,0.0366,0.0013,0.0004,14,13
+ag90,AG90_005,4,Hemagglutinin,RosettaFold3-01/24,0.04,0.0015,0.0005,9,9
+ag90,AG90_005,4,Hemagglutinin,Protenix-v1,0.0065,0.0021,0.0006,8,8
+ag90,AG90_005,4,Hemagglutinin,Protenix-v1-20250630,0.0946,0.0015,0.0005,6,6
+ag90,AG90_005,4,Hemagglutinin,IntelliFold-2,0.085,0.0016,0.0005,7,7
+ag90,AG90_005,4,Hemagglutinin,IntelliFold-2-Flash,0.0134,0.0015,0.0005,15,15
+ag90,AG90_005,4,Hemagglutinin,OpenFold3-p2,0.0209,0.0013,0.0004,16,16
+ag90,AG90_005,4,Hemagglutinin,Protenix-v2,0.3034,0.0002,0.0001,4,4
+ag90,AG90_005,4,Hemagglutinin,ESMFold2,0.3784,-0.0011,-0.0003,5,5
+ag90,AG90_005,4,Hemagglutinin,Promera,0.3295,-0.0013,-0.0004,11,11
+ag90,AG90_005,4,Hemagglutinin,OpenDDE,0.2347,0.0011,0.0003,2,2
+ag90,AG90_005,4,Hemagglutinin,OpenDDE-AbAg,0.2944,0.0006,0.0002,3,3
+ag90,AG90_005,4,Hemagglutinin,Mol-1,0.298,0.0006,0.0002,1,1
+ag90,AG90_006,3,Hemagglutinin,AF-Multimer,0.0188,0.0006,0.0003,18,18
+ag90,AG90_006,3,Hemagglutinin,Chai-1,0.1246,0.0005,0.0002,10,10
+ag90,AG90_006,3,Hemagglutinin,Boltz-1,0.0066,0.001,0.0004,17,17
+ag90,AG90_006,3,Hemagglutinin,Protenix-v0.5,0.2224,-0.0003,-0.0001,13,13
+ag90,AG90_006,3,Hemagglutinin,Boltz-2,0.3325,-0.0011,-0.0004,12,14
+ag90,AG90_006,3,Hemagglutinin,RosettaFold3-09/21,0.0066,0.0012,0.0005,14,12
+ag90,AG90_006,3,Hemagglutinin,RosettaFold3-01/24,0.0065,0.0014,0.0006,9,9
+ag90,AG90_006,3,Hemagglutinin,Protenix-v1,0.0341,0.0014,0.0006,8,8
+ag90,AG90_006,3,Hemagglutinin,Protenix-v1-20250630,0.4133,-0.0011,-0.0004,6,6
+ag90,AG90_006,3,Hemagglutinin,IntelliFold-2,0.0276,0.0016,0.0006,7,7
+ag90,AG90_006,3,Hemagglutinin,IntelliFold-2-Flash,0.0204,0.0011,0.0005,15,15
+ag90,AG90_006,3,Hemagglutinin,OpenFold3-p2,0.0319,0.0009,0.0004,16,16
+ag90,AG90_006,3,Hemagglutinin,Protenix-v2,0.3932,-0.0005,-0.0002,4,4
+ag90,AG90_006,3,Hemagglutinin,ESMFold2,0.2948,-0.0002,-0.0001,5,5
+ag90,AG90_006,3,Hemagglutinin,Promera,0.0366,0.0011,0.0004,11,11
+ag90,AG90_006,3,Hemagglutinin,OpenDDE,0.3477,0.0001,0.0,2,2
+ag90,AG90_006,3,Hemagglutinin,OpenDDE-AbAg,0.3107,0.0003,0.0001,3,3
+ag90,AG90_006,3,Hemagglutinin,Mol-1,0.395,-0.0003,-0.0001,1,1
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",AF-Multimer,0.039,0.0005,0.0002,18,18
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Chai-1,0.141,0.0004,0.0001,10,10
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Boltz-1,0.0221,0.0008,0.0004,17,17
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Protenix-v0.5,0.0496,0.0009,0.0004,13,13
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Boltz-2,0.0506,0.0009,0.0003,12,12
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",RosettaFold3-09/21,0.1997,-0.0002,-0.0001,14,14
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",RosettaFold3-01/24,0.1993,-0.0,0.0,9,9
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Protenix-v1,0.0217,0.0015,0.0006,8,8
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Protenix-v1-20250630,0.0247,0.0016,0.0007,6,6
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",IntelliFold-2,0.2802,-0.0002,-0.0001,7,7
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",IntelliFold-2-Flash,0.2337,-0.0004,-0.0002,15,15
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",OpenFold3-p2,0.2611,-0.0007,-0.0003,16,16
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Protenix-v2,0.4882,-0.0012,-0.0005,4,4
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",ESMFold2,0.255,0.0,0.0,5,5
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Promera,0.1921,-0.0,-0.0,11,11
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",OpenDDE,0.301,0.0004,0.0002,2,2
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",OpenDDE-AbAg,0.2526,0.0007,0.0003,3,3
+ag90,AG90_007,3,"HLA class II histocompatibility antigen DQ beta chain; HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen",Mol-1,0.1496,0.0015,0.0006,1,1
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,AF-Multimer,0.0085,0.0007,0.0003,18,18
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Chai-1,0.2635,-0.0005,-0.0002,10,11
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Boltz-1,0.0052,0.001,0.0004,17,17
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Protenix-v0.5,0.003,0.0012,0.0005,13,13
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Boltz-2,0.0213,0.0011,0.0004,12,12
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,RosettaFold3-09/21,0.0117,0.0012,0.0005,14,14
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,RosettaFold3-01/24,0.0353,0.0012,0.0005,9,9
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Protenix-v1,0.0621,0.0012,0.0005,8,8
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Protenix-v1-20250630,0.0407,0.0015,0.0006,6,6
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,IntelliFold-2,0.0042,0.0018,0.0007,7,7
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,IntelliFold-2-Flash,0.0105,0.0012,0.0005,15,15
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,OpenFold3-p2,0.01,0.001,0.0004,16,16
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Protenix-v2,0.291,0.0003,0.0001,4,4
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,ESMFold2,0.2533,0.0001,0.0,5,5
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Promera,0.0043,0.0013,0.0005,11,10
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,OpenDDE,0.2358,0.0009,0.0003,2,2
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,OpenDDE-AbAg,0.2195,0.0009,0.0004,3,3
+ag90,AG90_008,3,Hemagglutinin; Hemagglutinin HA1; Hemagglutinin HA2,Mol-1,0.2916,0.0005,0.0002,1,1
+ag90,AG90_009,3,Spike glycoprotein,AF-Multimer,0.0175,0.0006,0.0003,18,18
+ag90,AG90_009,3,Spike glycoprotein,Chai-1,0.3017,-0.0008,-0.0003,10,10
+ag90,AG90_009,3,Spike glycoprotein,Boltz-1,0.2117,-0.0005,-0.0002,17,17
+ag90,AG90_009,3,Spike glycoprotein,Protenix-v0.5,0.2118,-0.0003,-0.0001,13,13
+ag90,AG90_009,3,Spike glycoprotein,Boltz-2,0.056,0.0009,0.0003,12,12
+ag90,AG90_009,3,Spike glycoprotein,RosettaFold3-09/21,0.2381,-0.0005,-0.0002,14,14
+ag90,AG90_009,3,Spike glycoprotein,RosettaFold3-01/24,0.0514,0.0011,0.0004,9,9
+ag90,AG90_009,3,Spike glycoprotein,Protenix-v1,0.3187,-0.0007,-0.0002,8,8
+ag90,AG90_009,3,Spike glycoprotein,Protenix-v1-20250630,0.0409,0.0015,0.0006,6,6
+ag90,AG90_009,3,Spike glycoprotein,IntelliFold-2,0.5061,-0.0018,-0.0007,7,7
+ag90,AG90_009,3,Spike glycoprotein,IntelliFold-2-Flash,0.4822,-0.0022,-0.0009,15,15
+ag90,AG90_009,3,Spike glycoprotein,OpenFold3-p2,0.0398,0.0008,0.0004,16,16
+ag90,AG90_009,3,Spike glycoprotein,Protenix-v2,0.309,0.0001,0.0,4,4
+ag90,AG90_009,3,Spike glycoprotein,ESMFold2,0.5481,-0.0021,-0.0008,5,5
+ag90,AG90_009,3,Spike glycoprotein,Promera,0.268,-0.0006,-0.0002,11,11
+ag90,AG90_009,3,Spike glycoprotein,OpenDDE,0.5326,-0.0013,-0.0005,2,2
+ag90,AG90_009,3,Spike glycoprotein,OpenDDE-AbAg,0.5461,-0.0014,-0.0005,3,3
+ag90,AG90_009,3,Spike glycoprotein,Mol-1,0.556,-0.0014,-0.0006,1,1
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),AF-Multimer,0.0265,0.0006,0.0002,18,18
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Chai-1,0.0215,0.0012,0.0005,10,10
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Boltz-1,0.0404,0.0007,0.0003,17,17
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Protenix-v0.5,0.0489,0.0009,0.0004,13,13
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Boltz-2,0.0388,0.001,0.0004,12,12
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),RosettaFold3-09/21,0.0394,0.001,0.0004,14,14
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),RosettaFold3-01/24,0.0243,0.0012,0.0005,9,9
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Protenix-v1,0.0556,0.0012,0.0005,8,8
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Protenix-v1-20250630,0.1623,0.0007,0.0003,6,6
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),IntelliFold-2,0.0172,0.0017,0.0007,7,7
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),IntelliFold-2-Flash,0.1027,0.0005,0.0002,15,15
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),OpenFold3-p2,0.0179,0.001,0.0004,16,16
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Protenix-v2,0.0262,0.0022,0.0008,4,4
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),ESMFold2,0.0314,0.0016,0.0007,5,5
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Promera,0.0346,0.0011,0.0004,11,11
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),OpenDDE,0.0672,0.0021,0.0008,2,2
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),OpenDDE-AbAg,0.0169,0.0024,0.0009,3,3
+ag90,AG90_010,3,Capsid protein VP1; Capsid protein VP2; Capsid protein VP3 (+1),Mol-1,0.0712,0.0021,0.0008,1,1
+joint,JOINT_001,3,Neuraminidase,AF-Multimer,0.0818,0.0002,0.0001,18,18
+joint,JOINT_001,3,Neuraminidase,Chai-1,0.0417,0.0011,0.0004,10,10
+joint,JOINT_001,3,Neuraminidase,Boltz-1,0.0059,0.001,0.0003,17,17
+joint,JOINT_001,3,Neuraminidase,Protenix-v0.5,0.1102,0.0005,0.0002,13,13
+joint,JOINT_001,3,Neuraminidase,Boltz-2,0.0556,0.0009,0.0003,12,12
+joint,JOINT_001,3,Neuraminidase,RosettaFold3-09/21,0.0999,0.0005,0.0002,14,14
+joint,JOINT_001,3,Neuraminidase,RosettaFold3-01/24,0.0549,0.001,0.0003,9,9
+joint,JOINT_001,3,Neuraminidase,Protenix-v1,0.0797,0.001,0.0004,8,8
+joint,JOINT_001,3,Neuraminidase,Protenix-v1-20250630,0.0551,0.0014,0.0005,6,6
+joint,JOINT_001,3,Neuraminidase,IntelliFold-2,0.0735,0.0013,0.0004,7,7
+joint,JOINT_001,3,Neuraminidase,IntelliFold-2-Flash,0.034,0.001,0.0003,15,15
+joint,JOINT_001,3,Neuraminidase,OpenFold3-p2,0.0747,0.0006,0.0002,16,16
+joint,JOINT_001,3,Neuraminidase,Protenix-v2,0.0605,0.0019,0.0006,4,4
+joint,JOINT_001,3,Neuraminidase,ESMFold2,0.0258,0.0017,0.0006,5,5
+joint,JOINT_001,3,Neuraminidase,Promera,0.0921,0.0007,0.0002,11,11
+joint,JOINT_001,3,Neuraminidase,OpenDDE,0.5578,-0.0015,-0.0005,2,2
+joint,JOINT_001,3,Neuraminidase,OpenDDE-AbAg,0.3091,0.0003,0.0001,3,3
+joint,JOINT_001,3,Neuraminidase,Mol-1,0.2985,0.0004,0.0001,1,1
+joint,JOINT_002,2,Genome polyprotein,AF-Multimer,0.0218,0.0004,0.0002,18,18
+joint,JOINT_002,2,Genome polyprotein,Chai-1,0.0208,0.0008,0.0004,10,10
+joint,JOINT_002,2,Genome polyprotein,Boltz-1,0.053,0.0004,0.0002,17,17
+joint,JOINT_002,2,Genome polyprotein,Protenix-v0.5,0.0436,0.0006,0.0003,13,13
+joint,JOINT_002,2,Genome polyprotein,Boltz-2,0.035,0.0007,0.0003,12,12
+joint,JOINT_002,2,Genome polyprotein,RosettaFold3-09/21,0.0346,0.0007,0.0003,14,14
+joint,JOINT_002,2,Genome polyprotein,RosettaFold3-01/24,0.0272,0.0008,0.0004,9,9
+joint,JOINT_002,2,Genome polyprotein,Protenix-v1,0.0719,0.0007,0.0004,8,8
+joint,JOINT_002,2,Genome polyprotein,Protenix-v1-20250630,0.07,0.0009,0.0004,6,6
+joint,JOINT_002,2,Genome polyprotein,IntelliFold-2,0.005,0.0012,0.0006,7,7
+joint,JOINT_002,2,Genome polyprotein,IntelliFold-2-Flash,0.0464,0.0006,0.0003,15,15
+joint,JOINT_002,2,Genome polyprotein,OpenFold3-p2,0.0245,0.0006,0.0003,16,16
+joint,JOINT_002,2,Genome polyprotein,Protenix-v2,0.0213,0.0015,0.0007,4,4
+joint,JOINT_002,2,Genome polyprotein,ESMFold2,0.0346,0.0011,0.0005,5,5
+joint,JOINT_002,2,Genome polyprotein,Promera,0.0168,0.0008,0.0004,11,11
+joint,JOINT_002,2,Genome polyprotein,OpenDDE,0.0758,0.0013,0.0007,2,2
+joint,JOINT_002,2,Genome polyprotein,OpenDDE-AbAg,0.0172,0.0016,0.0008,3,3
+joint,JOINT_002,2,Genome polyprotein,Mol-1,0.0377,0.0015,0.0008,1,1
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,AF-Multimer,0.0036,0.0005,0.0002,18,18
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Chai-1,0.7216,-0.0025,-0.0013,10,10
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Boltz-1,0.0502,0.0004,0.0002,17,17
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Protenix-v0.5,0.3598,-0.0009,-0.0004,13,14
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Boltz-2,0.3594,-0.0009,-0.0004,12,12
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,RosettaFold3-09/21,0.221,-0.0002,-0.0001,14,13
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,RosettaFold3-01/24,0.4115,-0.001,-0.0005,9,9
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Protenix-v1,0.4244,-0.001,-0.0005,8,8
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Protenix-v1-20250630,0.422,-0.0008,-0.0004,6,6
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,IntelliFold-2,0.8067,-0.0027,-0.0013,7,7
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,IntelliFold-2-Flash,0.4006,-0.0011,-0.0005,15,15
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,OpenFold3-p2,0.0032,0.0007,0.0004,16,16
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Protenix-v2,0.7692,-0.0021,-0.0011,4,4
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,ESMFold2,0.7016,-0.0021,-0.0011,5,5
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Promera,0.661,-0.0022,-0.0011,11,11
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,OpenDDE,0.8125,-0.0022,-0.0011,2,2
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,OpenDDE-AbAg,0.7767,-0.002,-0.001,3,3
+joint,JOINT_003,2,Sodium- and chloride-dependent taurine transporter,Mol-1,0.8165,-0.0022,-0.0011,1,1
+joint,JOINT_004,2,RSV Fusion glycoprotein,AF-Multimer,0.0127,0.0004,0.0002,18,18
+joint,JOINT_004,2,RSV Fusion glycoprotein,Chai-1,0.0146,0.0008,0.0004,10,10
+joint,JOINT_004,2,RSV Fusion glycoprotein,Boltz-1,0.025,0.0006,0.0003,17,17
+joint,JOINT_004,2,RSV Fusion glycoprotein,Protenix-v0.5,0.014,0.0008,0.0004,13,13
+joint,JOINT_004,2,RSV Fusion glycoprotein,Boltz-2,0.0166,0.0008,0.0004,12,12
+joint,JOINT_004,2,RSV Fusion glycoprotein,RosettaFold3-09/21,0.0056,0.0008,0.0004,14,14
+joint,JOINT_004,2,RSV Fusion glycoprotein,RosettaFold3-01/24,0.0088,0.0009,0.0005,9,9
+joint,JOINT_004,2,RSV Fusion glycoprotein,Protenix-v1,0.0147,0.001,0.0005,8,8
+joint,JOINT_004,2,RSV Fusion glycoprotein,Protenix-v1-20250630,0.0039,0.0012,0.0006,6,6
+joint,JOINT_004,2,RSV Fusion glycoprotein,IntelliFold-2,0.0143,0.0011,0.0006,7,7
+joint,JOINT_004,2,RSV Fusion glycoprotein,IntelliFold-2-Flash,0.0212,0.0007,0.0004,15,15
+joint,JOINT_004,2,RSV Fusion glycoprotein,OpenFold3-p2,0.0173,0.0007,0.0003,16,16
+joint,JOINT_004,2,RSV Fusion glycoprotein,Protenix-v2,0.0112,0.0015,0.0008,4,4
+joint,JOINT_004,2,RSV Fusion glycoprotein,ESMFold2,0.0043,0.0012,0.0006,5,5
+joint,JOINT_004,2,RSV Fusion glycoprotein,Promera,0.1136,0.0004,0.0002,11,11
+joint,JOINT_004,2,RSV Fusion glycoprotein,OpenDDE,0.0121,0.0016,0.0008,2,2
+joint,JOINT_004,2,RSV Fusion glycoprotein,OpenDDE-AbAg,0.0099,0.0016,0.0008,3,3
+joint,JOINT_004,2,RSV Fusion glycoprotein,Mol-1,0.861,-0.0024,-0.0012,1,1
+joint,JOINT_005,1,VP1,AF-Multimer,0.031,0.0002,0.0002,18,18
+joint,JOINT_005,1,VP1,Chai-1,0.0153,0.0004,0.0004,10,10
+joint,JOINT_005,1,VP1,Boltz-1,0.0146,0.0003,0.0003,17,17
+joint,JOINT_005,1,VP1,Protenix-v0.5,0.015,0.0004,0.0004,13,13
+joint,JOINT_005,1,VP1,Boltz-2,0.0083,0.0004,0.0004,12,12
+joint,JOINT_005,1,VP1,RosettaFold3-09/21,0.0141,0.0004,0.0004,14,14
+joint,JOINT_005,1,VP1,RosettaFold3-01/24,0.0145,0.0004,0.0004,9,9
+joint,JOINT_005,1,VP1,Protenix-v1,0.0255,0.0005,0.0005,8,8
+joint,JOINT_005,1,VP1,Protenix-v1-20250630,0.0155,0.0006,0.0006,6,6
+joint,JOINT_005,1,VP1,IntelliFold-2,0.0089,0.0006,0.0006,7,7
+joint,JOINT_005,1,VP1,IntelliFold-2-Flash,0.0067,0.0004,0.0004,15,15
+joint,JOINT_005,1,VP1,OpenFold3-p2,0.0075,0.0004,0.0004,16,16
+joint,JOINT_005,1,VP1,Protenix-v2,0.0202,0.0007,0.0007,4,4
+joint,JOINT_005,1,VP1,ESMFold2,0.0088,0.0006,0.0006,5,5
+joint,JOINT_005,1,VP1,Promera,0.0748,0.0003,0.0003,11,11
+joint,JOINT_005,1,VP1,OpenDDE,0.0087,0.0008,0.0008,2,2
+joint,JOINT_005,1,VP1,OpenDDE-AbAg,0.0087,0.0008,0.0008,3,3
+joint,JOINT_005,1,VP1,Mol-1,0.0086,0.0008,0.0008,1,1
+joint,JOINT_006,1,Apoptosis regulator BHRF1,AF-Multimer,0.2397,-0.0003,-0.0003,18,18
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Chai-1,0.7263,-0.0013,-0.0013,10,10
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Boltz-1,0.0163,0.0003,0.0003,17,17
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Protenix-v0.5,0.7368,-0.0013,-0.0013,13,13
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Boltz-2,0.6817,-0.0012,-0.0012,12,12
+joint,JOINT_006,1,Apoptosis regulator BHRF1,RosettaFold3-09/21,0.6729,-0.0012,-0.0012,14,14
+joint,JOINT_006,1,Apoptosis regulator BHRF1,RosettaFold3-01/24,0.7798,-0.0014,-0.0014,9,9
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Protenix-v1,0.7339,-0.0012,-0.0012,8,8
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Protenix-v1-20250630,0.6261,-0.0009,-0.0009,6,6
+joint,JOINT_006,1,Apoptosis regulator BHRF1,IntelliFold-2,0.7589,-0.0012,-0.0012,7,7
+joint,JOINT_006,1,Apoptosis regulator BHRF1,IntelliFold-2-Flash,0.7725,-0.0014,-0.0014,15,15
+joint,JOINT_006,1,Apoptosis regulator BHRF1,OpenFold3-p2,0.0149,0.0003,0.0003,16,16
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Protenix-v2,0.6624,-0.0008,-0.0008,4,4
+joint,JOINT_006,1,Apoptosis regulator BHRF1,ESMFold2,0.7353,-0.0011,-0.0011,5,5
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Promera,0.6722,-0.0011,-0.0012,11,11
+joint,JOINT_006,1,Apoptosis regulator BHRF1,OpenDDE,0.8185,-0.0011,-0.0011,2,2
+joint,JOINT_006,1,Apoptosis regulator BHRF1,OpenDDE-AbAg,0.7738,-0.001,-0.001,3,3
+joint,JOINT_006,1,Apoptosis regulator BHRF1,Mol-1,0.7294,-0.0009,-0.0009,1,1
+joint,JOINT_007,1,Oxytocin receptor,AF-Multimer,0.0641,0.0001,0.0001,18,18
+joint,JOINT_007,1,Oxytocin receptor,Chai-1,0.0484,0.0003,0.0003,10,10
+joint,JOINT_007,1,Oxytocin receptor,Boltz-1,0.0549,0.0002,0.0002,17,17
+joint,JOINT_007,1,Oxytocin receptor,Protenix-v0.5,0.0577,0.0003,0.0003,13,13
+joint,JOINT_007,1,Oxytocin receptor,Boltz-2,0.129,0.0001,0.0001,12,12
+joint,JOINT_007,1,Oxytocin receptor,RosettaFold3-09/21,0.0788,0.0002,0.0002,14,14
+joint,JOINT_007,1,Oxytocin receptor,RosettaFold3-01/24,0.0744,0.0003,0.0003,9,9
+joint,JOINT_007,1,Oxytocin receptor,Protenix-v1,0.0712,0.0004,0.0004,8,8
+joint,JOINT_007,1,Oxytocin receptor,Protenix-v1-20250630,0.2369,0.0,0.0,6,6
+joint,JOINT_007,1,Oxytocin receptor,IntelliFold-2,0.0719,0.0004,0.0004,7,7
+joint,JOINT_007,1,Oxytocin receptor,IntelliFold-2-Flash,0.0605,0.0003,0.0003,15,15
+joint,JOINT_007,1,Oxytocin receptor,OpenFold3-p2,0.0839,0.0002,0.0002,16,16
+joint,JOINT_007,1,Oxytocin receptor,Protenix-v2,0.0718,0.0006,0.0006,4,4
+joint,JOINT_007,1,Oxytocin receptor,ESMFold2,0.0561,0.0005,0.0005,5,5
+joint,JOINT_007,1,Oxytocin receptor,Promera,0.068,0.0003,0.0003,11,11
+joint,JOINT_007,1,Oxytocin receptor,OpenDDE,0.0642,0.0007,0.0007,2,2
+joint,JOINT_007,1,Oxytocin receptor,OpenDDE-AbAg,0.0728,0.0007,0.0007,3,3
+joint,JOINT_007,1,Oxytocin receptor,Mol-1,0.051,0.0007,0.0007,1,1
+joint,JOINT_008,1,Tetanus toxin heavy chain,AF-Multimer,0.0482,0.0001,0.0001,18,18
+joint,JOINT_008,1,Tetanus toxin heavy chain,Chai-1,0.0042,0.0004,0.0004,10,10
+joint,JOINT_008,1,Tetanus toxin heavy chain,Boltz-1,0.0343,0.0003,0.0003,17,17
+joint,JOINT_008,1,Tetanus toxin heavy chain,Protenix-v0.5,0.0545,0.0003,0.0003,13,13
+joint,JOINT_008,1,Tetanus toxin heavy chain,Boltz-2,0.0147,0.0004,0.0004,12,12
+joint,JOINT_008,1,Tetanus toxin heavy chain,RosettaFold3-09/21,0.0055,0.0004,0.0004,14,14
+joint,JOINT_008,1,Tetanus toxin heavy chain,RosettaFold3-01/24,0.0303,0.0004,0.0004,9,9
+joint,JOINT_008,1,Tetanus toxin heavy chain,Protenix-v1,0.0217,0.0005,0.0005,8,8
+joint,JOINT_008,1,Tetanus toxin heavy chain,Protenix-v1-20250630,0.0215,0.0006,0.0006,6,6
+joint,JOINT_008,1,Tetanus toxin heavy chain,IntelliFold-2,0.6681,-0.001,-0.001,7,7
+joint,JOINT_008,1,Tetanus toxin heavy chain,IntelliFold-2-Flash,0.0073,0.0004,0.0004,15,15
+joint,JOINT_008,1,Tetanus toxin heavy chain,OpenFold3-p2,0.0045,0.0004,0.0004,16,16
+joint,JOINT_008,1,Tetanus toxin heavy chain,Protenix-v2,0.8796,-0.0013,-0.0013,4,4
+joint,JOINT_008,1,Tetanus toxin heavy chain,ESMFold2,0.0284,0.0006,0.0006,5,5
+joint,JOINT_008,1,Tetanus toxin heavy chain,Promera,0.0091,0.0004,0.0004,11,11
+joint,JOINT_008,1,Tetanus toxin heavy chain,OpenDDE,0.6507,-0.0007,-0.0007,2,2
+joint,JOINT_008,1,Tetanus toxin heavy chain,OpenDDE-AbAg,0.0421,0.0007,0.0007,3,3
+joint,JOINT_008,1,Tetanus toxin heavy chain,Mol-1,0.834,-0.0011,-0.0011,1,1
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,AF-Multimer,0.079,0.0001,0.0001,18,18
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Chai-1,0.0108,0.0004,0.0004,10,10
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Boltz-1,0.0653,0.0002,0.0002,17,17
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Protenix-v0.5,0.0101,0.0004,0.0004,13,13
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Boltz-2,0.0727,0.0002,0.0002,12,12
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,RosettaFold3-09/21,0.011,0.0004,0.0004,14,14
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,RosettaFold3-01/24,0.0855,0.0003,0.0003,9,9
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Protenix-v1,0.0076,0.0005,0.0005,8,8
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Protenix-v1-20250630,0.0749,0.0004,0.0004,6,6
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,IntelliFold-2,0.8441,-0.0014,-0.0014,7,7
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,IntelliFold-2-Flash,0.1262,0.0001,0.0001,15,15
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,OpenFold3-p2,0.0103,0.0003,0.0004,16,16
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Protenix-v2,0.8132,-0.0012,-0.0012,4,4
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,ESMFold2,0.7004,-0.001,-0.0011,5,5
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Promera,0.0933,0.0002,0.0002,11,11
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,OpenDDE,0.0642,0.0007,0.0007,2,2
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,OpenDDE-AbAg,0.0632,0.0007,0.0007,3,3
+joint,JOINT_009,1,Interleukin-10 receptor subunit alpha,Mol-1,0.3887,-0.0001,-0.0001,1,1
+joint,JOINT_010,1,Circumsporozoite protein,AF-Multimer,0.0188,0.0002,0.0002,18,18
+joint,JOINT_010,1,Circumsporozoite protein,Chai-1,0.0024,0.0004,0.0005,10,10
+joint,JOINT_010,1,Circumsporozoite protein,Boltz-1,0.0188,0.0003,0.0003,17,17
+joint,JOINT_010,1,Circumsporozoite protein,Protenix-v0.5,0.0167,0.0004,0.0004,13,13
+joint,JOINT_010,1,Circumsporozoite protein,Boltz-2,0.0059,0.0004,0.0004,12,12
+joint,JOINT_010,1,Circumsporozoite protein,RosettaFold3-09/21,0.0008,0.0004,0.0004,14,14
+joint,JOINT_010,1,Circumsporozoite protein,RosettaFold3-01/24,0.0003,0.0005,0.0005,9,9
+joint,JOINT_010,1,Circumsporozoite protein,Protenix-v1,0.1975,0.0001,0.0001,8,8
+joint,JOINT_010,1,Circumsporozoite protein,Protenix-v1-20250630,0.0051,0.0006,0.0006,6,6
+joint,JOINT_010,1,Circumsporozoite protein,IntelliFold-2,0.0166,0.0006,0.0006,7,7
+joint,JOINT_010,1,Circumsporozoite protein,IntelliFold-2-Flash,0.0073,0.0004,0.0004,15,15
+joint,JOINT_010,1,Circumsporozoite protein,OpenFold3-p2,0.0041,0.0004,0.0004,16,16
+joint,JOINT_010,1,Circumsporozoite protein,Protenix-v2,0.0136,0.0007,0.0008,4,4
+joint,JOINT_010,1,Circumsporozoite protein,ESMFold2,0.0382,0.0005,0.0005,5,5
+joint,JOINT_010,1,Circumsporozoite protein,Promera,0.0083,0.0004,0.0004,11,11
+joint,JOINT_010,1,Circumsporozoite protein,OpenDDE,0.0164,0.0008,0.0008,2,2
+joint,JOINT_010,1,Circumsporozoite protein,OpenDDE-AbAg,0.0298,0.0008,0.0008,3,3
+joint,JOINT_010,1,Circumsporozoite protein,Mol-1,0.2417,0.0003,0.0003,1,1
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),AF-Multimer,0.0521,0.0035,0.0002,18,18
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Chai-1,0.2047,-0.001,-0.0001,10,11
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Boltz-1,0.036,0.0069,0.0004,17,17
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v0.5,0.1759,-0.0001,0.0,13,14
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Boltz-2,0.183,-0.0005,-0.0,12,15
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),RosettaFold3-09/21,0.0789,0.0063,0.0004,14,13
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),RosettaFold3-01/24,0.1646,0.0022,0.0002,9,9
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v1,0.1457,0.0052,0.0003,8,8
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v1-20250630,0.1706,0.0054,0.0004,6,6
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),IntelliFold-2,0.1464,0.0067,0.0004,7,7
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),IntelliFold-2-Flash,0.0177,0.0101,0.0006,15,12
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenFold3-p2,0.0449,0.0073,0.0004,16,16
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Protenix-v2,0.3512,-0.0016,-0.0001,4,4
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),ESMFold2,0.3044,-0.0028,-0.0001,5,5
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Promera,0.1306,0.0038,0.0003,11,10
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenDDE,0.3169,0.0025,0.0002,2,2
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),OpenDDE-AbAg,0.342,0.0007,0.0001,3,3
+ag50_shortcov,AG50S_001,26,H1 HA1; H1 HA2; Hemagglutinin (+6),Mol-1,0.3219,0.0024,0.0002,1,1
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),AF-Multimer,0.1898,-0.0027,-0.0003,18,18
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Chai-1,0.1891,0.0,0.0,10,10
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Boltz-1,0.1861,-0.0014,-0.0001,17,17
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v0.5,0.2728,-0.0031,-0.0003,13,15
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Boltz-2,0.2396,-0.0021,-0.0002,12,12
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),RosettaFold3-09/21,0.2366,-0.002,-0.0002,14,13
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),RosettaFold3-01/24,0.1976,0.0,0.0,9,9
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v1,0.1765,0.0015,0.0002,8,8
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v1-20250630,0.2006,0.0017,0.0003,6,6
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),IntelliFold-2,0.1952,0.0017,0.0002,7,7
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),IntelliFold-2-Flash,0.1502,0.0007,0.0002,15,14
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),OpenFold3-p2,0.2169,-0.0019,-0.0001,16,16
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Protenix-v2,0.2766,0.0016,0.0002,4,4
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),ESMFold2,0.2065,0.0017,0.0003,5,5
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Promera,0.1989,-0.0003,0.0,11,11
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),OpenDDE,0.2408,0.0036,0.0004,2,2
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),OpenDDE-AbAg,0.1983,0.0049,0.0006,3,3
+ag50_shortcov,AG50S_002,13,Beta-2-microglobulin; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I antigen (+10),Mol-1,0.2015,0.005,0.0006,1,1
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,AF-Multimer,0.1035,0.0001,0.0,18,18
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Chai-1,0.3493,-0.0035,-0.0005,10,11
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-1,0.0785,0.0014,0.0003,17,17
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v0.5,0.1073,0.0015,0.0003,13,12
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Boltz-2,0.1401,0.0008,0.0001,12,14
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-09/21,0.0949,0.0017,0.0003,14,13
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,RosettaFold3-01/24,0.0945,0.0023,0.0004,9,9
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1,0.1784,0.001,0.0002,8,8
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v1-20250630,0.1804,0.0016,0.0003,6,6
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2,0.0879,0.0035,0.0006,7,7
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,IntelliFold-2-Flash,0.0707,0.0022,0.0004,15,15
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenFold3-p2,0.0619,0.0021,0.0004,16,16
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Protenix-v2,0.4605,-0.0029,-0.0004,4,4
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,ESMFold2,0.0131,0.0054,0.0009,5,5
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Promera,0.1485,0.0009,0.0002,11,10
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE,0.3112,0.0009,0.0002,2,2
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,OpenDDE-AbAg,0.3546,-0.0001,0.0,3,3
+ag50_shortcov,AG50S_003,9,Envelopment polyprotein; Glycoprotein N; SFTSV Gn head,Mol-1,0.4805,-0.0026,-0.0004,1,1
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),AF-Multimer,0.0266,0.0011,0.0003,18,18
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Chai-1,0.2617,-0.001,-0.0002,10,11
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Boltz-1,0.0276,0.0016,0.0005,17,17
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Protenix-v0.5,0.0184,0.0023,0.0006,13,12
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Boltz-2,0.1744,0.0,0.0,12,14
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),RosettaFold3-09/21,0.0431,0.0019,0.0005,14,13
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),RosettaFold3-01/24,0.024,0.0025,0.0006,9,9
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Protenix-v1,0.3147,-0.0013,-0.0002,8,8
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Protenix-v1-20250630,0.0271,0.0033,0.0009,6,6
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),IntelliFold-2,0.1688,0.0012,0.0003,7,7
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),IntelliFold-2-Flash,0.0274,0.0021,0.0006,15,15
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),OpenFold3-p2,0.0314,0.0018,0.0005,16,16
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Protenix-v2,0.1363,0.0028,0.0007,4,4
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),ESMFold2,0.013,0.0036,0.0009,5,5
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Promera,0.0175,0.0025,0.0006,11,10
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),OpenDDE,0.336,0.0003,0.0001,2,2
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),OpenDDE-AbAg,0.3595,-0.0001,0.0,3,3
+ag50_shortcov,AG50S_004,6,Envelope glycoprotein; Envelope glycoprotein 2; Envelope glycoprotein GP1 (+3),Mol-1,0.1613,0.0029,0.0007,1,1
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,AF-Multimer,0.0336,0.001,0.0003,18,18
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Chai-1,0.1009,0.0013,0.0003,10,10
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Boltz-1,0.0254,0.0017,0.0005,17,17
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Protenix-v0.5,0.0769,0.0014,0.0004,13,14
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Boltz-2,0.0568,0.0017,0.0004,12,12
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,RosettaFold3-09/21,0.0236,0.0022,0.0006,14,13
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,RosettaFold3-01/24,0.0971,0.0015,0.0004,9,9
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Protenix-v1,0.0695,0.0022,0.0006,8,8
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Protenix-v1-20250630,0.0971,0.0023,0.0006,6,6
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,IntelliFold-2,0.0587,0.0027,0.0007,7,7
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,IntelliFold-2-Flash,0.0893,0.0012,0.0004,15,15
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,OpenFold3-p2,0.0459,0.0016,0.0004,16,16
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Protenix-v2,0.0522,0.004,0.001,4,4
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,ESMFold2,0.0336,0.0033,0.0008,5,5
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Promera,0.0261,0.0023,0.0006,11,11
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,OpenDDE,0.2908,0.0009,0.0002,2,2
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,OpenDDE-AbAg,0.3218,0.0004,0.0001,3,3
+ag50_shortcov,AG50S_005,6,Capsid protein; Pro-secreted protein ORF2; Secreted protein ORF2,Mol-1,0.1784,0.0026,0.0007,1,1
+ag50_shortcov,AG50S_006,6,Neuraminidase,AF-Multimer,0.0794,0.0004,0.0001,18,18
+ag50_shortcov,AG50S_006,6,Neuraminidase,Chai-1,0.0574,0.0019,0.0005,10,10
+ag50_shortcov,AG50S_006,6,Neuraminidase,Boltz-1,0.0368,0.0015,0.0004,17,17
+ag50_shortcov,AG50S_006,6,Neuraminidase,Protenix-v0.5,0.0887,0.0012,0.0003,13,13
+ag50_shortcov,AG50S_006,6,Neuraminidase,Boltz-2,0.0421,0.0019,0.0005,12,12
+ag50_shortcov,AG50S_006,6,Neuraminidase,RosettaFold3-09/21,0.0996,0.0011,0.0003,14,14
+ag50_shortcov,AG50S_006,6,Neuraminidase,RosettaFold3-01/24,0.063,0.002,0.0005,9,9
+ag50_shortcov,AG50S_006,6,Neuraminidase,Protenix-v1,0.2109,0.0002,0.0001,8,8
+ag50_shortcov,AG50S_006,6,Neuraminidase,Protenix-v1-20250630,0.1123,0.002,0.0006,6,6
+ag50_shortcov,AG50S_006,6,Neuraminidase,IntelliFold-2,0.1232,0.0018,0.0005,7,7
+ag50_shortcov,AG50S_006,6,Neuraminidase,IntelliFold-2-Flash,0.0826,0.0013,0.0004,15,15
+ag50_shortcov,AG50S_006,6,Neuraminidase,OpenFold3-p2,0.0885,0.001,0.0003,16,16
+ag50_shortcov,AG50S_006,6,Neuraminidase,Protenix-v2,0.0645,0.0038,0.0009,4,4
+ag50_shortcov,AG50S_006,6,Neuraminidase,ESMFold2,0.0523,0.003,0.0008,5,5
+ag50_shortcov,AG50S_006,6,Neuraminidase,Promera,0.0664,0.0018,0.0005,11,11
+ag50_shortcov,AG50S_006,6,Neuraminidase,OpenDDE,0.4184,-0.0009,-0.0002,2,3
+ag50_shortcov,AG50S_006,6,Neuraminidase,OpenDDE-AbAg,0.2115,0.002,0.0005,3,2
+ag50_shortcov,AG50S_006,6,Neuraminidase,Mol-1,0.307,0.0008,0.0002,1,1
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),AF-Multimer,0.0416,0.0008,0.0003,18,18
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Chai-1,0.0349,0.0019,0.0005,10,10
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Boltz-1,0.053,0.0011,0.0004,17,17
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v0.5,0.0686,0.0013,0.0004,13,13
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Boltz-2,0.0485,0.0015,0.0005,12,12
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),RosettaFold3-09/21,0.0492,0.0015,0.0005,14,14
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),RosettaFold3-01/24,0.0374,0.0019,0.0006,9,9
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v1,0.154,0.0008,0.0003,8,8
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v1-20250630,0.1411,0.0013,0.0005,6,6
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),IntelliFold-2,0.075,0.0021,0.0006,7,7
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),IntelliFold-2-Flash,0.1164,0.0007,0.0003,15,15
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenFold3-p2,0.0207,0.0016,0.0005,16,16
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Protenix-v2,0.1267,0.0024,0.0007,4,4
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),ESMFold2,0.0341,0.0027,0.0008,5,5
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Promera,0.0364,0.0018,0.0006,11,11
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenDDE,0.0636,0.0035,0.001,2,2
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),OpenDDE-AbAg,0.145,0.0025,0.0007,3,3
+ag50_shortcov,AG50S_007,5,Capsid protein VP0; Capsid protein VP1; Capsid protein VP2 (+2),Mol-1,0.075,0.0034,0.001,1,1
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),AF-Multimer,0.0136,0.0011,0.0004,18,18
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Chai-1,0.1015,0.0011,0.0003,10,10
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Boltz-1,0.0181,0.0015,0.0005,17,17
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v0.5,0.2195,-0.0005,-0.0001,13,13
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Boltz-2,0.3216,-0.0018,-0.0005,12,15
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),RosettaFold3-09/21,0.1485,0.0003,0.0001,14,12
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),RosettaFold3-01/24,0.2687,-0.0008,-0.0002,9,9
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v1,0.035,0.0023,0.0007,8,8
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v1-20250630,0.0257,0.0027,0.0009,6,6
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),IntelliFold-2,0.2323,0.0002,0.0001,7,7
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),IntelliFold-2-Flash,0.0082,0.002,0.0006,15,14
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenFold3-p2,0.2568,-0.0012,-0.0003,16,16
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Protenix-v2,0.3792,-0.0006,-0.0001,4,4
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),ESMFold2,0.4437,-0.0022,-0.0006,5,5
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Promera,0.0472,0.0017,0.0005,11,11
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenDDE,0.5618,-0.0025,-0.0007,2,2
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),OpenDDE-AbAg,0.5794,-0.0027,-0.0008,3,3
+ag50_shortcov,AG50S_008,5,CH505.M5 SOSIP gp120; CH848 DE3 SOSIP gp120; Envelope glycoprotein gp120 (+3),Mol-1,0.5426,-0.0022,-0.0006,1,1
+ag50_shortcov,AG50S_009,4,Hemagglutinin,AF-Multimer,0.1026,0.0,0.0,18,18
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Chai-1,0.0791,0.0011,0.0004,10,10
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Boltz-1,0.0084,0.0013,0.0005,17,17
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Protenix-v0.5,0.113,0.0006,0.0002,13,13
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Boltz-2,0.1498,0.0002,0.0001,12,14
+ag50_shortcov,AG50S_009,4,Hemagglutinin,RosettaFold3-09/21,0.047,0.0012,0.0005,14,12
+ag50_shortcov,AG50S_009,4,Hemagglutinin,RosettaFold3-01/24,0.1359,0.0006,0.0003,9,9
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Protenix-v1,0.018,0.002,0.0008,8,8
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Protenix-v1-20250630,0.1088,0.0014,0.0006,6,6
+ag50_shortcov,AG50S_009,4,Hemagglutinin,IntelliFold-2,0.227,0.0002,0.0001,7,7
+ag50_shortcov,AG50S_009,4,Hemagglutinin,IntelliFold-2-Flash,0.0271,0.0014,0.0006,15,15
+ag50_shortcov,AG50S_009,4,Hemagglutinin,OpenFold3-p2,0.0371,0.0011,0.0005,16,16
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Protenix-v2,0.2238,0.001,0.0004,4,4
+ag50_shortcov,AG50S_009,4,Hemagglutinin,ESMFold2,0.0173,0.0023,0.0009,5,5
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Promera,0.1188,0.0007,0.0003,11,11
+ag50_shortcov,AG50S_009,4,Hemagglutinin,OpenDDE,0.5746,-0.0021,-0.0007,2,2
+ag50_shortcov,AG50S_009,4,Hemagglutinin,OpenDDE-AbAg,0.5003,-0.0014,-0.0005,3,3
+ag50_shortcov,AG50S_009,4,Hemagglutinin,Mol-1,0.4729,-0.0011,-0.0003,1,1
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,AF-Multimer,0.0623,0.0004,0.0002,18,18
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Chai-1,0.308,-0.0011,-0.0004,10,11
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Boltz-1,0.0197,0.0012,0.0005,17,17
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v0.5,0.0266,0.0014,0.0005,13,13
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Boltz-2,0.0412,0.0013,0.0005,12,12
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,RosettaFold3-09/21,0.0839,0.0009,0.0004,14,14
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,RosettaFold3-01/24,0.1483,0.0005,0.0002,9,9
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v1,0.4146,-0.0018,-0.0006,8,8
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v1-20250630,0.3906,-0.0013,-0.0004,6,6
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,IntelliFold-2,0.2611,-0.0001,0.0,7,7
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,IntelliFold-2-Flash,0.1104,0.0006,0.0003,15,15
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenFold3-p2,0.0285,0.0012,0.0005,16,16
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Protenix-v2,0.2449,0.0008,0.0003,4,4
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,ESMFold2,0.0177,0.0023,0.0009,5,5
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Promera,0.0518,0.0013,0.0005,11,10
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenDDE,0.3248,0.0003,0.0001,2,2
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,OpenDDE-AbAg,0.1714,0.0017,0.0006,3,3
+ag50_shortcov,AG50S_010,4,Envelope Glycoprotein E2; Envelope glycoprotein E2,Mol-1,0.126,0.0022,0.0009,1,1

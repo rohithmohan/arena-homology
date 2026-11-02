@@ -1,0 +1,11 @@
+# downloaded tools and third-party site files (re-fetched by run_all.sh)
+tools/
+data/raw/bundle.js
+data/raw/index.html
+# regenerable MMseqs2 intermediates
+data/derived/mmseqs/*_all_seqs.fasta
+data/derived/mmseqs/*_rep_seq.fasta
+data/derived/mmseqs/tmp_*/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,102 @@
+== ag30: 297 groups over 422 targets; singletons=243; targets in groups of size>1: 179
+   size distribution (size:count): 1:243, 2:36, 3:9, 4:2, 5:2, 9:1, 11:2, 14:1, 17:1
+   AG30_001 n=17 [{'Fab': 14, 'VHH': 3}] Hemagglutinin x7; Hemagglutinin HA1 x3; Hemagglutinin HA1 chain x3; H1 HA1; Hemagglutinin (HA1 polypeptide) from influenza H1N1 A/Solomon Island/3/2006; Hemagglutinin HA1 subunit (+1 more names)
+   AG30_002 n=14 [{'VHH': 1, 'Fab': 13}] MHC class I antigen x5; HLA class I histocompatibility antigen, A alpha chain x2; Major histocompatibility complex class I-related gene protein; HLA class I histocompatibility antigen, alpha chain G; Zinc-alpha-2-glycoprotein; HLA class I antigen (+3 more names)
+   AG30_003 n=11 [{'Fab': 11}] Hemagglutinin x8; 2-acetamido-2-deoxy-beta-D-glucopyranose x3
+   AG30_004 n=11 [{'Fab': 11}] Neuraminidase x9; beta-D-mannopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose; 2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG30_005 n=9 [{'Fab': 7, 'VHH': 2}] Envelopment polyprotein x6; 2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose; SFTSV Gn head; Glycoprotein N
+   AG30_006 n=5 [{'Fab': 5}] Capsid protein VP1 x2; Genome polyprotein x2; Capsid protein VP2
+   AG30_007 n=5 [{'Fab': 5}] Envelope glycoprotein gp120; HIV-1 BG505 SOSIP gp120,Envelope glycoprotein gp120; Envelope glycoprotein gp41; CH848 DE3 SOSIP gp120; CH505.M5 SOSIP gp120
+   AG30_008 n=4 [{'Fab': 4}] 2-acetamido-2-deoxy-beta-D-glucopyranose x2; Envelope glycoprotein E2; 2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG30_009 n=4 [{'Fab': 3, 'VHH': 1}] Spike protein S1 x2; SARS XBB.1.5 Spike; 4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+   AG30_010 n=3 [{'VHH': 1, 'Fab': 2}] VP1 x2; Major capsid protein VP1
+   AG30_011 n=3 [{'Fab': 3}] HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen; HLA class II histocompatibility antigen DQ beta chain
+   AG30_012 n=3 [{'Fab': 3}] Low affinity immunoglobulin gamma Fc region receptor II-a; Low affinity immunoglobulin gamma Fc region receptor III-A; Low affinity immunoglobulin gamma Fc region receptor II-b
+   AG30_013 n=3 [{'VHH': 3}] Spike glycoprotein x3
+   AG30_014 n=3 [{'Fab': 2, 'VHH': 1}] Capsid protein; Secreted protein ORF2; Pro-secreted protein ORF2
+   AG30_015 n=3 [{'Fab': 3}] Short neurotoxin 1; Alpha-cobratoxin; SODIUM ION
+== ag50: 315 groups over 422 targets; singletons=264; targets in groups of size>1: 158
+   size distribution (size:count): 1:264, 2:36, 3:4, 4:4, 5:3, 6:1, 9:1, 12:1, 16:1
+   AG50_001 n=16 [{'VHH': 3, 'Fab': 13}] Hemagglutinin x7; Hemagglutinin HA1 chain x3; Hemagglutinin HA1 x2; H1 HA1; Hemagglutinin (HA1 polypeptide) from influenza H1N1 A/Solomon Island/3/2006; Hemagglutinin HA1 subunit (+1 more names)
+   AG50_002 n=12 [{'Fab': 12}] MHC class I antigen x5; HLA class I histocompatibility antigen, A alpha chain x2; HLA class I histocompatibility antigen, alpha chain G; HLA class I antigen; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I histocompatibility antigen B alpha chain (HLA-B*44:05) (+1 more names)
+   AG50_003 n=9 [{'Fab': 7, 'VHH': 2}] Envelopment polyprotein x6; 2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose; SFTSV Gn head; Glycoprotein N
+   AG50_004 n=6 [{'Fab': 6}] Neuraminidase x5; beta-D-mannopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG50_005 n=5 [{'Fab': 5}] Hemagglutinin x3; 2-acetamido-2-deoxy-beta-D-glucopyranose x2
+   AG50_006 n=5 [{'Fab': 5}] Capsid protein VP1 x2; Genome polyprotein x2; Capsid protein VP2
+   AG50_007 n=5 [{'Fab': 5}] Envelope glycoprotein gp120; HIV-1 BG505 SOSIP gp120,Envelope glycoprotein gp120; Envelope glycoprotein gp41; CH848 DE3 SOSIP gp120; CH505.M5 SOSIP gp120
+   AG50_008 n=4 [{'Fab': 4}] 2-acetamido-2-deoxy-beta-D-glucopyranose x2; Envelope glycoprotein E2; 2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG50_009 n=4 [{'Fab': 4}] Neuraminidase x3; 2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG50_010 n=4 [{'Fab': 3, 'VHH': 1}] Spike protein S1 x2; SARS XBB.1.5 Spike; 4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+   AG50_011 n=4 [{'Fab': 4}] Hemagglutinin x3; 2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG50_012 n=3 [{'VHH': 1, 'Fab': 2}] VP1 x2; Major capsid protein VP1
+   AG50_013 n=3 [{'Fab': 3}] HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen; HLA class II histocompatibility antigen DQ beta chain
+   AG50_014 n=3 [{'Fab': 3}] Low affinity immunoglobulin gamma Fc region receptor II-a; Low affinity immunoglobulin gamma Fc region receptor III-A; Low affinity immunoglobulin gamma Fc region receptor II-b
+   AG50_015 n=3 [{'VHH': 3}] Spike glycoprotein x3
+== ag90: 355 groups over 422 targets; singletons=318; targets in groups of size>1: 104
+   size distribution (size:count): 1:318, 2:26, 3:6, 4:2, 8:1, 9:2
+   AG90_001 n=9 [{'Fab': 9}] MHC class I antigen x5; HLA class I histocompatibility antigen, A alpha chain x2; HLA class I antigen; MHC class I antigen (Fragment)
+   AG90_002 n=9 [{'Fab': 7, 'VHH': 2}] Envelopment polyprotein x6; 2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose; SFTSV Gn head; Glycoprotein N
+   AG90_003 n=8 [{'VHH': 2, 'Fab': 6}] Hemagglutinin x4; Hemagglutinin HA1 chain x2; H1 HA1; Hemagglutinin HA1 subunit
+   AG90_004 n=4 [{'Fab': 4}] Neuraminidase x3; 2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG90_005 n=4 [{'Fab': 4}] Hemagglutinin x3; 2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG90_006 n=3 [{'Fab': 3}] Hemagglutinin x2; 2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG90_007 n=3 [{'Fab': 3}] HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen; HLA class II histocompatibility antigen DQ beta chain
+   AG90_008 n=3 [{'VHH': 1, 'Fab': 2}] Hemagglutinin x2; Hemagglutinin HA1
+   AG90_009 n=3 [{'VHH': 3}] Spike glycoprotein x3
+   AG90_010 n=3 [{'Fab': 3}] Genome polyprotein x2; Capsid protein VP1
+   AG90_011 n=3 [{'Fab': 3}] Neuraminidase x2; beta-D-mannopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG90_012 n=2 [{'Fab': 2}] Shiga toxin subunit B x2
+   AG90_013 n=2 [{'Fab': 2}] Hemagglutinin x2
+   AG90_014 n=2 [{'Fab': 2}] Glycoprotein x2
+   AG90_015 n=2 [{'VHH': 1, 'Fab': 1}] Hemagglutinin-neuraminidase x2
+== vh90: 406 groups over 422 targets; singletons=395; targets in groups of size>1: 27
+   size distribution (size:count): 1:395, 2:8, 3:2, 5:1
+   VH90_001 n=5 [{'Fab': 5}] Spike glycoprotein E2,Spike glycoprotein E1; HLA class I antigen; Tissue factor pathway inhibitor; Programmed cell death protein 1; IMIDAZOLE
+   VH90_002 n=3 [{'Fab': 3}] Neuraminidase x2; beta-D-mannopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   VH90_003 n=3 [{'Fab': 3}] Arabinosyltransferase AftB; Beta-arrestin-1; Adhesion G protein-coupled receptor L3
+   VH90_004 n=2 [{'Fab': 2}] Collagen alpha-3(VI) chain; Interleukin-36 receptor antagonist protein
+   VH90_005 n=2 [{'Fab': 2}] Genome polyprotein x2
+   VH90_006 n=2 [{'Fab': 2}] Leptin; Neuraminidase
+   VH90_007 n=2 [{'Fab': 2}] Sodium- and chloride-dependent taurine transporter x2
+   VH90_008 n=2 [{'Fab': 2}] Alpha-bungarotoxin; Alpha-cobratoxin
+   VH90_009 n=2 [{'Fab': 2}] Neuraminidase x2
+   VH90_010 n=2 [{'VHH': 2}] ADP,ATP carrier protein 1, chloroplastic; Sodium-dependent noradrenaline transporter
+   VH90_011 n=2 [{'Fab': 2}] RSV Fusion glycoprotein x2
+   VH90_012 n=1 [{'VHH': 1}] VP1
+   VH90_013 n=1 [{'VHH': 1}] Apoptosis regulator BHRF1
+   VH90_014 n=1 [{'VHH': 1}] Oxytocin receptor
+   VH90_015 n=1 [{'Fab': 1}] Tetanus toxin heavy chain
+== joint: 417 groups over 422 targets; singletons=413; targets in groups of size>1: 9
+   size distribution (size:count): 1:413, 2:3, 3:1
+   JOINT_001 n=3 [{'Fab': 3}] Neuraminidase x2; beta-D-mannopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   JOINT_002 n=2 [{'Fab': 2}] Genome polyprotein x2
+   JOINT_003 n=2 [{'Fab': 2}] Sodium- and chloride-dependent taurine transporter x2
+   JOINT_004 n=2 [{'Fab': 2}] RSV Fusion glycoprotein x2
+   JOINT_005 n=1 [{'VHH': 1}] VP1
+   JOINT_006 n=1 [{'VHH': 1}] Apoptosis regulator BHRF1
+   JOINT_007 n=1 [{'VHH': 1}] Oxytocin receptor
+   JOINT_008 n=1 [{'Fab': 1}] Tetanus toxin heavy chain
+   JOINT_009 n=1 [{'VHH': 1}] Interleukin-10 receptor subunit alpha
+   JOINT_010 n=1 [{'Fab': 1}] Circumsporozoite protein
+   JOINT_011 n=1 [{'VHH': 1}] Major histocompatibility complex class I-related gene protein
+   JOINT_012 n=1 [{'Fab': 1}] Fibroblast growth factor receptor 4
+   JOINT_013 n=1 [{'Fab': 1}] Ubiquitin
+   JOINT_014 n=1 [{'Fab': 1}] Tumor necrosis factor receptor superfamily member 8
+   JOINT_015 n=1 [{'Fab': 1}] Hemagglutinin
+== ag50_shortcov: 293 groups over 422 targets; singletons=242; targets in groups of size>1: 180
+   size distribution (size:count): 1:242, 2:29, 3:10, 4:4, 5:2, 6:3, 9:1, 13:1, 26:1
+   AG50S_001 n=26 [{'Fab': 23, 'VHH': 3}] Hemagglutinin x13; Hemagglutinin HA1 chain x4; 2-acetamido-2-deoxy-beta-D-glucopyranose x3; Hemagglutinin HA1 x2; H1 HA1; Hemagglutinin (HA1 polypeptide) from influenza H1N1 A/Solomon Island/3/2006 (+2 more names)
+   AG50S_002 n=13 [{'Fab': 13}] MHC class I antigen x6; HLA class I histocompatibility antigen, A alpha chain x2; HLA class I histocompatibility antigen, alpha chain G; HLA class I antigen; H2 class I histocompatibility antigen D-d alpha chain (H2-Dd); HLA class I histocompatibility antigen B alpha chain (HLA-B*44:05) (+1 more names)
+   AG50S_003 n=9 [{'Fab': 7, 'VHH': 2}] Envelopment polyprotein x6; 2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose; SFTSV Gn head; Glycoprotein N
+   AG50S_004 n=6 [{'VHH': 3, 'Fab': 3}] Envelope glycoprotein x2; Envelope glycoprotein GP1 x2; Envelope glycoprotein 2; Virion spike glycoprotein GP1
+   AG50S_005 n=6 [{'Fab': 5, 'VHH': 1}] Secreted protein ORF2 x3; Pro-secreted protein ORF2 x2; Capsid protein
+   AG50S_006 n=6 [{'Fab': 6}] Neuraminidase x5; beta-D-mannopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG50S_007 n=5 [{'Fab': 5}] Capsid protein VP1 x2; Genome polyprotein x2; Capsid protein VP2
+   AG50S_008 n=5 [{'Fab': 5}] Envelope glycoprotein gp120; HIV-1 BG505 SOSIP gp120,Envelope glycoprotein gp120; Envelope glycoprotein gp41; CH848 DE3 SOSIP gp120; CH505.M5 SOSIP gp120
+   AG50S_009 n=4 [{'Fab': 4}] Hemagglutinin x4
+   AG50S_010 n=4 [{'Fab': 4}] 2-acetamido-2-deoxy-beta-D-glucopyranose x2; Envelope glycoprotein E2; 2-acetamido-2-deoxy-beta-D-glucopyranose-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG50S_011 n=4 [{'Fab': 4}] Neuraminidase x3; 2-acetamido-2-deoxy-beta-D-glucopyranose
+   AG50S_012 n=4 [{'Fab': 3, 'VHH': 1}] Spike protein S1 x2; SARS XBB.1.5 Spike; 4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
+   AG50S_013 n=3 [{'VHH': 1, 'Fab': 2}] VP1 x2; Major capsid protein VP1
+   AG50S_014 n=3 [{'Fab': 2, 'VHH': 1}] Circumsporozoite protein x3
+   AG50S_015 n=3 [{'Fab': 3}] HLA class II histocompatibility antigen, DQ beta 1 chain; Lymphocyte antigen; HLA class II histocompatibility antigen DQ beta chain
